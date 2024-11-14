@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00929.txt">
-  <feature name="about" authors="Altsheler, Joseph Alexander" title="The Masters of the Peaks A Story of the Great North Woods" lang="en" />
-  <feature name="md5Hash" value="bdd843011ca0149c3625a26b4934ad15" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="285657" this_length="16148" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="410007" this_length="1404" />
-</document>
-

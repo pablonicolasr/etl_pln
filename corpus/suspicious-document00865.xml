@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00865.txt">
-  <feature name="about" authors="Parker, Gilbert" title="A Lover's Diary, Complete" lang="en" />
-  <feature name="md5Hash" value="7d84af5513c0b010b711b83f00b8ae02" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="28075" this_length="2580" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="53097" this_length="273" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="65085" this_length="917" />
-</document>
-

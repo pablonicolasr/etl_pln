@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01640.txt">
-  <feature name="about" authors="Trollope, Anthony" title="Framley Parsonage" lang="en" />
-  <feature name="md5Hash" value="cf3f8966d104d686ab243a78293c3268" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="10207" this_length="723" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="30619" this_length="512" />
-</document>
-

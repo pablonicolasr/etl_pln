@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00997.txt">
-  <feature name="about" authors="Seaton, Robert Cooper" title="Six Letters From the Colonies" lang="en" />
-  <feature name="md5Hash" value="4b1653770ee1633ac5bc7d4f492c39b1" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2859" this_length="255" />
-</document>
-

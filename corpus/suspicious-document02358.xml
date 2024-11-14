@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document02358.txt">
-  <feature name="about" authors="Sterndale, Robert Armitage" title="Natural History of the Mammalia of India and Ceylon" lang="en" />
-  <feature name="md5Hash" value="9f67aca61b896e9b21f604addce3e282" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="9639" this_length="1500" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="33927" this_length="217" />
-</document>
-

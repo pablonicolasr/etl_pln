@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00870.txt">
-  <feature name="about" authors="Hilton, Warren" title="Initiative Psychic Energy Being the Sixth of a Series of Twelve Volumes on the Applications of Psychology to the Problems of Personal and Business Efficiency" lang="en" />
-  <feature name="md5Hash" value="c8e36c3f705a9f2dbb89c70617729a37" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="11256" this_length="3651" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="49314" this_length="242" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="50976" this_length="243" />
-</document>
-

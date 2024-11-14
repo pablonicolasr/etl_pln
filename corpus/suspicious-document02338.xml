@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document02338.txt">
-  <feature name="about" authors="Deland, Margaret Wade Campbell" title="The Voice" lang="en" />
-  <feature name="md5Hash" value="4d6391449c7c77dddc2c37e4fac70f89" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6053" this_length="1506" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="51701" this_length="815" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="64908" this_length="241" />
-</document>
-

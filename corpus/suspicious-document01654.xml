@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01654.txt">
-  <feature name="about" authors="Smedley, Frank E." title="Frank Fairlegh Scenes From The Life Of A Private Pupil" lang="en" />
-  <feature name="md5Hash" value="42a607235bca803b1b91a8497ca084c7" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="10217" this_length="528" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15568" this_length="249" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="24496" this_length="523" />
-</document>
-

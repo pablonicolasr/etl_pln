@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01469.txt">
-  <feature name="about" authors="Vose, George Leonard" title="Bridge Disasters in America The Cause and the Remedy" lang="en" />
-  <feature name="md5Hash" value="652db64a3cd5a3774ec75811f411356a" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3431" this_length="1473" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16718" this_length="271" />
-</document>
-

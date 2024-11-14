@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document02363.txt">
-  <feature name="about" authors="Tyler, James Endell" title="Henry of Monmouth, Volume 1 Memoirs of Henry the Fifth" lang="en" />
-  <feature name="md5Hash" value="a84cb3351c9e936e9468d4ac7e9aa494" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2973" this_length="2621" />
-</document>
-

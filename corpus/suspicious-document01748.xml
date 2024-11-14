@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01748.txt">
-  <feature name="about" authors="Twain, Mark" title="Editorial Wild Oats" lang="en" />
-  <feature name="md5Hash" value="efbd49d4ddec073e512a774d71cc9899" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1801" this_length="465" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5697" this_length="730" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8830" this_length="269" />
-</document>
-

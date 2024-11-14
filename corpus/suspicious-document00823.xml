@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00823.txt">
-  <feature name="about" authors="Sanford, Arthur Benton" title="An Easter Disciple The Chronicle of Quintus, the Roman Knight" lang="en" />
-  <feature name="md5Hash" value="033cf7b2d7e7d3f61749f2da37b7495d" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="18315" this_length="2002" />
-</document>
-

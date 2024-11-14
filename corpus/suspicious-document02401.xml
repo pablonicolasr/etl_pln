@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document02401.txt">
-  <feature name="about" authors="Yonge, Charlotte Mary" title="The Young Step-Mother" lang="en" />
-  <feature name="md5Hash" value="de7a3a6b59488c448797d23a5c46a7d8" />
-  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="311" this_length="653" />
-</document>
-

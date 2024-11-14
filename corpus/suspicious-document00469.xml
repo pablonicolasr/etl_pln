@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00469.txt">
-  <feature name="about" authors="Hall, Mordaunt" title="Some Naval Yarns" lang="en" />
-  <feature name="md5Hash" value="e58fbfd983e2e48222809fd21721091a" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="84623" this_length="4220" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="106763" this_length="759" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="117199" this_length="229" />
-</document>
-

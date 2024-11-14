@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00498.txt">
-  <feature name="about" authors="Laughlin, Clara Elizabeth" title="Everybody's Lonesome A True Fairy Story" lang="en" />
-  <feature name="md5Hash" value="f8600e0169409a8b02a0e4793d6280ab" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7461" this_length="1498" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="54043" this_length="1554" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="77442" this_length="256" />
-</document>
-

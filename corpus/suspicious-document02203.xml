@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document02203.txt">
-  <feature name="about" authors="Twain, Mark" title="The Prince and the Pauper, Part 1." lang="en" />
-  <feature name="md5Hash" value="9b041b5d89f7c52268abb5450132780e" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="18973" this_length="1786" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="31774" this_length="769" />
-</document>
-

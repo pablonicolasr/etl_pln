@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00730.txt">
-  <feature name="about" authors="Sharpe, Reginald Robinson" title="London and the Kingdom - Volume II" lang="en" />
-  <feature name="md5Hash" value="a7cf0c4d531dd02963df9be9a3b4b924" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8099" this_length="496" />
-</document>
-

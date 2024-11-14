@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01250.txt">
-  <feature name="about" authors="Peel, W. H." title="Round Games with Cards A Practical Treatise on All the Most Popular Games, with Their Different Variations, and Hints for Their Practice" lang="en" />
-  <feature name="md5Hash" value="6c80e497f9bbc15a1ef55f73085c7633" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6025" this_length="3101" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="112178" this_length="2261" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="168677" this_length="2036" />
-</document>
-

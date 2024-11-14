@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00673.txt">
-  <feature name="about" authors="Spargo, John" title="The Jew and American Ideals" lang="en" />
-  <feature name="md5Hash" value="ad1f07cd7ef18dd8e8f551ef3c8a5f83" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2593" this_length="516" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="11590" this_length="460" />
-</document>
-

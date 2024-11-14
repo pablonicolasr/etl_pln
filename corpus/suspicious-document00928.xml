@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00928.txt">
-  <feature name="about" authors="Verne, Jules" title="The Master of the World" lang="en" />
-  <feature name="md5Hash" value="6d9452cb971587ba7ce8d3b38ca6dec0" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="35200" this_length="4374" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="149994" this_length="4774" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="239704" this_length="254" />
-</document>
-

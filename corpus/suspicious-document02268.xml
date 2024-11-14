@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document02268.txt">
-  <feature name="about" authors="Dickens, Charles" title="Sunday under Three Heads" lang="en" />
-  <feature name="md5Hash" value="687c7f976c00e0e952d87b00ee29f9f2" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7833" this_length="2464" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="57287" this_length="483" />
-</document>
-

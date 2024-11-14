@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01385.txt">
-  <feature name="about" authors="Roe, Edward Payson" title="Barriers Burned Away" lang="en" />
-  <feature name="md5Hash" value="173d807f29a39fa68c625f12b47a646e" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="9150" this_length="4904" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16809" this_length="2793" />
-</document>
-

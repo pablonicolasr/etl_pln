@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01067.txt">
-  <feature name="about" authors="Hawthorne, Nathaniel" title="An Old Woman's Tale (From: &quot;The Doliver Romance and Other Pieces: Tales and Sketches&quot;)" lang="en" />
-  <feature name="md5Hash" value="91a3d33ca202cee291ee3ac118f11626" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5904" this_length="453" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15092" this_length="242" />
-</document>
-

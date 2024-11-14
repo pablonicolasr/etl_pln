@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00927.txt">
-  <feature name="about" authors="Wilde, Oscar" title="Lord Arthur Savile's Crime and Other Stories" lang="en" />
-  <feature name="md5Hash" value="3b2bc8f048ee04cce0832b6008d1fb9c" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7308" this_length="500" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="13674" this_length="259" />
-</document>
-

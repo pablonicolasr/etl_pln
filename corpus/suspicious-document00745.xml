@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00745.txt">
-  <feature name="about" authors="Warner, Charles Dudley" title="Being a Boy" lang="en" />
-  <feature name="md5Hash" value="d1a00ca78f50334737e9c6dff5e19000" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2656" this_length="450" />
-</document>
-

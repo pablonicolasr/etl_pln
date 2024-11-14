@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01396.txt">
-  <feature name="about" authors="Hilton, Warren" title="Applied Psychology: Making Your Own World Being the Second of a Series of Twelve Volumes on the Applications of Psychology to the Problems of Personal and Business Efficiency" lang="en" />
-  <feature name="md5Hash" value="7a0d1b98d2f3b1ed1e4312b52fabcd8a" />
-  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1940" this_length="221" />
-  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="5837" this_length="2294" />
-  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="30914" this_length="1470" />
-</document>
-

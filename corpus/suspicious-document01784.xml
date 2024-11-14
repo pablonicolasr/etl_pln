@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01784.txt">
-  <feature name="about" authors="Taine, Hippolyte" title="The French Revolution - Volume 3" lang="en" />
-  <feature name="md5Hash" value="6134c00d1a4bfcc1fbba5efc2494175c" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7604" this_length="488" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="14648" this_length="488" />
-</document>
-

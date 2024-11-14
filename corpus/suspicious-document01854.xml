@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01854.txt">
-  <feature name="about" authors="Browne, E. Gordon" title="Queen Victoria" lang="en" />
-  <feature name="md5Hash" value="358893799bcbb0315cae769600f63ec9" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="63845" this_length="15905" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="180623" this_length="276" />
-</document>
-

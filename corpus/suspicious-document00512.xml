@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00512.txt">
-  <feature name="about" authors="Sienkiewicz, Henryk" title="Without Dogma" lang="en" />
-  <feature name="md5Hash" value="9087c135b31a42691c44432c2f4195c2" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2867" this_length="246" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="12331" this_length="466" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22229" this_length="462" />
-</document>
-

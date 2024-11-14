@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00250.txt">
-  <feature name="about" authors="Harte, Bret" title="A Drift from Redwood Park" lang="en" />
-  <feature name="md5Hash" value="ac78abe91ceed5ab0fb7e4f4f47d1dea" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6405" this_length="1750" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="39696" this_length="243" />
-</document>
-

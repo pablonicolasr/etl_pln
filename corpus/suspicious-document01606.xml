@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01606.txt">
-  <feature name="about" authors="Sylvester, Charles Herbert" title="Journeys Through Bookland, Vol. 6" lang="en" />
-  <feature name="md5Hash" value="d863f87f7d9a0e794c5d883710c39a2d" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4569" this_length="1782" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="30270" this_length="703" />
-</document>
-

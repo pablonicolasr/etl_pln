@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document02381.txt">
-  <feature name="about" authors="Seignobos, Charles" title="History Of Ancient Civilization" lang="en" />
-  <feature name="md5Hash" value="749e8ffa04620f0a8b35f20d1bf58c8c" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1570" this_length="3475" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="25937" this_length="247" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="27225" this_length="1811" />
-</document>
-

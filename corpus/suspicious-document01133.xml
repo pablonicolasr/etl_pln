@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01133.txt">
-  <feature name="about" authors="Barr, Amelia Edith Huddleston" title="Remember the Alamo" lang="en" />
-  <feature name="md5Hash" value="6e34038b978c98b599a6f1616b5f76" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16467" this_length="1950" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="60111" this_length="15359" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="434417" this_length="770" />
-</document>
-

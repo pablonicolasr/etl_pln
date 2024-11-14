@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01921.txt">
-  <feature name="about" authors="Courtenay, Calista McCabe" title="George Washington" lang="en" />
-  <feature name="md5Hash" value="a5ffec25e050551a41eeb33abe17b4a7" />
-  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="30784" this_length="3541" />
-  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="107986" this_length="1566" />
-</document>
-

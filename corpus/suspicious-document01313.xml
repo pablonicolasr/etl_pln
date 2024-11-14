@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01313.txt">
-  <feature name="about" authors="Trollope, Anthony" title="Aaron Trow" lang="en" />
-  <feature name="md5Hash" value="4699080df8d976af3219f70d5e3269fe" />
-  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="409" this_length="695" />
-  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2072" this_length="510" />
-  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3156" this_length="237" />
-</document>
-

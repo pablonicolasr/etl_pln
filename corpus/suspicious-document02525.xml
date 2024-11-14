@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document02525.txt">
-  <feature name="about" authors="Wright, John Dutton" title="What the Mother of a Deaf Child Ought to Know" lang="en" />
-  <feature name="md5Hash" value="6294c59028dc2ff8ad8ec67bbe90e73d" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="19205" this_length="1698" />
-</document>
-

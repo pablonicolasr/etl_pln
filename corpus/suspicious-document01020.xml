@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01020.txt">
-  <feature name="about" authors="Trollope, Anthony" title="The Macdermots of Ballycloran" lang="en" />
-  <feature name="md5Hash" value="91ac6a46327906bd25d994d1afcd474f" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1113" this_length="232" />
-</document>
-

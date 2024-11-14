@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01190.txt">
-  <feature name="about" authors="Woodworth, Francis Channing" title="The Diving Bell Or, Pearls to be Sought for" lang="en" />
-  <feature name="md5Hash" value="43bfa013385c01df877c212f594a4b66" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2441" this_length="248" />
-</document>
-

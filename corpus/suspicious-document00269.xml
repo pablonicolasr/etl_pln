@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00269.txt">
-  <feature name="about" authors="Watts, Susannah" title="A Walk through Leicester being a Guide to Strangers" lang="en" />
-  <feature name="md5Hash" value="921f5d22137fd0e8da4af16830eb306d" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2221" this_length="743" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7976" this_length="743" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="9546" this_length="266" />
-</document>
-

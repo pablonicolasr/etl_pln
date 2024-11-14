@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document02276.txt">
-  <feature name="about" authors="Stoker, Bram" title="The Man" lang="en" />
-  <feature name="md5Hash" value="a473e3384865b9dd02881d9a95b222ad" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2761" this_length="488" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22837" this_length="1477" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="28206" this_length="244" />
-</document>
-

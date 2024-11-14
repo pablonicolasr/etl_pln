@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01917.txt">
-  <feature name="about" authors="Craik, Dinah Maria Mulock" title="The Laurel Bush" lang="en" />
-  <feature name="md5Hash" value="d46ea107f12bba01c533651b1e736384" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5531" this_length="3056" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="118234" this_length="2688" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="140046" this_length="2637" />
-</document>
-

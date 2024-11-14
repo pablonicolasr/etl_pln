@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01082.txt">
-  <feature name="about" authors="Zangwill, Israel" title="Dreamers of the Ghetto" lang="en" />
-  <feature name="md5Hash" value="f53f4878d98571597a9e6718844f50c1" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5359" this_length="499" />
-</document>
-

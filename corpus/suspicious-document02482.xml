@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document02482.txt">
-  <feature name="about" authors="Henshaw, Henry Wetherbee" title="Animal Carvings from Mounds of the Mississippi Valley Second Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1880-81, Government Printing Office, Washington, 1883, pages 117-166" lang="en" />
-  <feature name="md5Hash" value="1ec280af3a92eb4748994408b13c7169" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="38598" this_length="4150" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="97375" this_length="246" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="101480" this_length="259" />
-</document>
-

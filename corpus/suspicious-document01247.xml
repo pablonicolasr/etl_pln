@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01247.txt">
-  <feature name="about" authors="Suetonius Tranquillus, Gaius" title="The Lives of the Twelve Caesars, Volume 05: Claudius" lang="en" />
-  <feature name="md5Hash" value="df28bca9c07af3d9284189560742985b" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1340" this_length="758" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6281" this_length="1718" />
-</document>
-

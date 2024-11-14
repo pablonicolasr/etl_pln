@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00821.txt">
-  <feature name="about" authors="Taylor, Bayard" title="Who Was She? From &quot;The Atlantic Monthly&quot; for September, 1874" lang="en" />
-  <feature name="md5Hash" value="f3cf02b9feffa017ceec354634af050d" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="23851" this_length="3494" />
-</document>
-

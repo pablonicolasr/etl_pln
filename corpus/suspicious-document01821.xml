@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01821.txt">
-  <feature name="about" authors="Baum, Lyman Frank" title="A Kidnapped Santa Claus" lang="en" />
-  <feature name="md5Hash" value="452730e4f803a47ce3abc55a6107bf46" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2707" this_length="1524" />
-</document>
-

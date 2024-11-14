@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document02487.txt">
-  <feature name="about" authors="Verne, Jules" title="Off on a Comet! a Journey through Planetary Space" lang="en" />
-  <feature name="md5Hash" value="82cb09aa0cd3bfa05284526cafbd19ba" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3320" this_length="1897" />
-</document>
-

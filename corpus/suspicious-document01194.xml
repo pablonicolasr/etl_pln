@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01194.txt">
-  <feature name="about" authors="Savage, Richard" title="A Fascinating Traitor An Anglo-Indian Story" lang="en" />
-  <feature name="md5Hash" value="3693ac750476982d2274791a984c1051" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="191" this_length="247" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2740" this_length="260" />
-</document>
-

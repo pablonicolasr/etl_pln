@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01982.txt">
-  <feature name="about" authors="Jerome, Jerome Klapka" title="The Philosopher's Joke" lang="en" />
-  <feature name="md5Hash" value="75970fbec7731454cc2f36c1733d477a" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8228" this_length="3741" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="28784" this_length="2216" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="35166" this_length="228" />
-</document>
-

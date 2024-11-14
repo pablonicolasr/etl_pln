@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00343.txt">
-  <feature name="about" authors="Stevenson, Robert Louis" title="Letters of Robert Louis Stevenson — Volume 2" lang="en" />
-  <feature name="md5Hash" value="c67ae7c7b15f93a4b42a9291e43519c0" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1509" this_length="505" />
-</document>
-

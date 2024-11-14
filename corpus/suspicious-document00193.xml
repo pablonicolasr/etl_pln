@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00193.txt">
-  <feature name="about" authors="Crothers, Samuel McChord" title="Humanly Speaking" lang="en" />
-  <feature name="md5Hash" value="ebf94b0b741f046df2919967b112a199" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="49389" this_length="15190" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="166417" this_length="19551" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="245622" this_length="282" />
-</document>
-

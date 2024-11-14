@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01403.txt">
-  <feature name="about" authors="Suetonius Tranquillus, Gaius" title="The Lives of the Twelve Caesars, Volume 13: Grammarians and Rhetoricians" lang="en" />
-  <feature name="md5Hash" value="13b96eaa47831a506a4bf9dc437ae2b7" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8910" this_length="1730" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16650" this_length="802" />
-</document>
-

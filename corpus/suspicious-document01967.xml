@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01967.txt">
-  <feature name="about" authors="Tooker, William Wallace" title="John Eliot's First Indian Teacher and Interpreter Cockenoe-de-Long Island and The Story of His Career from the Early Records" lang="en" />
-  <feature name="md5Hash" value="83b4e262a5419a73a8d54a4b4c05bead" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1382" this_length="230" />
-</document>
-

@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00612.txt">
-  <feature name="about" authors="Sanchez, Nellie Van de Grift" title="The Life of Mrs. Robert Louis Stevenson" lang="en" />
-  <feature name="md5Hash" value="ac4050dc1944d93d8a8c93f367c5ab77" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="17554" this_length="4548" />
-</document>
-

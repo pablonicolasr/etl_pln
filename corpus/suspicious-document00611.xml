@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00611.txt">
-  <feature name="about" authors="Otis, James" title="A District Messenger Boy and a Necktie Party" lang="en" />
-  <feature name="md5Hash" value="4b755c8f04924e10db57c17306b207bc" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="31165" this_length="2018" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="85412" this_length="1565" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="98739" this_length="549" />
-</document>
-

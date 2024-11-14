@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00722.txt">
-  <feature name="about" authors="Iles, George" title="Little Masterpieces of Autobiography: Actors" lang="en" />
-  <feature name="md5Hash" value="43ebb16eff86b271a8261cdc29b70669" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="84804" this_length="20810" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="225178" this_length="230" />
-</document>
-

@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01070.txt">
-  <feature name="about" authors="Verne, Jules" title="All Around the Moon" lang="en" />
-  <feature name="md5Hash" value="6a876128114b4f81721cada5bd29c805" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1348" this_length="232" />
-</document>
-

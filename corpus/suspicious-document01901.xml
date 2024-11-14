@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01901.txt">
-  <feature name="about" authors="Saltus, Edgar" title="The Lords of the Ghostland A History of the Ideal" lang="en" />
-  <feature name="md5Hash" value="97c1cfe279d3cd957adc50dbc2f5028a" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3742" this_length="234" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="14599" this_length="244" />
-</document>
-

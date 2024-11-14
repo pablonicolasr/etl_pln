@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01610.txt">
-  <feature name="about" authors="Rossetti, Lucy Madox Brown" title="Mrs. Shelley" lang="en" />
-  <feature name="md5Hash" value="cba257a11272ce733c4a638a05b6af3e" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="41433" this_length="16063" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="277255" this_length="18021" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="368163" this_length="3175" />
-</document>
-

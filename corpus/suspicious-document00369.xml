@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00369.txt">
-  <feature name="about" authors="Savage, Richard" title="The Little Lady of Lagunitas A Franco-Californian Romance" lang="en" />
-  <feature name="md5Hash" value="d85d5a18a06304de6b43b5d2f9c4347f" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="79521" this_length="20990" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="267652" this_length="19000" />
-</document>
-

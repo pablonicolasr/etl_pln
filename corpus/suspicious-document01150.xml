@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01150.txt">
-  <feature name="about" authors="Stebbing, William" title="Sir Walter Ralegh A Biography" lang="en" />
-  <feature name="md5Hash" value="e3a245db3b76925846ef77ce3f53edb1" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6508" this_length="257" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="12293" this_length="249" />
-</document>
-

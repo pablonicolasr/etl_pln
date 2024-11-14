@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document02455.txt">
-  <feature name="about" authors="Whyte, Alexander" title="Jacob Behmen an appreciation" lang="en" />
-  <feature name="md5Hash" value="01001b96d3c0c87a9b291596e682ca70" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22828" this_length="2814" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="30424" this_length="690" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="36919" this_length="248" />
-</document>
-

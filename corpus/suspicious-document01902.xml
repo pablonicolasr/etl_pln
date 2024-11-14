@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01902.txt">
-  <feature name="about" authors="Swedenborg, Emanuel" title="The Gist of Swedenborg" lang="en" />
-  <feature name="md5Hash" value="52ace0d44a17a486f468b5d51662f266" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5222" this_length="1491" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="13706" this_length="2609" />
-</document>
-

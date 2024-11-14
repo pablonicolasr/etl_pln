@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00062.txt">
-  <feature name="about" authors="Young, Samual Hall" title="Alaska Days with John Muir" lang="en" />
-  <feature name="md5Hash" value="0ac19ed31c88de0a3250c6f87833ef25" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2955" this_length="471" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6490" this_length="491" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="14657" this_length="235" />
-</document>
-

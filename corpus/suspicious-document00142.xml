@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00142.txt">
-  <feature name="about" authors="Borrow, George Henry" title="A Supplementary Chapter to the Bible in Spain" lang="en" />
-  <feature name="md5Hash" value="6634fa39fd4da1fb7b50aef87ff10162" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="18727" this_length="2486" />
-</document>
-

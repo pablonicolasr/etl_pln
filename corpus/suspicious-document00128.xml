@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00128.txt">
-  <feature name="about" authors="Bangs, John Kendrick" title="A Rebellious Heroine" lang="en" />
-  <feature name="md5Hash" value="bf5d773b5d3bb2d4fa790f55f30e4dad" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="67750" this_length="3992" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="129211" this_length="2506" />
-</document>
-

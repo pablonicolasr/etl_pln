@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01367.txt">
-  <feature name="about" authors="Wisthaler, Johanna S." title="By Water to the Columbian Exposition" lang="en" />
-  <feature name="md5Hash" value="c23d5700f4ef7cca0c8c52628ed5b47e" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3313" this_length="467" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6806" this_length="490" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="12534" this_length="729" />
-</document>
-

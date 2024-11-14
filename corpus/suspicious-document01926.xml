@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01926.txt">
-  <feature name="about" authors="Wright, Harold Bell" title="The Calling of Dan Matthews" lang="en" />
-  <feature name="md5Hash" value="60574fd9316181f83fd87bde3e38dc7b" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="37746" this_length="21803" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="147078" this_length="764" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="150639" this_length="470" />
-</document>
-

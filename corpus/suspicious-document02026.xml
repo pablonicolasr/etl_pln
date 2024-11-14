@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document02026.txt">
-  <feature name="about" authors="Viebig, Clara" title="Absolution" lang="en" />
-  <feature name="md5Hash" value="eb3c2e94216771370eb3930cac00da8f" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3108" this_length="247" />
-</document>
-

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00479.txt">
-  <feature name="about" authors="Cervantes Saavedra, Miguel de" title="The History of Don Quixote, Volume 2, Part 22" lang="en" />
-  <feature name="md5Hash" value="c1ee87f8a2489b37c2c2ee034ff9cf1f" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4190" this_length="265" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="23344" this_length="1745" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="43221" this_length="478" />
-</document>
-

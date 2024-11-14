@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00860.txt">
-  <feature name="about" authors="Whitman, Walt" title="The Patriotic Poems of Walt Whitman" lang="en" />
-  <feature name="md5Hash" value="3db1c1a816fb94fa46c7a7492f8e1d33" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="21746" this_length="2788" />
-</document>
-

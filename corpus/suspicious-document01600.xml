@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01600.txt">
-  <feature name="about" authors="Wells, Herbert George" title="The New Machiavelli" lang="en" />
-  <feature name="md5Hash" value="be60c9025ed4b2266030c399a09a9adf" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3690" this_length="545" />
-</document>
-

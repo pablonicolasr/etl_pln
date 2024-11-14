@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00817.txt">
-  <feature name="about" authors="Jammes, Francis" title="Romance of the Rabbit" lang="en" />
-  <feature name="md5Hash" value="c488d21692ddacb90e60ba9e2a2e20ee" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="31703" this_length="22829" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="135535" this_length="267" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="137071" this_length="220" />
-</document>
-

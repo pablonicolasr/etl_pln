@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01213.txt">
-  <feature name="about" authors="Yeats, William Butler" title="Stories of Red Hanrahan" lang="en" />
-  <feature name="md5Hash" value="d85a10c59a658639666f8e51d34a7631" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1433" this_length="263" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5228" this_length="641" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="14361" this_length="726" />
-</document>
-

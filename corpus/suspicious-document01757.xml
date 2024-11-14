@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01757.txt">
-  <feature name="about" authors="Verne, Jules" title="Vingt mille lieues sous les mers. English - Twenty Thousand Leagues under the Sea" lang="en" />
-  <feature name="md5Hash" value="51ba2a59d07723ced79f65281d96437e" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="487" this_length="520" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="20901" this_length="683" />
-</document>
-

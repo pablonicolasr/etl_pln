@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document02458.txt">
-  <feature name="about" authors="Wells, Herbert George" title="The Time Machine" lang="en" />
-  <feature name="md5Hash" value="bc8275cbe8e878b87f8a0b6d3802ad42" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1449" this_length="242" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5770" this_length="490" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="10662" this_length="270" />
-</document>
-

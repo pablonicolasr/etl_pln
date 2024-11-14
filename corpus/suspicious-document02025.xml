@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document02025.txt">
-  <feature name="about" authors="Howells, William Dean" title="Oliver Wendell Holmes (from Literary Friends and Acquaintance)" lang="en" />
-  <feature name="md5Hash" value="cb5aa5392951a82ce3aad56b2f2b6759" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6010" this_length="755" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="21562" this_length="1776" />
-</document>
-

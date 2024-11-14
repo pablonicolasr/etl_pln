@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00771.txt">
-  <feature name="about" authors="Fisher, Frederick Vining" title="The Transformation of Job A Tale of the High Sierras" lang="en" />
-  <feature name="md5Hash" value="f76c6cbb1a0efd7092b8dbdec7503eff" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="92234" this_length="21497" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="260568" this_length="3626" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="286286" this_length="3307" />
-</document>
-

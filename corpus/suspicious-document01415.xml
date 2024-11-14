@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01415.txt">
-  <feature name="about" authors="Slosson, Edwin E." title="Creative Chemistry Descriptive of Recent Achievements in the Chemical Industries" lang="en" />
-  <feature name="md5Hash" value="2609b028ff1ca6f0afd48cad9361d41f" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3570" this_length="493" />
-</document>
-

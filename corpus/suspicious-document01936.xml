@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01936.txt">
-  <feature name="about" authors="Saint-Simon, Louis de Rouvroy, duc de" title="Memoirs of Louis XIV and His Court and of the Regency — Volume 06" lang="en" />
-  <feature name="md5Hash" value="67aa0be11d9d4ce4598cd8775b5479b9" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="852" this_length="512" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8522" this_length="3316" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16800" this_length="478" />
-</document>
-

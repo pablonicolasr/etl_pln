@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01211.txt">
-  <feature name="about" authors="Friebe, Abby Frances" title="The Nomad of the Nine Lives" lang="en" />
-  <feature name="md5Hash" value="acff585eb093095c18eafb040cf808fd" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16344" this_length="1506" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="38074" this_length="230" />
-</document>
-

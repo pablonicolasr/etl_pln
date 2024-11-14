@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00977.txt">
-  <feature name="about" authors="McClung, Nellie L." title="The Black Creek Stopping-House" lang="en" />
-  <feature name="md5Hash" value="63cdf9a5d3191112328a9239f2ba086e" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="54127" this_length="4959" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="205480" this_length="3749" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="229168" this_length="490" />
-</document>
-

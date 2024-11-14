@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01221.txt">
-  <feature name="about" authors="Cullum, Ridgwell" title="The Story of the Foss River Ranch A Tale of the Northwest" lang="en" />
-  <feature name="md5Hash" value="5b92c0900c83fa2e2a16ee29d442fd2c" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="129422" this_length="20805" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="543824" this_length="727" />
-</document>
-

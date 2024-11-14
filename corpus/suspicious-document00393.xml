@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00393.txt">
-  <feature name="about" authors="Stephen, Leslie, Sir" title="The English Utilitarians, Volume II (of 3) James Mill" lang="en" />
-  <feature name="md5Hash" value="f0d907a3ca72e2033fdd0ab29987fb76" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="722" this_length="460" />
-</document>
-

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document02423.txt">
-  <feature name="about" authors="Strang, Herbert" title="In Clive's Command A Story of the Fight for India" lang="en" />
-  <feature name="md5Hash" value="88bbbca36f882c6b3f3a7c613a9e9b89" />
-  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="734" this_length="265" />
-  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1684" this_length="185" />
-  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5013" this_length="535" />
-</document>
-

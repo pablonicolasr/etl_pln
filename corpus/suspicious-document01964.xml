@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01964.txt">
-  <feature name="about" authors="Trotter, James M." title="Music and Some Highly Musical People" lang="en" />
-  <feature name="md5Hash" value="f757fa817140bc4d418d496f67a15c66" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="907" this_length="267" />
-</document>
-

@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01465.txt">
-  <feature name="about" authors="Yeats, William Butler" title="Rosa Alchemica" lang="en" />
-  <feature name="md5Hash" value="6353011b67ee80587f52bd81212426d3" />
-  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="7299" this_length="2211" />
-  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="13359" this_length="186" />
-</document>
-

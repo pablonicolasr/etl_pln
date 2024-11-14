@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00689.txt">
-  <feature name="about" authors="Wesley, Samuel" title="Epistle to a Friend Concerning Poetry (1700) and the Essay on Heroic Poetry (second edition, 1697)" lang="en" />
-  <feature name="md5Hash" value="db58e67ccbe200c0df1537076fc6045d" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7806" this_length="505" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="21450" this_length="749" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="28624" this_length="250" />
-</document>
-

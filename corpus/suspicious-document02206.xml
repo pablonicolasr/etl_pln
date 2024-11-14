@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document02206.txt">
-  <feature name="about" authors="Sinclair, Upton" title="The Profits of Religion" lang="en" />
-  <feature name="md5Hash" value="2d337de4aadff8a2fab0a75f084642a5" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7537" this_length="507" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="14758" this_length="467" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="21244" this_length="248" />
-</document>
-

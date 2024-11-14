@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00774.txt">
-  <feature name="about" authors="Suetonius Tranquillus, Gaius" title="The Lives of the Twelve Caesars, Volume 10: Vespasian" lang="en" />
-  <feature name="md5Hash" value="a36341363d03cd7b9034c6cb139f3dc2" />
-  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4407" this_length="1660" />
-  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="19995" this_length="1560" />
-</document>
-

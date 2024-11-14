@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01995.txt">
-  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="The Last of the Barons — Volume 10" lang="en" />
-  <feature name="md5Hash" value="208ea6b4df1e1695f4e304856addce46" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="53487" this_length="2703" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="66328" this_length="2721" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="133001" this_length="234" />
-</document>
-

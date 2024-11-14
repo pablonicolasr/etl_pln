@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01716.txt">
-  <feature name="about" authors="Vera, [pseud.]" title="The Doctor's Daughter" lang="en" />
-  <feature name="md5Hash" value="0b68d49a9cdef632544cce38b82e7ba1" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2765" this_length="248" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3977" this_length="254" />
-</document>
-

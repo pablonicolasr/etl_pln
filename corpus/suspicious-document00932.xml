@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00932.txt">
-  <feature name="about" authors="Stratton-Porter, Gene" title="Laddie; a true blue story" lang="en" />
-  <feature name="md5Hash" value="c5f6461fa1fc154afa8281609541bdb7" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="48738" this_length="3514" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="99342" this_length="262" />
-</document>
-

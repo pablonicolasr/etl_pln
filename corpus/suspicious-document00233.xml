@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00233.txt">
-  <feature name="about" authors="Terhune, Albert Payson" title="Further Adventures of Lad" lang="en" />
-  <feature name="md5Hash" value="a9968a93b8b23e8d51e7d9c0cf7543ab" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1562" this_length="511" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4857" this_length="490" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7057" this_length="240" />
-</document>
-

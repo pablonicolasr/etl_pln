@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00222.txt">
-  <feature name="about" authors="Vincent, Marvin Richardson" title="Amusement: A Force in Christian Training" lang="en" />
-  <feature name="md5Hash" value="715c26913f0037311713b29edd8f7fa9" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6508" this_length="1477" />
-</document>
-

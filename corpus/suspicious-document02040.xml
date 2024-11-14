@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document02040.txt">
-  <feature name="about" authors="Parker, Gilbert" title="Pierre and His People, [Tales of the Far North], Volume 4." lang="en" />
-  <feature name="md5Hash" value="d68043e0f588337519609a6bf41358de" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16391" this_length="1734" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="24873" this_length="5059" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="86328" this_length="1447" />
-</document>
-

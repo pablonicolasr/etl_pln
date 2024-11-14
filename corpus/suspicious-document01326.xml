@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01326.txt">
-  <feature name="about" authors="Trotter, I. Lilias" title="Parables of the Cross" lang="en" />
-  <feature name="md5Hash" value="95c501f3c827209ab2003a4e794fa90b" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="13101" this_length="746" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="19627" this_length="780" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="36168" this_length="489" />
-</document>
-

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00600.txt">
-  <feature name="about" authors="Banks, William" title="William Adolphus Turnpike" lang="en" />
-  <feature name="md5Hash" value="082918cd7d3618c0700ee3639c6d7c7d" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16444" this_length="2459" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="69604" this_length="18490" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="262466" this_length="547" />
-</document>
-

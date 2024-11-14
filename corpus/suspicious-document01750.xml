@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01750.txt">
-  <feature name="about" authors="Simms, William Gilmore" title="Confession, or, the Blind Heart; a Domestic Story" lang="en" />
-  <feature name="md5Hash" value="68af9fffc5ae5e526080f4cb1b0e82c4" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="9636" this_length="473" />
-</document>
-

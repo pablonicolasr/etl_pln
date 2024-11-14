@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00549.txt">
-  <feature name="about" authors="Sweeney, William Allison" title="History of the American Negro in the Great World War His Splendid Record in the Battle Zones of Europe; Including a Resume of His Past Services to his Country in the Wars of the Revolution, of 1812, the War of Rebellion, the Indian Wars on the Frontier, the Spanish-American War, and the Late Imbroglio With Mexico" lang="en" />
-  <feature name="md5Hash" value="025e3550863362484a50d46c72d4a8ce" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2692" this_length="263" />
-</document>
-

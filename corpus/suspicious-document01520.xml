@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01520.txt">
-  <feature name="about" authors="Kahn, Otto Hermann" title="Right Above Race" lang="en" />
-  <feature name="md5Hash" value="6e56a1235ed80c376978c282e0609fc8" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="41262" this_length="3653" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="127618" this_length="3154" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="150816" this_length="271" />
-</document>
-

@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01623.txt">
-  <feature name="about" authors="Spyri, Johanna" title="Veronica And Other Friends Two Stories For Children" lang="en" />
-  <feature name="md5Hash" value="7fa6fe0796a69d189348e40a8c4ff2e1" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6482" this_length="799" />
-</document>
-

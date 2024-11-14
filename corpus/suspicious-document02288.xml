@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document02288.txt">
-  <feature name="about" authors="Baker, Karle Wilson" title="The Garden of the Plynck" lang="en" />
-  <feature name="md5Hash" value="40e7ea37c6d5e118e1a81234d81d7d2a" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="26582" this_length="2973" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="179053" this_length="15335" />
-</document>
-
