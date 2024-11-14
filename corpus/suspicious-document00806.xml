@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00806.txt">
+  <feature name="about" authors="Meredith, George" title="Beauchamp's Career — Volume 3" lang="en" />
+  <feature name="md5Hash" value="3c49dc9e74f4c91f168003f4bdd7c069" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="11908" this_length="4003" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="39206" this_length="22540" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="114909" this_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="124010" this_length="3585" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="131670" this_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="135386" this_length="2378" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="143658" this_length="721" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="151703" this_length="3863" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="163116" this_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="166396" this_length="677" />
+</document>
+

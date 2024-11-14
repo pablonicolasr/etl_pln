@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01059.txt">
+  <feature name="about" authors="Williamson, Jack" title="Salvage in Space" lang="en" />
+  <feature name="md5Hash" value="0596a5164584a79e653abd2ba330fb05" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="715" this_length="537" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2169" this_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3098" this_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3464" this_length="274" />
+</document>
+

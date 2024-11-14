@@ -1,0 +1,345 @@
+﻿THE COMPOSITION OF
+
+INDIAN GEOGRAPHICAL NAMES,
+
+ILLUSTRATED FROM THE
+
+ALGONKIN LANGUAGES.
+
+BY J. HAMMOND TRUMBULL.
+
+PRESS OF CASE, LOCKWOOD & BRAINARD, Hartford, Conn.
+
+       *       *       *       *       *
+
+     2. A breve is represented by a ), e.g., [)a]
+
+     3. [n] represents a superscripted n (see Footnote 4).
+
+     4. [oo] represents an oo ligature (see Footnote 4.)]
+
+       *       *       *       *       *
+
+ON THE COMPOSITION OF
+
+INDIAN GEOGRAPHICAL NAMES. Whenever, by phonetic corruption or by change of circumstance, it
+loses its self-interpreting or self-defining power, it must be discarded from the language.
+"It requires tradition, society, and literature to maintain forms which can no longer be analyzed
+at once."[2] In our own language, such forms may hold their places by prescriptive right or
+force of custom, and names absolutely unmeaning, or applied without regard to their original
+meaning, are accepted by common consent as the distinguishing marks of persons and places.
+We call a man William or Charles, Jones or Brown,--or a town, New Lebanon, Cincinnati, Baton
+Rouge, or Big Bethel--just as we put a number on a policeman's badge or on a post-office box,
+or a trademark on an article of merchandise; and the number and the mark are as truly and in
+nearly the same sense proper names as the others are.
+
+[Footnote 1: Mill's Logic, B. I. ch. viii.]
+
+[Footnote 2: Max Müller, Science of Language, (1st Series,) p. 292.]
+
+Not that personal or proper names, in any language, were originally mere arbitrary sounds,
+devoid of meaning. The first James or the first Brown could, doubtless, have given as good
+a reason for his name as the first Abraham. But changes of language and lapse of time made
+the names independent of the reasons, and took from them all their significance. Patrick is
+not now, eo nomine, a 'patrician;' Bridget is not necessarily 'strong' or 'bright;' and in
+the name of Mary, hallowed by its associations, only the etymologist can detect the primitive
+'bitterness.' Boston is no longer 'St. Botolph's Town;' there is no 'Castle of the inhabitants
+of Hwiccia' (Hwic-wara-ceaster) to be seen at Worcester; and Hartford is neither 'the ford
+of harts,' (which the city seal has made it,) nor 'the red ford,' which its name once indicated.
+
+In the same way, many Indian geographical names, after their adoption by Anglo-American colonists,
+became unmeaning sounds. Their original character was lost by their transfer to a foreign tongue.
+Nearly all have suffered some mutilation or change of form. In many instances, hardly a trace
+of true original can be detected in the modern name. Some have been separated from the localities
+to which they belonged, and assigned to others to which they are etymologically inappropriate.
+A mountain receives the name of a river; a bay, that of a cape or a peninsula; a tract of land,
+that of a rock or a waterfall. And so 'Massachusetts' and 'Connecticut' and 'Narragansett'
+have come to be proper names, as truly as 'Boston' and 'Hartford' are in their cis-Atlantic
+appropriation.
+
+The Indian languages tolerated no such 'mere marks.' Every name described the locality to which
+it was affixed. The description was sometimes topographical; sometimes historical, preserving
+the memory of a battle, a feast, the dwelling-place of a great sachem, or the like; sometimes
+it indicated one of the natural products of the place, or the animals which resorted to it;
+occasionally, its position or direction from a place previously known, or from the territory
+of the nation by which the name was given,--as for example, 'the land on the other side of
+the river,' 'behind the mountain,' 'the east land,' 'the half-way place,' &c. The same name
+might be, in fact it very often was, given to more places than one; but these must not be so
+near together that mistakes or doubts could be occasioned by the repetition. With this precaution,
+there was no reason why there might not be as many 'Great Rivers,' 'Bends,' 'Forks,' and 'Water-fall
+places' as there are Washingtons, Franklins, Unions, and Fairplays in the list of American
+post-offices.
+
+With few exceptions, the structure of these names is simple. Nearly all may be referred to
+one of three classes:
+
+I. Those formed by the union of two elements, which we will call adjectival and substantival;[3]
+with or without a locative suffix or post-position meaning 'at,' 'in,' 'by,' 'near,' &c.
+
+[Footnote 3: These terms, though not strictly appropriate to Indian synthesis, are sufficiently
+explicit for the purposes of this paper. They are borrowed from the author of "Words and Places"
+(the Rev. Isaac Taylor), who has employed them (2d ed., p. 460) as equivalents of Förstemann's
+"Bestimmungswort" and "Grundwort," (Die deutschen Ortsnamen. Nordhausen, 1863, pp. 26-107,
+109-174). In Indian names, the "Bestimmungswort" sometimes corresponds to the English adjective--sometimes
+to a noun substantive--but is more generally an adverb.]
+
+II. Those which have a single element, the substantival or 'ground-word,' with its locative suffix.
+
+III. Those formed from verbs, as participials or verbal nouns, denoting a place where the action
+of the verb is performed. To this class belong, for example, such names as Mushauwomuk (Boston),
+'where there is going-by-boat,' i.e., a ferry, or canoe-crossing. Most of these names, however,
+may be shown by rigid analysis to belong to one of the two preceding classes, which comprise
+at least nine-tenths of all Algonkin local names which have been preserved.
+
+The examples I shall give of these three classes, will be taken from Algonkin languages; chiefly
+from the Massachusetts or Natick (which was substantially the same as that spoken by the Narragansetts
+and Connecticut Indians), the Abnaki, the Lenni-Lenâpe or Delaware, the Chippewa or Ojibway,
+and the Knisteno or Cree.[4]
+
+[Footnote 4: It has not been thought advisable to attempt the reduction of words or names taken
+from different languages to a uniform orthography. When no authorities are named, it may be
+understood that the Massachusetts words are taken from Eliot's translation of the Bible, or
+from his Indian Grammar; the Narragansett, from Roger Williams's Indian Key, and his published
+letters; the Abnaki, from the Dictionary of Râle (Rasles), edited by Dr. Pickering; the Delaware,
+from Zeisberger's Vocabulary and his Grammar; the Chippewa, from Schoolcraft (Sch.), Baraga's
+Dictionary and Grammar (B.), and the Spelling Books published by the American Board of Commissioners
+of Foreign Missions; and the Cree, from Howse's Grammar of that language.
+
+The character [oo] (oo in 'food;' w in 'Wabash,' 'Wisconsin'), used by Eliot, has been substituted
+in Abnaki words for the Greek [Greek: ou ligature] of Râle and the Jesuit missionaries, and
+for the [Greek: omega] of Campanius. A small [n] placed above the line, shows that the vowel
+which it follows is nasal,--and replaces the ñ employed for the same purpose by Râle, and the
+short line or dash placed under a vowel, in Pickering's alphabet.
+
+In Eliot's notation, oh usually represents the sound of o in order and in form,--that of broad
+a; but sometimes it stands for short o, as in not.]
+
+       *       *       *       *       *
+
+Of names of the first class, in central and southern New England, some of the more common substantival
+components or 'ground-words' are those which denote Land or Country, River, Water, Lake or
+Pond, Fishing-place, Rock, Mountain, Inclosure, and Island.
+
+1. The Massachusetts OHKE (Narr. aûke; Delaware, hacki; Chip. ahke; Abnaki, 'ki;) signifies
+LAND, and in local names, PLACE or COUNTRY. The final vowel is sometimes lost in composition.
+With the locative suffix, it becomes ohkit (Del. hacking; Chip. ahki[n]; Abn. kik;) at or in
+a place or country.
+
+To the Narragansetts proper, the country east of Narragansett Bay and Providence River was
+wa[n]pan-auke, 'east land;' and its people were called by the Dutch explorers, Wapenokis, and
+by the English, Wampanoags. The tribes of the upper St. Lawrence taught the French, and tribes
+south of the Piscataqua taught the English, to give the name of East-landers--Abenaquis, or
+Abinakis--to the Indians of Maine. The country of the Delawares was 'east land,' Wapanachki,
+to Algonkin nations of the west.
+
+The 'Chawwonock,' or 'Chawonocke,' of Capt. John Smith,--on what is now known as Chowan River,
+in Virginia and North Carolina,--was, to the Powhattans and other Virginian tribes, the 'south
+country,' or sowan-ohke, as Eliot wrote it, in Gen. xxiv. 62.
+
+With the adjectival sucki, 'dark-colored,' 'blackish,' we have the aboriginal name of the South
+Meadow in Hartford,--sucki-ohke, (written Sicaiook, Suckiaug, &c.), 'black earth.'
+
+Wuskowhanan-auk-it, 'at the pigeon country,' was the name (as given by Roger Williams) of a
+"place where these fowl breed abundantly,"--in the northern part of the Nipmuck country (now
+in Worcester county, Mass.).
+
+'Kiskatamenakook,' the name of a brook (but originally, of some locality near the brook) in
+Catskill, N.Y.,[5] is kiskato-minak-auke, 'place of thin-shelled nuts' (or shag-bark hickory nuts).
+
+[Footnote 5: Doc. Hist. of New York (4to), vol. iii. p. 656.]
+
+2. RIVER. Seip or sepu (Del. sipo; Chip. s[=e]p[=e]; Abn. sip[oo];) the Algonkin word for 'river'
+is derived from a root that means 'stretched out,' 'extended,' 'become long,' and corresponds
+nearly to the English 'stream.' This word rarely, if ever, enters into the composition of local
+names, and, so far as I know, it does not make a part of the name of any river in New England.
+Mississippi is missi-sipu, 'great river;' Kitchi-sipi, 'chief river' or 'greatest river,' was
+the Montagnais name of the St. Lawrence;[6] and Miste-shipu is their modern name for the Moise
+or 'Great River' which flows from the lakes of the Labrador peninsula into the Gulf of St.
+Lawrence.[7]
+
+[Footnote 6: Jesuit Relations, 1633, 1636, 1640.]
+
+[Footnote 7: Hind's Exploration of Labrador, i. 9, 32.]
+
+Near the Atlantic seaboard, the most common substantival components of river names are (1)
+-tuk and (2) -hanne, -han, or -huan. Neither of these is an independent word. They are inseparable
+nouns-generic, or generic affixes.
+
+-TUK (Abn. -teg[oo]é; Del. -ittuk;) denotes a river whose waters are driven in waves, by tides
+or wind. It is found in names of tidal rivers and estuaries; less frequently, in names of broad
+and deep streams, not affected by tides. With the adjectival missi, 'great,' it forms missi-tuk,--now
+written Mystic,--the name of 'the great river' of Boston bay, and of another wide-mouthed tidal
+river in the Pequot country, which now divides the towns of Stonington and Groton.
+
+Near the eastern boundary of the Pequot country, was the river which the Narragansetts called
+Paquat-tuk, sometimes written Paquetock, now Pawcatuck, 'Pequot river,'--the present eastern
+boundary of Connecticut. Another adjectival prefix, pohki or pahke, 'pure,' 'clear,' found
+in the name of several tidal streams, is hardly distinguishable from the former, in the modern
+forms of Pacatock, Paucatuck, &c.
+
+Quinni-tuk is the 'long tidal-river.' With the locative affix, Quinni-tuk-ut, 'on long river,'--now
+Connecticut,--was the name of the valley, or lands both sides of the river. In one early deed
+(1636), I find the name written Quinetucquet; in another, of the same year, Quenticutt. Roger
+Williams (1643) has Qunnihticut, and calls the Indians of this region Quintik-óock, i.e. 'the
+long river people.' The c in the second syllable of the modern name has no business there,
+and it is difficult to find a reason for its intrusion.
+
+'Lenapewihittuck' was the Delaware name of 'the river of the Lenape,' and 'Mohicannittuck,'
+of 'the river of the Mohicans' (Hudson River).[8]
+
+[Footnote 8: Heckewelder's Historical account, &c., p. 33. He was mistaken in translating "the
+word hittuck," by "a rapid stream."]
+
+Of Pawtucket and Pawtuxet, the composition is less obvious; but we have reliable Indian testimony
+that these names mean, respectively, 'at the falls' and 'at the little falls.' Pequot and Narragansett
+interpreters, in 1679, declared that Blackstone's River, was "called in Indian Pautuck (which
+signifies, a Fall), because there the fresh water falls into the salt water."[9] So, the upper
+falls of the Quinebaug river (at Danielsonville, Conn.) were called "Powntuck, which is a general
+name for all Falls," as Indians of that region testified.[10] There was another Pautucket,
+'at the falls' of the Merrimac (now Lowell); and another on Westfield River, Mass. Pawtuxet,
+i.e. pau't-tuk-es-it, is the regularly formed diminutive of paut-tuk-it. The village of Pawtuxet,
+four miles south of Providence, R.I., is "at the little falls" of the river to which their
+name has been transferred. The first settlers of Plymouth were informed by Samoset, that the
+place which they had chosen for their plantation was called 'Patuxet,'--probably because of
+some 'little falls' on Town Brook.[11] There was another 'Pautuxet,' or 'Powtuxet,' on the
+Quinebaug, at the lower falls; and a river 'Patuxet' (Patuxent), in Maryland. Or have you stood
+on the mountain peak with the snows around you, and felt the grandeur of the unmoving nature
+that shows out God as well as the human spirit? Ah, if you have known any of these peaceful
+spots in life's desert, then you know how all-pervading is inspiration; how wondrous the beauty
+and the power of God shown forth in man and in the world; then you know, if you never knew it
+before, the truth of that great proclamation of Shrî Kṛiṣhṇa the Beloved: "Whatever is royal, good,
+beautiful, and mighty, understand thou that to go forth from My Splendour";[3] all is the reflection
+of that tejas[4] which is His and His alone. For as there is nought in the universe without His
+love and life, so there is no beauty that is not His beauty, that is not a ray of the illimitable
+splendour, one little beam from the unfailing source of life.
+
+[Footnote 3: Bhagavad-Gîtâ, x. 41.]
+
+[Footnote 4: Splendour, radiance.]
+
+SECOND LECTURE.
+
+BROTHERS:--You will remember that yesterday, in dividing the subject
+under different heads, I put down certain questions which we would
+take in order.
+
+We dealt yesterday with the question: "What is an Avatâra?" The second question that we are to try
+to answer, "What is the source of Avatâras?" is a question that leads us deep into the mysteries
+of the kosmos, and needs at least an outline of kosmic growth and
+evolution in order to give an intelligible answer.
+
+I hope to-day to be able also to deal with the succeeding question, "How does the need for Avatâras
+arise?" This will leave us for to-morrow the subject of the special Avatâras, and I shall endeavour,
+if possible, during to-morrow's discourse, to touch on nine of the Avatâras out of the ten
+recognised as standing out from all other manifestations of the Supreme. Then, if I am able to
+accomplish that task, we shall still have one morning left, and that I propose to give entirely
+to the study of the greatest of the Avatâras, the Lord Shrî Kṛiṣhṇa Himself, endeavouring, if possible,
+to mark out the great characteristics of His life and His work, and, it may be, to meet and answer
+some of the objections of the ignorant which, especially in these later days, have been levelled
+against Him by those who understand nothing of His nature, nothing of the mighty work He came
+to accomplish in the world.
+
+Now we are to begin to-day by seeking an answer to the question, "What is the source of Avatâras?"
+and it is likely that I am going to take a line of thought somewhat unfamiliar, carrying us, as
+it does, outside the ordinary lines of our study which deals more with the evolution of man,
+of the spiritual nature within him. It carries us to those far off times, almost incomprehensible
+to us, when our universe was coming into manifestation, when its very foundations, as it were,
+were being laid. In answering the question, however, the mere answer
+is simple. It is recognised in all religions admitting divine incarnations--and
+they include the great religions the world--it is admitted that the
+source of Avatâras, the source of the Divine incarnations, is the
+second or middle manifestation of the sacred Triad. It matters not
+whether with Hindus we speak of the Trimûrti, or whether with Christians
+we speak of the Trinity, the fundamental idea is one and the same. Râle translates ne-peské, "je vas dans le chemin qui
+en coupe un autre:" peskahak[oo]n, "branche."
+
+Piscataqua, Pascataqua, &c., represent the Abn. peské-teg[oo]é, 'divided tidal-river.' The
+word for 'place' (ohke, Abn. 'ki,) being added, gives the form Piscataquak or -quog. There
+is another Piscataway, in New Jersey,--not far below the junction of the north and south branches
+of the Raritan,--and a Piscataway river in Maryland, which empties into the Potomac; a Piscataquog
+river, tributary to the Merrimac, in New Hampshire; a Piscataquis (diminutive) in Maine, which
+empties into the Penobscot. Pasquotank, the name of an arm of Albemarle Sound and of a small
+river which flows into it, in North Carolina, has probably the same origin.
+
+The adjectival peské, or piské, is found in many other compound names besides those which are
+formed with -tuk or -hanne: as in Pascoag, for peské-auké, in Burrilville, R.I., 'the dividing
+place' of two branches of Blackstone's River; and Pesquamscot, in South Kingston, R.I., which
+(if the name is rightly given) is "at the divided (or cleft) rock,"--peské-ompsk-ut,--perhaps
+some ancient land-mark, on or near the margin of Worden's Pond.
+
+Nôeu-tuk (Nóahtuk, Eliot), 'in the middle of the river,' may be, as Mr. Judd[14] and others
+have supposed, the name which has been variously corrupted to Norwottock, Nonotuck, Noatucke,
+Nawottok, &c. If so, it probably belonged, originally to one of the necks or peninsulas of
+meadow, near Northampton,--such as that at Hockanum, which, by a change in the course of the
+river at that point, has now become an island.
+
+[Footnote 14: History of Hadley, pp. 121, 122.]
+
+Tetiquet or Titicut, which passes for the Indian name of Taunton, and of a fishing place on
+Taunton River in the north-west part of Middleborough, Mass., shows how effectually such names
+may be disguised by phonetic corruption and mutilation. Kehte-tuk-ut (or as Eliot wrote it
+in Genesis xv. 18, Kehteihtukqut) means 'on the great river.' In the Plymouth Colony Records
+we find the forms 'Cauteeticutt' and 'Coteticutt,' and elsewhere, Kehtehticut,--the latter,
+in 1698, as the name of a place on the great river, "between Taunton and Bridgewater." But it is
+more than history; the Avatâras acts out on the stage of the world
+a mighty drama.
+
+He is, as it were, a player on the world's stage, and He plays a
+definite drama, and that drama is an exposition of spiritual truth.
+
+ The other substantival component of river-names, -HANNE or -HAN (Abn. -ts[oo]a[n]n or
+-ta[n]n; Mass. -tchuan;) denotes 'a rapid stream' or 'current;' primarily, 'flowing water.'
+In the Massachusetts and Abnaki, it occurs in such compounds as anu-tchuan (Abn. ari'ts[oo]a[n]n),
+'it over-flows:' kussi-tchuan (Abn. kesi'ts[oo]a[n]n), 'it swift flows,' &c.
+
+In Pennsylvania and Virginia, where the streams which rise in the highlands flow down rapidly
+descending slopes, -hanné is more common than -tuk or sepu in river names. Keht-hanné (kittan,
+Zeisb.; kithanne, Hkw.) was a name given to the Delaware River as 'the principal or greatest
+stream' of that region: and by the western Delawares, to the Ohio.[16] With the locative termination,
+Kittanning (Penn.) is a place 'on the greatest stream.' The Schuylkill was Ganshow-hanné, 'noisy
+stream;' the Lackawanna, Lechau-hanné, 'forked stream' or 'stream that forks:'[17] with affix,
+Lechauhannak or Lechauwahannak, 'at the river-fork,'--for which Hendrick Aupamut, a Muhhekan,
+wrote (with dialectic exchange of n for Delaware l) 'Naukhuwwhnauk,' 'The Forks' of the Miami.[18]
+The same name is found in New England, disguised as Newichawanock, Nuchawanack, &c., as near
+Berwick, Me., 'at the fork' or confluence of Cocheco and Salmon Fall rivers,--the 'Neghechewanck'
+of Wood's Map (1634). Not only to teach a lesson for all time to kings and rulers, that if they
+would not govern aright they should not govern at all; but also to
+lay India open to the world.
+
+How strange that sounds! To lay her open to invasion? He who loved
+her to lay her open to conquest?
+
+He who had consecrated her, He who had hallowed her plains and forests by His treading, and
+whose voice had rung through her land? Aye, for He judges not as man judges, and He sees the end
+from the beginning. India as she was of old, kept isolated from all the world, was so kept that
+she might have the treasure of spiritual knowledge poured into her and make a vessel for the
+containing. But when you fill the vessel, you do not then put that
+vessel high away on a shelf, and leave men thirsting for the liquid
+that it contains. [or [oo]lakhanne[oo], as Eliot
+would have written it,] with the free translation, "a fine River, without Falls." The name
+was indeed more likely to belong to rivers 'without falls' or other obstruction to the passage
+of canoes, but its literal meaning is, as its composition shows, "best rapid-stream," or "finest
+rapid-stream;" "La Belle Riviere" of the French, and the Oue-yo´ or O hee´ yo Gä-hun´-dä, "good
+river" or "the beautiful river," of the Senecas.[20] For this translation of the name we have
+very respectable authority,--that of Christian Frederick Post, a Moravian of Pennsylvania,
+who lived seventeen years with the Muhhekan Indians and was twice married among them, and whose
+knowledge of the Indian languages enabled him to render important services to the colony, as
+a negotiator with the Delawares and Shawanese of the Ohio, in the French war. In his "Journal
+from Philadelphia to the Ohio" in 1758,[21] after mention of the 'Alleghenny' river, he says:
+"The Ohio, as it is called by the Sennecas. Alleghenny is the name of the same river in the
+Delaware language. Both words signify the fine or fair river." La Metairie, the notary of La
+Salle's expedition, "calls the Ohio, the Olighinsipou, or Aleghin; evidently an Algonkin name,"--as
+Dr. Shea remarks.[22] Heckewelder says that the Delawares "still call the Allegany (Ohio) river,
+Alligéwi Sipu,"--"the river of the Alligewi" as he chooses to translate it. In one form, we
+have wulik-hannésipu, 'best rapid-stream long-river;' in the other, wuliké-sipu, 'best long-river.'
+Heckewelder's derivation of the name, on the authority of a Delaware legend, from the mythic
+'Alligewi' or 'Talligewi,'--"a race of Indians said to have once inhabited that country," who,
+after great battles fought in pre-historic times, were driven from it by the all-conquering
+Delawares,[23]--is of no value, unless supported by other testimony. The identification of
+Alleghany with the Seneca "De o´ na gä no, cold water" [or, cold spring,[24]] proposed by a
+writer in the Historical Magazine (vol. iv. p. 184), though not apparent at first sight, might
+deserve consideration if there were any reason for believing the name of the river to be of
+Iroquois origin,--if it were probable that an Iroquois name would have been adopted by Algonkin
+nations,--or, if the word for 'water' or 'spring' could be made, in any American language,
+the substantival component of a river name.
+

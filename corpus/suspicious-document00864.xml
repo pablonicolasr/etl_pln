@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00864.txt">
+  <feature name="about" authors="Burnett, Frances Hodgson" title="Emily Fox-Seton Being &quot;The Making of a Marchioness&quot; and &quot;The Methods of Lady Walderhurst&quot;" lang="en" />
+  <feature name="md5Hash" value="587c939fe9a66c7285180d0df87e689e" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="100561" this_length="22313" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="180017" this_length="20411" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="255576" this_length="16991" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="348478" this_length="14277" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="418757" this_length="190" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="420095" this_length="1152" />
+</document>
+

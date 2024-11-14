@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02497.txt">
+  <feature name="about" authors="Orczy, Emmuska Orczy, Baroness" title="The Old Man in the Corner" lang="en" />
+  <feature name="md5Hash" value="9843f8bfe7bd1af3fbd475db4b1bcbe7" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="65836" this_length="15528" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="150119" this_length="13603" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="234530" this_length="15961" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="290715" this_length="2890" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="344919" this_length="13508" />
+</document>
+

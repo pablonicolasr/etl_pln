@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02034.txt">
+  <feature name="about" authors="Peabody, Andrew Preston" title="A Manual of Moral Philosophy" lang="en" />
+  <feature name="md5Hash" value="6b3558d59d67d6372c03bc51d5129055" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="42013" this_length="23691" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="247702" this_length="803" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="259971" this_length="3988" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="293015" this_length="794" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="301319" this_length="464" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="306266" this_length="519" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="325406" this_length="2227" />
+</document>
+

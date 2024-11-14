@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00392.txt">
+  <feature name="about" authors="Wilson, John Lyde" title="The Code of Honor, Or, Rules for the Government of Principals and Seconds in Duelling" lang="en" />
+  <feature name="md5Hash" value="197fd1de04e1e2b3ca675b3f1fabcbb4" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4833" this_length="501" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="12933" this_length="2028" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="33822" this_length="247" />
+</document>
+

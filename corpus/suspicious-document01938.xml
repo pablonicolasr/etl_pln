@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01938.txt">
+  <feature name="about" authors="Taylor, Bayard" title="Views a-foot" lang="en" />
+  <feature name="md5Hash" value="61fb094dd8ff3d3b4b6508986e38c460" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7112" this_length="540" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="34221" this_length="2024" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="64403" this_length="763" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="69162" this_length="240" />
+</document>
+

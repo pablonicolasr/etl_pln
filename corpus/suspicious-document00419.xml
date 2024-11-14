@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00419.txt">
+  <feature name="about" authors="Seton, Ernest Thompson" title="The Preacher of Cedar Mountain A Tale of the Open Country" lang="en" />
+  <feature name="md5Hash" value="01610ed1242a1767a4c8c8cd8ba72340" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="65996" this_length="4155" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="120503" this_length="1781" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="153257" this_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="157246" this_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="167006" this_length="512" />
+</document>
+

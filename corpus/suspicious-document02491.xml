@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02491.txt">
+  <feature name="about" authors="Rihani, Ameen Fares" title="The Book of Khalid" lang="en" />
+  <feature name="md5Hash" value="4fa0a11e429338b83566a4de6c0f2e2b" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="224593" this_length="19604" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="448699" this_length="3712" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="497280" this_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="503285" this_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="505170" this_length="273" />
+</document>
+

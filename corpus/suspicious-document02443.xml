@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02443.txt">
+  <feature name="about" authors="Aristotle" title="Categoriae. English - The Categories" lang="en" />
+  <feature name="md5Hash" value="7f9ad5817196fe45874fde514cb79d56" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5395" this_length="1435" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="35297" this_length="2217" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="53069" this_length="2735" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="69314" this_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="75066" this_length="515" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="79240" this_length="505" />
+</document>
+

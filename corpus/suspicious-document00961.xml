@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00961.txt">
+  <feature name="about" authors="Ward, Humphry, Mrs." title="The Case of Richard Meynell" lang="en" />
+  <feature name="md5Hash" value="862e5d66249102b494595f93e35055d0" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="28844" this_length="3043" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="55651" this_length="1670" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="60529" this_length="2462" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="110791" this_length="4343" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="154930" this_length="1457" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="193617" this_length="3095" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="207694" this_length="525" />
+</document>
+

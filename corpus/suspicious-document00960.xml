@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00960.txt">
+  <feature name="about" authors="Walk, Charles Edmonds" title="The Paternoster Ruby" lang="en" />
+  <feature name="md5Hash" value="5909e32949b9589483d8125b154740e4" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="23077" this_length="3048" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="167135" this_length="4958" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="280217" this_length="3779" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="315870" this_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="318933" this_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="325195" this_length="223" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="334151" this_length="268" />
+</document>
+

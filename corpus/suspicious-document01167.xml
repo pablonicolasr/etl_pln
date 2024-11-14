@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01167.txt">
+  <feature name="about" authors="Field, Eugene" title="A Little Book of Western Verse" lang="en" />
+  <feature name="md5Hash" value="addf90ae4838e86585e3eb4b945c07da" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="64097" this_length="16525" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="129009" this_length="3423" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="140258" this_length="1947" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="151755" this_length="752" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="155092" this_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="157539" this_length="283" />
+</document>
+

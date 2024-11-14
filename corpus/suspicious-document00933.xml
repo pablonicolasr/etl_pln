@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00933.txt">
+  <feature name="about" authors="Martin, William" title="The Book of Sports: Containing Out-door Sports, Amusements and Recreations, Including Gymnastics, Gardening &amp; Carpentering" lang="en" />
+  <feature name="md5Hash" value="e013aea3a43a562b39003d36d09ea195" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6416" this_length="498" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="44666" this_length="2241" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="84433" this_length="2899" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="160383" this_length="2237" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00665.txt">
+  <feature name="about" authors="Kinnear, John R." title="History of the Eighty-sixth Regiment, Illinois Volunteer Infantry, during its term of service" lang="en" />
+  <feature name="md5Hash" value="9e06b6b3bb757c4f5d169448ebe9c711" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="18856" this_length="2507" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="73578" this_length="5111" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="82107" this_length="748" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="120404" this_length="4688" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="163660" this_length="3964" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="205391" this_length="2835" />
+</document>
+

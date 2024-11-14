@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01060.txt">
+  <feature name="about" authors="Piper, H. Beam" title="Naudsonce" lang="en" />
+  <feature name="md5Hash" value="72b9ecb2e5b08b50cd5b596c304db0c1" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5561" this_length="800" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7952" this_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="33668" this_length="4009" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="50736" this_length="3078" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="81945" this_length="2491" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="94996" this_length="242" />
+</document>
+

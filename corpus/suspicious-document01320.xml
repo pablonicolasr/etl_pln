@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01320.txt">
+  <feature name="about" authors="Waters, Clara Erskine Clement" title="Women in the fine arts, from the Seventh Century B.C. to the Twentieth Century A.D." lang="en" />
+  <feature name="md5Hash" value="883aae4b7db28f3d5a9269820e5ee2b1" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8969" this_length="3269" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15466" this_length="773" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="18427" this_length="251" />
+</document>
+

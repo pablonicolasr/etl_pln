@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00739.txt">
+  <feature name="about" authors="Coit, Stanton" title="Is civilization a disease?" lang="en" />
+  <feature name="md5Hash" value="30b16f9bd9b8fa6840f2d8d1993796e7" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="930" this_length="2813" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="21036" this_length="2497" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="41146" this_length="4510" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="54509" this_length="1498" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="62262" this_length="2500" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="72329" this_length="3958" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="93043" this_length="228" />
+</document>
+

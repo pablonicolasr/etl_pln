@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02437.txt">
+  <feature name="about" authors="Twain, Mark" title="A Tramp Abroad — Volume 05" lang="en" />
+  <feature name="md5Hash" value="b03efab95a35f3888fff0c37eabcdfb2" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6107" this_length="469" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="23468" this_length="782" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="31263" this_length="233" />
+</document>
+

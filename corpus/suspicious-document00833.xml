@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00833.txt">
+  <feature name="about" authors="Pater, Walter" title="Essays from 'The Guardian'" lang="en" />
+  <feature name="md5Hash" value="e58cf9a978bc2028792d9ed0d26b3ea0" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="76608" this_length="4857" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="113619" this_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="119460" this_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="125214" this_length="245" />
+</document>
+

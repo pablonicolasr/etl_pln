@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01182.txt">
+  <feature name="about" authors="Kingston, William Henry Giles" title="Dick Cheveley His Adventures and Misadventures" lang="en" />
+  <feature name="md5Hash" value="0d1ac35c3bc0ec25aa05ae70d6fb659c" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="13997" this_length="4646" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="89893" this_length="23835" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="131692" this_length="1721" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="144386" this_length="2432" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="217726" this_length="20379" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="243193" this_length="1473" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="299017" this_length="17734" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="355609" this_length="23275" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="431119" this_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="455739" this_length="20471" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="530426" this_length="3262" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="541297" this_length="4449" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="561879" this_length="1519" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="564913" this_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="566040" this_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="567301" this_length="525" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="570015" this_length="494" />
+</document>
+

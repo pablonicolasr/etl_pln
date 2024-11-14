@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02031.txt">
+  <feature name="about" authors="Balzac, Honoré de" title="At the Sign of the Cat &amp; Racket" lang="en" />
+  <feature name="md5Hash" value="f9cbff3eddc3c3603fa530af883fd8f0" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8857" this_length="481" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="24511" this_length="740" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="89805" this_length="3581" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="117668" this_length="255" />
+</document>
+

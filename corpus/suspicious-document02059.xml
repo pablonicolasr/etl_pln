@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02059.txt">
+  <feature name="about" authors="Fewkes, Jesse Walter" title="Contribution to Passamaquoddy Folk-Lore" lang="en" />
+  <feature name="md5Hash" value="a1c597b0251b1a71c9f4d9599d866cd2" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2802" this_length="221" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="14210" this_length="499" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="27345" this_length="1392" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="59037" this_length="464" />
+</document>
+

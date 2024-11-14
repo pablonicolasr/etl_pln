@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02321.txt">
+  <feature name="about" authors="Religious of the Ursuline Community, A" title="The Life of the Venerable Mother Mary of the Incarnation" lang="en" />
+  <feature name="md5Hash" value="f4ffeae036cde06b704a8347b64e4b1f" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="810" this_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15036" this_length="460" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="17219" this_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="26557" this_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="31024" this_length="232" />
+</document>
+

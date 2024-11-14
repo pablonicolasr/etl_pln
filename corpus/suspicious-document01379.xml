@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01379.txt">
+  <feature name="about" authors="Hillary, William, Sir" title="An Appeal to the British Nation on the Humanity and Policy of Forming a National Institution for the Preservation of Lives and Property from Shipwreck (1825)" lang="en" />
+  <feature name="md5Hash" value="f207b94afc635847306001f8ec8aa480" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9059" this_length="4192" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="15766" this_length="4117" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="28667" this_length="732" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="30869" this_length="455" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="31325" this_length="600" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="35310" this_length="2229" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="43969" this_length="1760" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="51500" this_length="4203" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="61125" this_length="1843" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="67643" this_length="468" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="68848" this_length="419" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="70929" this_length="240" />
+</document>
+

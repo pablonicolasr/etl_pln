@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01275.txt">
+  <feature name="about" authors="Ellis, Edward Sylvester" title="Klondike Nuggets and How Two Boys Secured Them" lang="en" />
+  <feature name="md5Hash" value="c37075b882181d9e85887d65ca11a648" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15867" this_length="788" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="63578" this_length="4028" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="145057" this_length="2224" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="196359" this_length="509" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="208993" this_length="278" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01801.txt">
+  <feature name="about" authors="Ebers, Georg" title="The Greylock" lang="en" />
+  <feature name="md5Hash" value="c095629003e1fcaba25b9b154fed71b0" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15877" this_length="2796" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="34892" this_length="2977" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="43312" this_length="3623" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="71919" this_length="688" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="75488" this_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="86418" this_length="2022" />
+</document>
+

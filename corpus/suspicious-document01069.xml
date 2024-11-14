@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01069.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Kenilworth" lang="en" />
+  <feature name="md5Hash" value="658fa665fa696dee63196a35e04b05e1" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2692" this_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6128" this_length="248" />
+</document>
+

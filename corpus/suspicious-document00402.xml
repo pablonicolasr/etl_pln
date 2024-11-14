@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00402.txt">
+  <feature name="about" authors="Smith, Gustavus Woodson" title="Company 'A', corps of engineers, U.S.A., 1846-'48, in the Mexican war" lang="en" />
+  <feature name="md5Hash" value="896e4b18ef51dbfd150287ff815da10b" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5402" this_length="267" />
+</document>
+

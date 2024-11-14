@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02124.txt">
+  <feature name="about" authors="Irving, Washington" title="Wolfert's Roost and Miscellanies" lang="en" />
+  <feature name="md5Hash" value="1dd5f5ce572f166337d697d3c7cc9dcd" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16585" this_length="4457" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="31422" this_length="2202" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="128617" this_length="23534" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="180344" this_length="19245" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="264987" this_length="1897" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="269329" this_length="15979" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="361364" this_length="2845" />
+</document>
+

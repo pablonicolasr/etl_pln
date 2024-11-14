@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01866.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="The Monastery" lang="en" />
+  <feature name="md5Hash" value="2b61111ee1ee386912e9cd27c300e06f" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1101" this_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8701" this_length="2259" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="13922" this_length="227" />
+</document>
+

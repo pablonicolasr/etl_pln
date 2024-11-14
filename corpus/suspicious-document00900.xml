@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00900.txt">
+  <feature name="about" authors="Salmond, J. B." title="My Man Sandy" lang="en" />
+  <feature name="md5Hash" value="65161c903ecdf594e1dba057182a8448" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7240" this_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8563" this_length="230" />
+</document>
+

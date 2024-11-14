@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00708.txt">
+  <feature name="about" authors="Amman, John Conrade" title="Surdus loquens. English - The Talking Deaf Man A Method Proposed, Whereby He Who is Born Deaf, May Learn to Speak" lang="en" />
+  <feature name="md5Hash" value="a8415418b9a990f87c39bdbd5fb25264" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1023" this_length="464" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="12595" this_length="1519" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="45717" this_length="520" />
+</document>
+

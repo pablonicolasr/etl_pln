@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00084.txt">
+  <feature name="about" authors="Trollope, Anthony" title="John Caldigate" lang="en" />
+  <feature name="md5Hash" value="6c517a97b09c5a1f1f55a336048c7fed" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="374" this_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6620" this_length="239" />
+</document>
+

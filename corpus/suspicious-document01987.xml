@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01987.txt">
+  <feature name="about" authors="Gray, Joslyn" title="Elsie Marley, Honey" lang="en" />
+  <feature name="md5Hash" value="875f2ed32ad67874a68a7334021594c3" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="26254" this_length="2424" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="106678" this_length="3829" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="157274" this_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="180406" this_length="3242" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="241075" this_length="729" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="301644" this_length="3004" />
+</document>
+

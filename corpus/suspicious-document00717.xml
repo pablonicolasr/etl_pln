@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00717.txt">
+  <feature name="about" authors="Turgenev, Ivan Sergeevich" title="A Reckless Character And Other Stories" lang="en" />
+  <feature name="md5Hash" value="adb7de63d004856617213d0bc55980e3" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="530" this_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="27109" this_length="3512" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="37690" this_length="265" />
+</document>
+

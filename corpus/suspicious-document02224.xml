@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02224.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="The Parisians — Volume 09" lang="en" />
+  <feature name="md5Hash" value="0fead0e6fc7117c9a130561e3f2707ac" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2547" this_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="35066" this_length="1782" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="54116" this_length="458" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="58351" this_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="77972" this_length="1767" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="105024" this_length="231" />
+</document>
+

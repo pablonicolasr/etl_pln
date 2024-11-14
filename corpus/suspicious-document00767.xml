@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00767.txt">
+  <feature name="about" authors="Collingwood, Harry" title="Through Veld and Forest An African Story" lang="en" />
+  <feature name="md5Hash" value="ccbe45a772ee052741d858a091df54d0" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="58584" this_length="20758" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="215206" this_length="713" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="329355" this_length="22905" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="473781" this_length="1751" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="500045" this_length="3363" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="515792" this_length="1950" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="544169" this_length="1486" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="568670" this_length="3230" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="583694" this_length="224" />
+</document>
+

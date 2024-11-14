@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02463.txt">
+  <feature name="about" authors="Ebers, Georg" title="Uarda : a Romance of Ancient Egypt — Volume 10" lang="en" />
+  <feature name="md5Hash" value="9650e3ce33bfe5d33222c22b402d6689" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7670" this_length="3747" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="40077" this_length="4391" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="56240" this_length="1976" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="66927" this_length="3581" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="82413" this_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="83207" this_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="91429" this_length="1685" />
+</document>
+

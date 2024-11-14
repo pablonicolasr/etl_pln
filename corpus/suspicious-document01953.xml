@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01953.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="My Young Alcides" lang="en" />
+  <feature name="md5Hash" value="6b7b91ab9d9b31647f74f21f896bcba2" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1539" this_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6322" this_length="545" />
+</document>
+

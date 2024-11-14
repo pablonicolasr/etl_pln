@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00238.txt">
+  <feature name="about" authors="Cooper, James Fenimore" title="The Wept of Wish-Ton-Wish" lang="en" />
+  <feature name="md5Hash" value="d468b702b2621b4bbfb887e3fecb3b5b" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="98538" this_length="21824" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="499939" this_length="3650" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="635724" this_length="4721" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="735975" this_length="4783" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="782123" this_length="2995" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="834392" this_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="841469" this_length="260" />
+</document>
+

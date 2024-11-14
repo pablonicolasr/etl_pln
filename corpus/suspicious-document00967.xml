@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00967.txt">
+  <feature name="about" authors="Craik, Dinah Maria Mulock" title="The Little Lame Prince" lang="en" />
+  <feature name="md5Hash" value="d5de68fc1641eb72b3d8f194b325964f" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="14127" this_length="4254" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="97169" this_length="4524" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="111116" this_length="735" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="129121" this_length="1987" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="142067" this_length="480" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="147978" this_length="261" />
+</document>
+

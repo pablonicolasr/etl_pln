@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00753.txt">
+  <feature name="about" authors="Cervantes Saavedra, Miguel de" title="The History of Don Quixote, Volume 1, Part 15" lang="en" />
+  <feature name="md5Hash" value="61a6e97523e2343df215db701b3e276e" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="28035" this_length="3062" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="72100" this_length="530" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="74334" this_length="800" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="86841" this_length="488" />
+</document>
+

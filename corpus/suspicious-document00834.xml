@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00834.txt">
+  <feature name="about" authors="Frederic, Harold" title="The Damnation of Theron Ware" lang="en" />
+  <feature name="md5Hash" value="278c4764bc96e9e67812af3b32f9215f" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="12479" this_length="4501" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="332940" this_length="15409" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="488016" this_length="2421" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="555732" this_length="3476" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="625021" this_length="2488" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="650686" this_length="737" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="664582" this_length="237" />
+</document>
+

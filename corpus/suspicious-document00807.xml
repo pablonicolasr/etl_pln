@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00807.txt">
+  <feature name="about" authors="Roe, Edward Payson" title="What Can She Do?" lang="en" />
+  <feature name="md5Hash" value="3ad52119a14fb99dbe5a7deb307c4f5d" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="23107" this_length="4769" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="64383" this_length="465" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="70017" this_length="522" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="78966" this_length="532" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="81708" this_length="245" />
+</document>
+

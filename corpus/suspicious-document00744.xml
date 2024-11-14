@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00744.txt">
+  <feature name="about" authors="Knight, David C." title="The Amazing Mrs. Mimms" lang="en" />
+  <feature name="md5Hash" value="df75c13c191609935132f9f915fbf3f3" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1788" this_length="707" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22158" this_length="2536" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="30695" this_length="698" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="35133" this_length="737" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="39549" this_length="264" />
+</document>
+

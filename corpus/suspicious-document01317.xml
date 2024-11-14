@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01317.txt">
+  <feature name="about" authors="Laughead, W.B." title="The Marvelous Exploits of Paul Bunyan" lang="en" />
+  <feature name="md5Hash" value="cff8ac47429791ab1554a4f5e144fbc0" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8558" this_length="5058" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="35866" this_length="4701" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="53767" this_length="494" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02168.txt">
+  <feature name="about" authors="Kreisler, Fritz" title="Four Weeks in the Trenches The War Story of a Violinist" lang="en" />
+  <feature name="md5Hash" value="cc6a80056e980d9e80c7216abbd25827" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2624" this_length="3495" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="19410" this_length="4383" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="37338" this_length="4672" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="59613" this_length="3758" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="67976" this_length="1549" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="73871" this_length="432" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="75330" this_length="257" />
+</document>
+

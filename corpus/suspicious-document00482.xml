@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00482.txt">
+  <feature name="about" authors="Taylor, Frederick Winslow" title="The Principles of Scientific Management" lang="en" />
+  <feature name="md5Hash" value="d8be42ed44a6dd0ee88c56ca3d160255" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4365" this_length="2475" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="19244" this_length="484" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22578" this_length="259" />
+</document>
+

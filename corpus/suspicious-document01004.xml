@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01004.txt">
+  <feature name="about" authors="Van Slyke, Lucille" title="Little Miss By-The-Day" lang="en" />
+  <feature name="md5Hash" value="fea1dd254e845ee9d29c0b0e2c2a49a3" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="28460" this_length="15145" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="192019" this_length="3407" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="240963" this_length="3811" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="285849" this_length="3298" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="318363" this_length="3290" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="361824" this_length="757" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="370312" this_length="473" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="374367" this_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="378141" this_length="262" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02166.txt">
+  <feature name="about" authors="Sedgwick, Anne Douglas" title="Tante" lang="en" />
+  <feature name="md5Hash" value="bdb4092d03024897b23da362bcf3a9c1" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="93513" this_length="4507" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="135561" this_length="2502" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="188632" this_length="2983" />
+</document>
+

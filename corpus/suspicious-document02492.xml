@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02492.txt">
+  <feature name="about" authors="Dunsany, Edward John Moreton Drax Plunkett, Baron" title="Don Rodriguez; chronicles of Shadow Valley" lang="en" />
+  <feature name="md5Hash" value="62054060974d9b331af5d38a09e9f9f0" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="24231" this_length="2550" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="76089" this_length="4578" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="204980" this_length="3611" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="261098" this_length="3036" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="359998" this_length="3262" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="391750" this_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="397508" this_length="228" />
+</document>
+

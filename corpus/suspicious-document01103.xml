@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01103.txt">
+  <feature name="about" authors="Waterlow, Sydney" title="Shelley" lang="en" />
+  <feature name="md5Hash" value="e52490f2b3f5620a56486adc263fa789" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="7197" this_length="630" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="8628" this_length="126" />
+</document>
+

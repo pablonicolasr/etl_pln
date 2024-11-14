@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01452.txt">
+  <feature name="about" authors="Dods, Marcus" title="How to become like Christ" lang="en" />
+  <feature name="md5Hash" value="854db95dbe6003928f9a01e2fec437d3" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="34370" this_length="16431" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="78891" this_length="4355" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="85580" this_length="773" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="88381" this_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="89872" this_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="90744" this_length="242" />
+</document>
+

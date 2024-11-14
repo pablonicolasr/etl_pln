@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01422.txt">
+  <feature name="about" authors="Abbott, L. A." title="Seven Wives and Seven Prisons; Or, Experiences in the Life of a Matrimonial Monomaniac. a True Story" lang="en" />
+  <feature name="md5Hash" value="ab433e7c85ef435b1080e2caf973aef2" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1741" this_length="1790" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="29052" this_length="21766" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="74123" this_length="19547" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="136053" this_length="15350" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="173933" this_length="21788" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="211054" this_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="213553" this_length="1398" />
+</document>
+

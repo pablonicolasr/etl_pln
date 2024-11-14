@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01246.txt">
+  <feature name="about" authors="Plato" title="Phaedo" lang="en" />
+  <feature name="md5Hash" value="f287dbd1e766d5101b90d2f1016f4196" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="11882" this_length="3187" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="81445" this_length="712" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="109272" this_length="2269" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="154814" this_length="790" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="171423" this_length="490" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="206999" this_length="1950" />
+</document>
+

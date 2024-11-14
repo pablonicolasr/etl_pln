@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01700.txt">
+  <feature name="about" authors="Abbott, Keene" title="A Melody in Silver" lang="en" />
+  <feature name="md5Hash" value="8e1c2c7494ebf0f19eda5271222784d0" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15164" this_length="4216" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="47676" this_length="2570" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="59342" this_length="516" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="86990" this_length="4700" />
+</document>
+

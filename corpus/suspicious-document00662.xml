@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00662.txt">
+  <feature name="about" authors="Emerson, Ralph Waldo" title="Essays — Second Series" lang="en" />
+  <feature name="md5Hash" value="51dc810536dc285a6e6de69c28ec75a3" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2165" this_length="529" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="145018" this_length="18503" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="223773" this_length="3427" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="230704" this_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="234521" this_length="234" />
+</document>
+

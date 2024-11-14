@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01908.txt">
+  <feature name="about" authors="Roe, Frances Marie Antoinette Mack" title="Army Letters from an Officer's Wife, 1871-1888" lang="en" />
+  <feature name="md5Hash" value="39ecac693dc2517f1dd5419f0b10de34" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="997" this_length="533" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="17357" this_length="242" />
+</document>
+

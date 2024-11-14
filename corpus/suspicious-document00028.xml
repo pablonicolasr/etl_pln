@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00028.txt">
+  <feature name="about" authors="Morris, Charles" title="Man And His Ancestor A Study In Evolution" lang="en" />
+  <feature name="md5Hash" value="869b7b9876621d042c94bd99a7d07d3d" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="216101" this_length="15206" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="318247" this_length="780" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="328212" this_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="334689" this_length="258" />
+</document>
+

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00690.txt">
+  <feature name="about" authors="Smollett, Tobias" title="The Adventures of Ferdinand Count Fathom — Volume 01" lang="en" />
+  <feature name="md5Hash" value="c08d054725728f5e55eae1867f4e68a6" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4144" this_length="2077" />
+</document>
+

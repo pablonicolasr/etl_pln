@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00031.txt">
+  <feature name="about" authors="Strachey, Giles Lytton" title="Eminent Victorians" lang="en" />
+  <feature name="md5Hash" value="fb7057e822945bed212efd9c61e4ac75" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3621" this_length="683" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="9216" this_length="701" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="17511" this_length="488" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="21715" this_length="271" />
+</document>
+

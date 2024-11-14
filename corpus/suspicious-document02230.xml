@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02230.txt">
+  <feature name="about" authors="Collingwood, Harry" title="Dick Leslie's Luck A Story of Shipwreck and Adventure" lang="en" />
+  <feature name="md5Hash" value="e94615707077daf84ba2501dd0bb5132" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2179" this_length="720" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="80244" this_length="14940" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="143436" this_length="15290" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="276169" this_length="22500" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="413525" this_length="22198" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="549157" this_length="2509" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="555866" this_length="2242" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="569590" this_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="572314" this_length="1467" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="596174" this_length="3139" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="615903" this_length="2268" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="621850" this_length="5000" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="656674" this_length="256" />
+</document>
+

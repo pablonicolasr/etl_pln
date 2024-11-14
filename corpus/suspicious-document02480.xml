@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02480.txt">
+  <feature name="about" authors="Sylvester, Charles Herbert" title="Journeys Through Bookland, Vol. 8" lang="en" />
+  <feature name="md5Hash" value="b842a0ebdaceb23501ba3e525c8a1a0d" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="107380" this_length="4270" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="168306" this_length="3029" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="204009" this_length="547" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="214175" this_length="743" />
+</document>
+

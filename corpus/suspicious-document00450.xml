@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00450.txt">
+  <feature name="about" authors="Shelley, Percy Bysshe" title="A Defence of Poetry and Other Essays" lang="en" />
+  <feature name="md5Hash" value="05b48825e853736a503602a0834f1bbb" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="918" this_length="758" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6968" this_length="3713" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="33686" this_length="537" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="36372" this_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="37038" this_length="247" />
+</document>
+

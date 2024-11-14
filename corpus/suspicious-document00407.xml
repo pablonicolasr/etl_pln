@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00407.txt">
+  <feature name="about" authors="Zagat, Arthur Leo" title="When the Sleepers Woke" lang="en" />
+  <feature name="md5Hash" value="60898cc4cbd7e68eab1a3a663542fff2" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4498" this_length="1546" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8491" this_length="772" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="10699" this_length="229" />
+</document>
+

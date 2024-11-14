@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02199.txt">
+  <feature name="about" authors="Crawford, Francis Marion" title="The Primadonna" lang="en" />
+  <feature name="md5Hash" value="8be2a3333c3389aee6b8cafeea237e9b" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="6125" this_length="15484" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="117466" this_length="3222" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="134550" this_length="421" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="209646" this_length="16094" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="256881" this_length="2215" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="292607" this_length="16273" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="397538" this_length="16000" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="513317" this_length="1786" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="543206" this_length="3616" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="549034" this_length="217" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="550967" this_length="440" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="555091" this_length="444" />
+</document>
+

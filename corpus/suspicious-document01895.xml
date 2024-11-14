@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01895.txt">
+  <feature name="about" authors="Wood, William Charles Henry" title="The Winning of Canada: a Chronicle of Wolf" lang="en" />
+  <feature name="md5Hash" value="01156ad2d266648cfba0a6a58ea136e7" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="499" this_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1479" this_length="1538" />
+</document>
+

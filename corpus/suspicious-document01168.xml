@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01168.txt">
+  <feature name="about" authors="Burroughs, Edgar Rice" title="Tarzan and the Jewels of Opar" lang="en" />
+  <feature name="md5Hash" value="8297243ffd62d18f7807306788a0db12" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5120" this_length="24692" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="178555" this_length="18269" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="307884" this_length="22974" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="366060" this_length="521" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="367734" this_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="368841" this_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="371167" this_length="540" />
+</document>
+

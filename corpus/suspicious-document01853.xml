@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01853.txt">
+  <feature name="about" authors="Peck, George Wilbur" title="Peck's Bad Boy and His Pa 1883" lang="en" />
+  <feature name="md5Hash" value="9b9cc15199ae266928d2bedc02c5af8d" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="8315" this_length="1866" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="84120" this_length="2124" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="103826" this_length="490" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="110770" this_length="205" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="130651" this_length="1618" />
+</document>
+

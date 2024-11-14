@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00248.txt">
+  <feature name="about" authors="Colton, Arthur Willis" title="The Belted Seas" lang="en" />
+  <feature name="md5Hash" value="081d831ebd653b6859bbd3cf7e850b08" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="49229" this_length="2550" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="126861" this_length="3181" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="200487" this_length="4477" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="257595" this_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="261054" this_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="271363" this_length="246" />
+</document>
+

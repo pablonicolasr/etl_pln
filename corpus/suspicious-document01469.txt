@@ -1,0 +1,246 @@
+﻿The British Board of Trade fixes the greatest strain that shall come upon the material in a
+wrought-iron bridge, from the combined weight of the bridge and load, at 5 tons per square
+inch of the net section of the metal. The French practice allows 3-8/10 tons per square inch
+of the cross section of the metal, which, considering the amount taken out by rivet-holes,
+is substantially the same as the English allowance. The report of the American Society of Civil
+Engineers, above referred to, recommends 10,000 pounds per inch as the maximum for wrought-iron
+in tension in railroad bridges. For highway bridges a unit strain of 15,000 pounds per square
+inch is often allowed. A very common clause in a specification is that the factor of safety
+shall be four, five, or six, as the case may be, meaning by this that the actual load shall
+not exceed one-fourth, one-fifth, or one-sixth part of the breaking-load. It is a little unfortunate
+that this term, factor of safety, has found its way into use just as it has; for it by no means
+indicates what is intended, or what it is supposed to. The true margin for safety is not the
+difference between the working-strain and the breaking-strain, but between the working-strain
+and that strain which will in any way unfit the material for use. Now, any material is unfitted
+for use when it is so far distorted by overstraining that it cannot recover, or, technically
+speaking, when its elastic limit has been exceeded. The elastic limit of the best grades of
+iron is just about half the breaking-weight, or from 25,000 to 30,000 pounds per inch. A poor
+iron will often show a very fair breaking-strength, but, at the same time, will have a very
+low elastic limit, and be entirely unfit for use in a bridge. A piece of iron of very inferior
+quality will often sustain a greater load before breaking than a piece of the best and toughest
+material, for the reason that a tough but ductile iron will stretch before giving way, thus
+reducing the area of section, while a hard but poor iron will keep nearly its full size until
+it breaks. A tough and ductile iron should bend double, when cold, without showing any signs
+of fracture, and should stretch fifteen per cent of its length before breaking; but much of
+the iron used in bridges, although it may hold 40,000 or 50,000 pounds per inch before failing,
+will not bend over 90 degrees without cracking, and has an elastic limit as low as 18,000 pounds.
+It is thus full as important to specify that an iron should have a high elastic limit as that
+it should have a high breaking-weight. A specification which allowed no material to be strained
+by more than 10,000 pounds per inch, and no iron to be used with a less elastic limit than
+25,000 pounds, would, at the same time, agree with the standard requirement, both in England
+and in the United States, and would also secure a good quality of iron.
+
+Two documents published some time since illustrate the preceding remarks. The first is the
+account of the tests of the iron taken from the Tariffville bridge after its failure, and the
+second is the specification for bridges on the Cincinnati Southern Railroad. The Tariffville
+bridge, though nominally a wooden one, like most structures of the kind relied entirely upon
+iron rods to keep the wood-work together. Although the rods were too small, and seriously defective
+in manufacture, the bridge ought not to have fallen from that cause. Sad soul, take comfort,
+nor forget That sunrise never failed us yet.
+
+--Celia Thaxter.
+
+WHO-OO-
+
+I wonder if you have ever heard Of the queer, little, dismal Whiney-bird, As black as a crow,
+as glum as an owl-- A most peculiar kind of a fowl? He is oftenest seen on rainy days, When
+children are barred from outdoor plays; When the weather is bright and the warm sun shines,
+Then he flies far away to the gloomy pines, Dreary-looking, indeed,
+is his old black cloak, And his whiney cry makes the whole house blue--
+"There's nothing to do-oo! there's nothing to do-oo!"
+
+Did you ever meet this doleful bird? He's found where the children
+are, I've heard, Now, who can he be?
+
+It can't be you. But who is the Whiney-bird? Who-oo? Who-oo?
+
+--Jean Halifax in St. Nicholas.
+
+THE BLUEBIRD.
+
+BY MABEL OSGOOD WRIGHT.
+
+The National Association of
+Audubon Societies Educational Leaflet No. 24.
+
+Who dares write of
+the Bluebird, thinking to add a fresher tint to his plumage, a new
+tone to his melodious voice, or a word of praise to his gentle life,
+that is as much a part of our human heritage and blended with our
+memories as any other attribute of home?
+
+Not I, surely, for I know
+him too well and each year feel myself more spellbound and mute by
+the memories he awakens. Yet I would repeat his brief biography, lest
+there be any who, being absorbed by living inward, have not yet looked
+outward and upward to this poet of the sky and earth and the fullness
+and goodness thereof. An addition of 25 per cent will be made to the strains
+produced by the rolling-load considered as static in all parts which are liable to be thrown
+suddenly under strain by the passage of a rapidly moving load. A similar addition of 50 per
+cent will be made to the strain on suspension links and riveted connections of stringers with
+floor-beams, and floor-beams with trusses. The iron-work shall be so proportioned that the
+weight of the structure, together with the above specified rolling-load, shall in no part cause
+a tensile strain of more than 10,000 pounds per square inch of sectional area. Iron used under
+tensile strain shall be tough, ductile, of uniform quality, and capable of sustaining not less
+than 50,000 pounds per square inch of sectional area without fracture, and 25,000 pounds per
+square inch without taking a permanent set. The reduction of area at the breaking-point shall
+average 25 per cent, and the elongation 15 per cent. When cold, the iron must bend, without
+sign of fracture, from 90 to 180 degrees."
+
+A specification like this, properly carried out, would put an absolute stop to the building
+of such structures as the Tariffville Bridge, and would prevent a very large part of the catastrophes
+which so often shock the community, and shake the public faith in iron bridges. Reference has
+been made above to the proper loads to be placed upon wrought-iron when under a tensile strain.
+Similar loads have been determined for other materials, and for other kinds of strain.
+
+The preceding remarks in regard to the loads for which bridges should be designed, and the
+safe weight to be put upon the material, are given to show how far the safety of a bridge is
+a matter of fact, and how far a matter of opinion. It will be seen that the limits within which
+we are at liberty to vary, are quite narrow, so that bridge-building may correctly be called
+a science; and there is no excuse for the person who guesses, either at the load which a bridge
+should be designed to bear, or at the size of the different members of the structure. Still
+less can we excuse the man who not only guesses, but who, in order to build cheaply, persistently
+guesses on the wrong side.
+
+It will, of course, be understood, when it is said that bridge-building may be called a science,
+that it can only be so when in the hands of an engineer whose judgment has been matured by
+wide experience, and who understands that no mechanical philosophy can be applied to practice
+which is not subject to the contingencies of workmanship. There are many bridges which will
+stand the test of figures very well, and which are nevertheless very poor structures. The general
+plan of a bridge may be good, the computations all right, and yet it may break down under the
+first train that passes over it. There are many practical considerations that cannot be, at
+any rate have not yet been, reduced to figures. It is not enough that the strains upon each
+member of a bridge should be correctly estimated, and fall within the safe limits: the different
+members of the bridge must be so connected, and the mechanical details such, as to insure,
+under all conditions, the assumed action of the several parts. In fine, while we can say that
+a bridge that does not stand the test of arithmetic is a bad bridge, we cannot always say that
+a structure which does stand such a test is a good one.
+
+We often hear it argued that a bridge must be safe, since it has been submitted to a heavy
+load, and did not break down. Such a test means absolutely nothing. It does not even show that
+the bridge will bear the same load again, much less does it show that it has the proper margin
+for safety. It simply shows that it did not break down at that time. Every rotten, worn-out,
+and defective bridge that ever fell has been submitted to exactly that test. More than this,
+it has repeatedly happened that a heavy train has passed over a bridge in apparent safety,
+while a much lighter one passing directly afterwards has gone through. In almost all such cases,
+the structure has been weak and defective; and finally some heavy load passes over, and cripples
+the bridge, so that the next load produces a disaster. For the test of a bridge to be in any
+way satisfactory, we must know just what effect such test has had upon the structure. We do
+not find this out by simply standing near, and noting that the bridge did not break down. We
+must satisfy ourselves beyond all question that no part has been overstrained.
+
+A short time ago the builders of a wretchedly cheap and unsafe highway bridge, in order to
+quiet a fear which had arisen that the structure was not altogether sound, tested a span 122
+feet long with a load of 58,000 pounds; and inasmuch as the bridge did not break down under
+this load, which was less than a quarter part of what it was warranted to carry safely, the
+county commissioners considered the result eminently satisfactory, and remarked that the test
+was made merely to satisfy the public that the bridge was abundantly safe for all practical
+uses. The public would, no doubt, have been satisfied that the Ashtabula bridge was abundantly
+safe for all practical uses had it stood on that bridge in the morning and seen a heavy freight-train
+go over it, and yet that very bridge broke down directly afterwards under a passenger-train.
+
+Now, according to the common notion, that was a good bridge in the morning, and a very bad
+bridge, or rather, no bridge at all, in the evening. The question for the public is, When did
+it cease to be a good bridge, and begin to be a bad one? A test like the one referred to above
+can do no more than illustrate the ignorance or lack of honesty of those who make it, or those
+who are satisfied with it. Such a test might come within a dozen pounds of breaking the bridge
+down, and no one be the wiser. The entire absurdity of such testing has recently been illustrated
+in the most decided manner. The very same company that built the bridge above referred to,
+made also another one on exactly the same plan, and of almost precisely the same size, and
+tested it when done by placing almost exactly the same load upon it. The bridge did not break
+down; and the county commissioners, for whom the work was done, were satisfied that it was
+"abundantly safe for all practical uses," accepted it, paid for it; and in less than ten years
+it broke down under a single team and a little snow, weighing in all not over one-tenth part
+of the load the bridge was warranted to carry, and not over one-half the load with which it
+had been previously tested. If this bridge had been "tested" by five minutes of honest arithmetic,
+it would have been promptly condemned the very day it was finished.
+
+In view of the preceding, what shall we say of a bridge company that deliberately builds a
+bridge in the middle of a large town, where it will be subjected to heavy teaming, and, owing
+to its peculiar location, to heavy crowds, and warrants to the town that it shall safely hold
+a ton per running-foot, when the very simplest computation shows beyond chance of dispute that
+such a load will strain the iron to 40,000 pounds per square inch? We are to say, either that
+such a company is so ignorant that it does not know the difference between a good bridge and
+a bad one, or else so wicked as to knowingly subject the public to a wretchedly unsafe bridge.
+The case referred to is not an imaginary one, but existed recently in the main street of a
+large New-England town. The joints in that bridge, which could safely hold but 20,000 pounds,
+were required to hold 60,000 pounds under the load which the builders had warranted the bridge
+to carry safely. The case was so bad, that, after a lengthy controversy, the town officers
+had a thorough expert examination of the bridge, which promptly condemned it as in imminent
+danger of falling, and as having a factor of safety of only 1-15/100, which is practically
+no factor at all. Notwithstanding all this, and in the face of the report, the president of
+the bridge company came out with a letter in the papers, in which he pronounced the bridge
+"perfectly safe." Thus we actually have the president of a bridge company in this country stating
+openly that a factor of safety of 1-15/100 makes a bridge perfectly safe, or, in other words,
+that a bridge can safely bear the load that will break it down, for he very wisely made not
+the slightest attempt to disprove any of the conclusions of the commission; and this company
+has built hundreds of highway bridges all over the United States, and is building them to-day
+wherever it can find town or county officers ignorant enough to buy them.
+
+It might be supposed, that, under the above condemnation, the authorities controlling the bridge
+would have taken some steps to prevent the coming disaster. They did, however, nothing of the
+kind, but allowed the public to travel over it for more than a year, at the most fearful risk,
+until public indignation became so strong that a special town-meeting was called, and a committee
+appointed to remove the old bridge, and to build a new one.
+
+One of the worst cases of utterly dishonest bridge-building that we have had of late years
+in Massachusetts, was that of the iron highway bridge across the Merrimac River at Groveland,
+a few miles below Haverhill, one span of which broke down in January, 1881. This bridge was
+built in 1871-1872, and consisted of 6 spans, each about 125 feet long. The whole cost of the
+structure was $80,000, and the contract price for the iron-work was $28,000. The company which
+made that bridge, agreed in their contract to give the county a structure that should carry
+safely 3,000 pounds per running-foot besides its own weight; but they built a bridge, which,
+if they knew enough to compute its strength at all, they knew perfectly well could not safely
+carry over one-quarter part of that load. In fact, the weight of the bridge alone is more than
+it ever ought to have borne. The company warranted each span of that bridge to carry safely
+a net or moving load of 165 tons, and it broke down under a single team and a small amount
+of snow. The company warranted that bridge to carry safely a load which would strain the iron
+to 50,000 pounds per inch, when it knew perfectly well that 15,000 pounds per inch was the
+most that could safely be borne.
+
+There are several concerns in the United States which make a specialty of highway bridges,
+and which, taking advantage of the ignorance of public officials, are flooding the country
+with bridges no better than that at Groveland. On an average, at least twenty of these miserable
+traps tumble down every year, and nothing is done to bring the guilty parties to punishment.
+Dishonest builders cheat ignorant officials, and the public suffers the damage and pays the
+bills. Is human life worth enough to pay for having these structures inspected, and, if found
+unsafe, strengthened or removed? Can we do any thing to prevent towns and counties from being
+imposed upon by dishonest builders? We certainly can, if those who control these matters care
+enough about it to do it. There are two ways of buying a bridge,--a good way and a bad one;
+and these two ways are so plain that no one can misunderstand. To buy a bad bridge, just as
+soon as your town or county votes money for a new bridge, certain agents--and they are as numerous
+as the agents for sewing-machines or lightning-rods--will call on, or write to, the town or
+county officers, and will offer to build any thing under heavens you want of any size, shape,
+or material, and for almost any price. They will produce testimonials from all the town and
+county officers in the country for the excellence of their bridges, and would not hesitate
+to give reference, even, for their moral character, if you should ask it. When the breeding season
+is over, the birds travel sometimes in family groups and sometimes in large flocks, moving southward
+little by little, according to season and food-supply, some journeying as far as Mexico, others
+lingering through the middle and southern states. When the bridge is put up, you never will know whether the iron
+is good or bad, nor whether the dimensions and proportions are such as to be safe or not. You
+will know that you have paid your money away, but you never will know what you have got for
+it until some day when your bridge gets a crowd upon it, and breaks down, and you have the
+damage to pay. This mode of buying a bridge is very common. To buy a good bridge, first determine
+precisely what you want; and if you don't know any thing in regard to bridge-building yourself,
+employ an engineer who does, to make a specification stating exactly what you want, and what
+you mean to have. Then advertise for bridge-builders to send in plans and proposals. Let the
+contractors understand that all plans and computations are to be submitted to your engineer,
+that all materials and workmanship will be submitted to your inspectors, and that the whole
+structure is to be made subject to the supervision of a competent engineer, and accepted by
+him for you. You will find at once, that, under such conditions, all travelling agents and
+builders of cheap bridges will avoid you as a thief does the light of day. You will have genuine
+proposals from responsible companies, and their bids should be submitted to your engineer.
+When you have made your choice, let the contract be written by your lawyer, and have the plans
+and specifications attached. Employ a competent engineer to inspect the work as it goes on;
+and when it is done, you will have a bridge which will be warranted absolutely sound by the
+best authority. This mode of buying a bridge is very uncommon.
+
+The Ashtabula bridge, it is stated in the report of the committee of the Ohio Legislature appointed
+to investigate that disaster, had factors,--we can hardly call them factors of safety,--in
+some parts as low as 1-6/10 and 1-2/10, such factors referring to the breaking-weight; and
+even these factors were obtained by assuming the load as at rest, and making no allowance for
+the jar and shock from a railroad train in motion. Well may the commissioners say, as they
+do at the end of their report, "The bridge was liable to go down at any time during the last
+ten years under the loads that might at any time be brought upon it in the ordinary course
+of the company's business, and it is most remarkable that it did not sooner occur."
+

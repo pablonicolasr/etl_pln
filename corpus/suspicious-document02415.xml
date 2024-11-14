@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02415.txt">
+  <feature name="about" authors="Bone, Jesse Franklin" title="A Question of Courage" lang="en" />
+  <feature name="md5Hash" value="aabbd1a172cb02b88b970f76940b8609" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16118" this_length="3488" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="45548" this_length="258" />
+</document>
+

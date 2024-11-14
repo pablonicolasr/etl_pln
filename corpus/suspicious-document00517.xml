@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00517.txt">
+  <feature name="about" authors="Yogananda, Paramahansa" title="Autobiography of a Yogi" lang="en" />
+  <feature name="md5Hash" value="5c5eff4140b9bf412abfe543aa8f9322" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1047" this_length="513" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2293" this_length="483" />
+</document>
+

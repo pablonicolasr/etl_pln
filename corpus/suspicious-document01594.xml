@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01594.txt">
+  <feature name="about" authors="Cullum, Ridgwell" title="In the Brooding Wild" lang="en" />
+  <feature name="md5Hash" value="849549450cfe1271f89ab423bffc3347" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3814" this_length="821" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="21311" this_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="52926" this_length="4962" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="148192" this_length="2360" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="207115" this_length="762" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="251256" this_length="1937" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="272075" this_length="1603" />
+</document>
+

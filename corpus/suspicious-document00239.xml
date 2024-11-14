@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00239.txt">
+  <feature name="about" authors="Poole, Ernest" title="His Family" lang="en" />
+  <feature name="md5Hash" value="51af9f7582f86e81d9f3c2873ad426c5" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="114756" this_length="16269" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="456122" this_length="2079" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="487858" this_length="273" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="498893" this_length="547" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="513568" this_length="748" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="525821" this_length="248" />
+</document>
+

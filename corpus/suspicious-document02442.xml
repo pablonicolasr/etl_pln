@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02442.txt">
+  <feature name="about" authors="Smith, George" title="Life of William Carey" lang="en" />
+  <feature name="md5Hash" value="583125b9c327152bef1713c9eaf4c2b4" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="844" this_length="2481" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="7381" this_length="1928" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="11755" this_length="2905" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17882" this_length="1838" />
+</document>
+

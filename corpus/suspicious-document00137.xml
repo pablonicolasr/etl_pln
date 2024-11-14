@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00137.txt">
+  <feature name="about" authors="Austin, Mary Hunter" title="The Lovely Lady" lang="en" />
+  <feature name="md5Hash" value="5757869f16da99e1fabe0c8b8f2ffdc1" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="19125" this_length="1778" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="56500" this_length="758" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="99691" this_length="2403" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="145341" this_length="3879" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="213459" this_length="486" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="255463" this_length="2084" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="273591" this_length="237" />
+</document>
+

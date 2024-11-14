@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02298.txt">
+  <feature name="about" authors="Marchant, Bessie" title="A Countess from Canada A Story of Life in the Backwoods" lang="en" />
+  <feature name="md5Hash" value="fc82936bad912c5e9b02b540e0c71c6d" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="299220" this_length="20815" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="506620" this_length="724" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="526317" this_length="797" />
+</document>
+

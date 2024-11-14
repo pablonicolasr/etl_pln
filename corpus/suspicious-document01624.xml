@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01624.txt">
+  <feature name="about" authors="Richardson, Samuel" title="Pamela, or Virtue Rewarded" lang="en" />
+  <feature name="md5Hash" value="bb6e89368de5d9586d25dc673f882d24" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7513" this_length="1856" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="33795" this_length="261" />
+</document>
+

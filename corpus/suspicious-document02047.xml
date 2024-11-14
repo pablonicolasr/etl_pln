@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02047.txt">
+  <feature name="about" authors="Vasari, Giorgio" title="Lives of the Most Eminent Painters Sculptors and Architects Vol. 05 ( of 10) Andrea da Fiesole to Lorenzo Lotto" lang="en" />
+  <feature name="md5Hash" value="f063731365da70863de1d2d520968244" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="431" this_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2843" this_length="1480" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5943" this_length="794" />
+</document>
+

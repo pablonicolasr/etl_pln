@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00185.txt">
+  <feature name="about" authors="Roe, Edward Payson" title="From Jest to Earnest" lang="en" />
+  <feature name="md5Hash" value="faa2b2057de64a371b58bfeb2422662d" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1134" this_length="1493" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="9389" this_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="12516" this_length="824" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16433" this_length="238" />
+</document>
+

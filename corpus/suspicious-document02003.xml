@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02003.txt">
+  <feature name="about" authors="White, William Allen" title="In the Heart of a Fool" lang="en" />
+  <feature name="md5Hash" value="401e9f3d28eb4653a6f0ea0015b75c30" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="43389" this_length="21233" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="235418" this_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="242124" this_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="248473" this_length="770" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="253797" this_length="257" />
+</document>
+

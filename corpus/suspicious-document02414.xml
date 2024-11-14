@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02414.txt">
+  <feature name="about" authors="London, Jack" title="South Sea Tales" lang="en" />
+  <feature name="md5Hash" value="b7d00952e42e6a91bfd196ac61f14b24" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="37080" this_length="20263" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="169599" this_length="21263" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="200513" this_length="488" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="207464" this_length="2752" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="216330" this_length="2144" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="228546" this_length="2313" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="250393" this_length="4838" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="262623" this_length="3150" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="276147" this_length="515" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="278445" this_length="509" />
+</document>
+

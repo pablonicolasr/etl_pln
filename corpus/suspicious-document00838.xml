@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00838.txt">
+  <feature name="about" authors="Sutton and Sons" title="The Culture of Vegetables and Flowers From Seeds and Roots 16th Edition" lang="en" />
+  <feature name="md5Hash" value="dfbe30b9a59360fdef7f0fe1df1de4bf" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="11072" this_length="5025" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="135673" this_length="5112" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="230342" this_length="3023" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="279216" this_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="284928" this_length="268" />
+</document>
+

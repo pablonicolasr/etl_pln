@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00909.txt">
+  <feature name="about" authors="Smiles, Samuel" title="Men of Invention and Industry" lang="en" />
+  <feature name="md5Hash" value="ccd8fa64e76c47a2afb7e955564ad390" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2411" this_length="2924" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="25406" this_length="3697" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="47313" this_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="53750" this_length="3752" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="76392" this_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="78602" this_length="551" />
+</document>
+

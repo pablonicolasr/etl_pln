@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02125.txt">
+  <feature name="about" authors="Groves, Ernest Rutherford" title="Rural Problems of Today" lang="en" />
+  <feature name="md5Hash" value="d5628c46fb42fca47b2b256aeee8c43a" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="50774" this_length="3549" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="97606" this_length="2304" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="126754" this_length="224" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="132114" this_length="529" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="140600" this_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="144489" this_length="234" />
+</document>
+

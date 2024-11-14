@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00904.txt">
+  <feature name="about" authors="Hilton, Warren" title="Psychology and Achievement Being the First of a Series of Twelve Volumes on the Applications of Psychology to the Problems of Personal and Business Efficiency" lang="en" />
+  <feature name="md5Hash" value="551915f44612571829fce0ca0bf50858" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="32790" this_length="2262" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="63475" this_length="488" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="73671" this_length="261" />
+</document>
+

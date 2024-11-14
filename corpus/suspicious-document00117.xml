@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00117.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="The Fair Maid of Perth Or, St. Valentine's Day" lang="en" />
+  <feature name="md5Hash" value="4cfa087f667cfc20a244f222e1c12844" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="13126" this_length="2349" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="46342" this_length="1462" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="76137" this_length="1758" />
+</document>
+

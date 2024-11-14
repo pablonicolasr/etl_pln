@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00388.txt">
+  <feature name="about" authors="Fanny, Aunt" title="The Little Nightcap Letters" lang="en" />
+  <feature name="md5Hash" value="2d4526e456ec8bf5186c5a8e3d0589e6" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="39075" this_length="3969" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="57529" this_length="547" />
+</document>
+

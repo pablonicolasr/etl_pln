@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01907.txt">
+  <feature name="about" authors="Doyle, Arthur Conan, Sir" title="The Doings of Raffles Haw" lang="en" />
+  <feature name="md5Hash" value="aed8abc839e5cd8861868d443d4a700f" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4216" this_length="2142" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10321" this_length="13756" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="55057" this_length="2201" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="74140" this_length="14709" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="109258" this_length="1283" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="147913" this_length="18113" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="173860" this_length="3570" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="183271" this_length="1394" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="190798" this_length="1809" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="193033" this_length="212" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="193949" this_length="469" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="195494" this_length="216" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="195711" this_length="221" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="196839" this_length="215" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="197344" this_length="185" />
+</document>
+

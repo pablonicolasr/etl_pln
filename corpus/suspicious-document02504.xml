@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02504.txt">
+  <feature name="about" authors="Walshe, Elizabeth Hely" title="Cedar Creek From the Shanty to the Settlement" lang="en" />
+  <feature name="md5Hash" value="6f14cbe94a5a72754b98c40935dcea5d" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="27410" this_length="4755" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="62917" this_length="1969" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="90817" this_length="2682" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="120079" this_length="736" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="123861" this_length="499" />
+</document>
+

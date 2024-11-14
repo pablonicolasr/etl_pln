@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00348.txt">
+  <feature name="about" authors="Smiles, Samuel" title="The Life of Thomas Telford; civil engineer with an introductory history of roads and travelling in Great Britain" lang="en" />
+  <feature name="md5Hash" value="e3d6d4d3f7a2643c08c32066c37cff53" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="26707" this_length="4269" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="118762" this_length="1578" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="136626" this_length="2697" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="194460" this_length="197" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="197442" this_length="486" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="200649" this_length="227" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="205567" this_length="237" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="212291" this_length="209" />
+</document>
+

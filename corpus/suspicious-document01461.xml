@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01461.txt">
+  <feature name="about" authors="Saltus, Edgar" title="Mary Magdalen" lang="en" />
+  <feature name="md5Hash" value="be2baff323a638963cdb38150d4b9bc5" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1058" this_length="239" />
+</document>
+

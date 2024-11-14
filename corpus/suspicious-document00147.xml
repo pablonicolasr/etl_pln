@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00147.txt">
+  <feature name="about" authors="Howells, William Dean" title="Boy Life Stories and Readings Selected From The Works of William Dean Howells" lang="en" />
+  <feature name="md5Hash" value="392c8f639e780296801d1bbd1d7b8668" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="50456" this_length="22821" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="163289" this_length="23245" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="202561" this_length="5019" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="219344" this_length="2008" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02099.txt">
+  <feature name="about" authors="Miller, Frank E." title="The Voice Its Production, Care and Preservation" lang="en" />
+  <feature name="md5Hash" value="b670cc0031c8087f6eae95035bcd638e" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="113896" this_length="23440" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="170315" this_length="505" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="173036" this_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="181986" this_length="2296" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="190165" this_length="699" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="195288" this_length="5018" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="233243" this_length="1538" />
+</document>
+

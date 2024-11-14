@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01761.txt">
+  <feature name="about" authors="Wallace, Lewis" title="Ben-Hur; a tale of the Christ" lang="en" />
+  <feature name="md5Hash" value="b41ddcb05768dd74d44c872d82806ed8" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="39137" this_length="3305" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="139264" this_length="2948" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="178672" this_length="3485" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="269387" this_length="2270" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="307663" this_length="1841" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="348395" this_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="356802" this_length="453" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="368399" this_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="374127" this_length="250" />
+</document>
+

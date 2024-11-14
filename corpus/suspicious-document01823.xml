@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01823.txt">
+  <feature name="about" authors="Washburn, Wilcomb E." title="Virginia Under Charles I And Cromwell, 1625-1660" lang="en" />
+  <feature name="md5Hash" value="20a0a5918cd339e742f5bcbb7a6336b9" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7762" this_length="2949" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="14709" this_length="2090" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="21798" this_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22760" this_length="268" />
+</document>
+

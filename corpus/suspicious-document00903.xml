@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00903.txt">
+  <feature name="about" authors="Vogt, Paul Leroy" title="Church Cooperation in Community Life" lang="en" />
+  <feature name="md5Hash" value="69c232bd1f9b2ca7df1dadf9193b6010" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1324" this_length="254" />
+</document>
+

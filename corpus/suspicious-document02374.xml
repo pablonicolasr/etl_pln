@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02374.txt">
+  <feature name="about" authors="Burgess, Thornton Waldo" title="Mother West Wind 'Why' Stories" lang="en" />
+  <feature name="md5Hash" value="5ab5ff001cd5038ebb20fe3d25af888b" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16486" this_length="5050" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="34214" this_length="2047" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="44440" this_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="47461" this_length="2501" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="68450" this_length="2984" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="82975" this_length="2372" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="98244" this_length="2521" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="118839" this_length="2263" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="127119" this_length="2461" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="140939" this_length="478" />
+</document>
+

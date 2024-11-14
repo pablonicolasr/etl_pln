@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00966.txt">
+  <feature name="about" authors="Crawford, Francis Marion" title="A Cigarette-Maker's Romance" lang="en" />
+  <feature name="md5Hash" value="95385bcfd96206dfada2ac338093b129" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="73285" this_length="17106" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="111768" this_length="3741" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="149313" this_length="4599" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="172497" this_length="21647" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="306959" this_length="2812" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="330241" this_length="4282" />
+</document>
+

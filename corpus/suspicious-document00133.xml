@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00133.txt">
+  <feature name="about" authors="Peck, George Wilbur" title="Peck's Bad Boy with the Cowboys" lang="en" />
+  <feature name="md5Hash" value="a34933795771701146163760c3a036c7" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6837" this_length="1445" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="88901" this_length="23227" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="176917" this_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="180335" this_length="244" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02310.txt">
+  <feature name="about" authors="Conrad, Joseph" title="The Nigger Of The &quot;Narcissus&quot; A Tale Of The Forecastle" lang="en" />
+  <feature name="md5Hash" value="add71aa271fd25ddc16e72e964a1da73" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="92456" this_length="5023" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="114444" this_length="2409" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="170705" this_length="4284" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="268745" this_length="2544" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="293457" this_length="238" />
+</document>
+

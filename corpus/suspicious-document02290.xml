@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02290.txt">
+  <feature name="about" authors="Stratton-Porter, Gene" title="Her Father's Daughter" lang="en" />
+  <feature name="md5Hash" value="7eb5348e2d312e8aba2a12ae1bbb0f1f" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="35316" this_length="3864" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="123751" this_length="2255" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="175561" this_length="2750" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="214157" this_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="217881" this_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="262068" this_length="2104" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="287858" this_length="1806" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="324705" this_length="522" />
+</document>
+

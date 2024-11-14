@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01369.txt">
+  <feature name="about" authors="Sheridan, Philip Henry" title="The Memoirs of General Philip H. Sheridan, Volume II., Part 5" lang="en" />
+  <feature name="md5Hash" value="b7d1032797929b895beae6d1f3030d75" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="836" this_length="474" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1549" this_length="484" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5367" this_length="2226" />
+</document>
+

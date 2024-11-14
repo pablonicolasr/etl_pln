@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01686.txt">
+  <feature name="about" authors="Hough, Emerson" title="The Way of a Man" lang="en" />
+  <feature name="md5Hash" value="bbbe181c669d5c9d43e9201323480b5f" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="59016" this_length="3855" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="128232" this_length="1548" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="180751" this_length="2064" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="277774" this_length="4688" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="347942" this_length="3216" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="430938" this_length="1512" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="487669" this_length="2554" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="508245" this_length="499" />
+</document>
+

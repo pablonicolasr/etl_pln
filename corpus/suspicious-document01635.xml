@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01635.txt">
+  <feature name="about" authors="Plato" title="Charmides" lang="en" />
+  <feature name="md5Hash" value="cc37cf76a7f811430b137f7bd51fa75f" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="13930" this_length="4659" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="23730" this_length="690" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="28437" this_length="1417" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="33498" this_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="80186" this_length="14705" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="106063" this_length="1706" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="115998" this_length="462" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="117309" this_length="494" />
+</document>
+

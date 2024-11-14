@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00945.txt">
+  <feature name="about" authors="Schiller, Friedrich" title="History of the Revolt of the Netherlands — Volume 02" lang="en" />
+  <feature name="md5Hash" value="88ca997ece750ae1a13094b61647df6e" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3996" this_length="509" />
+</document>
+

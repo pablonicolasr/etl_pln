@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01325.txt">
+  <feature name="about" authors="Motley, John Lothrop" title="The Rise of the Dutch Republic — Volume 23: 1576" lang="en" />
+  <feature name="md5Hash" value="168088a8e634f61273bac32a4e270505" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="10525" this_length="3419" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="43890" this_length="3157" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="81735" this_length="2307" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="115886" this_length="4267" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="135360" this_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="138829" this_length="234" />
+</document>
+

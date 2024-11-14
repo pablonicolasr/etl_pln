@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02238.txt">
+  <feature name="about" authors="Balzac, Honoré de" title="The Magic Skin" lang="en" />
+  <feature name="md5Hash" value="b3207ab871ea518674eba3da2db1f7e2" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="81466" this_length="15693" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="384050" this_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="393483" this_length="2749" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="452886" this_length="701" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="488517" this_length="1662" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="514975" this_length="1463" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="532065" this_length="528" />
+</document>
+

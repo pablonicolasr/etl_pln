@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02420.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Old Mortality, Volume 1." lang="en" />
+  <feature name="md5Hash" value="c34a8ca7ae885a1afa23738444b341bf" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4773" this_length="2925" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="21497" this_length="2497" />
+</document>
+

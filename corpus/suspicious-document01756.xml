@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01756.txt">
+  <feature name="about" authors="Wheeler, Candace" title="Principles of Home Decoration With Practical Examples" lang="en" />
+  <feature name="md5Hash" value="2c06f1de4890715c3b4fa7d1ecc7a002" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7778" this_length="773" />
+</document>
+

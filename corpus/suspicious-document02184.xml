@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02184.txt">
+  <feature name="about" authors="Wharton, James" title="The Bounty of the Chesapeake Fishing in Colonial Virginia" lang="en" />
+  <feature name="md5Hash" value="1d833f0511b2335aeafde196cb13e7bc" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1955" this_length="243" />
+</document>
+

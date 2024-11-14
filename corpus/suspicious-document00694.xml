@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00694.txt">
+  <feature name="about" authors="Young, Filson" title="Christopher Columbus and the New World of His Discovery — Volume 3" lang="en" />
+  <feature name="md5Hash" value="d9cfbd0652785e1159e2b46ff93079d6" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6951" this_length="1944" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15713" this_length="511" />
+</document>
+

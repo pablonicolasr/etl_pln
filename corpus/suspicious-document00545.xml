@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00545.txt">
+  <feature name="about" authors="Meredith, George" title="Celt and Saxon — Volume 1" lang="en" />
+  <feature name="md5Hash" value="573acc38af1324f9622126de52cb4dd1" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="29381" this_length="3466" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="135739" this_length="3873" />
+</document>
+

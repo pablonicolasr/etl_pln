@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00793.txt">
+  <feature name="about" authors="West, Rebecca" title="The Judge" lang="en" />
+  <feature name="md5Hash" value="aaa08b65aa53ae9ec2cffb0a04b3bc7c" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="46410" this_length="18119" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="138922" this_length="23939" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="314186" this_length="2689" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="321132" this_length="764" />
+</document>
+

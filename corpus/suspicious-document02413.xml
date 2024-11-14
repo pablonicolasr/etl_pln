@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02413.txt">
+  <feature name="about" authors="Whittier, John Greenleaf" title="Reform and Politics, Part 2, from Volume VII, The Works of Whittier: the Conflict with Slavery, Politics and Reform, the Inner Life and Criticism" lang="en" />
+  <feature name="md5Hash" value="904e059e0af20756eb0a967c0a1b6ad8" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="230" this_length="470" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2361" this_length="609" />
+</document>
+

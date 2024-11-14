@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01099.txt">
+  <feature name="about" authors="Hawthorne, Nathaniel" title="Passages from the American Notebooks, Volume 1" lang="en" />
+  <feature name="md5Hash" value="19b2a046ba194cbb2e22fd55eecfb40f" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="85325" this_length="20187" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="192545" this_length="14388" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="253344" this_length="4841" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="295254" this_length="1394" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="323973" this_length="4972" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="339984" this_length="2065" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="348748" this_length="241" />
+</document>
+

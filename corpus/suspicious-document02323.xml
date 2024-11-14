@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02323.txt">
+  <feature name="about" authors="Cervantes Saavedra, Miguel de" title="The History of Don Quixote, Volume 2, Part 39" lang="en" />
+  <feature name="md5Hash" value="7408419475a4210295dccf7ee47f79ae" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8205" this_length="1634" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="19232" this_length="1405" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="34702" this_length="3264" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="47587" this_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="48756" this_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="50913" this_length="234" />
+</document>
+

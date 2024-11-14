@@ -1,0 +1,556 @@
+﻿This is a field of enormous promise, and its practicality has already been demonstrated to
+the extent of placing satellites into precise orbits, such as Tiros (weather) and Transit (navigation),
+and of communicating at long distances--23 million miles in the case of Pioneer V. As a result:
+
+     Government and industry technicians are rapidly developing new
+     Earth satellites to beam not only television programs but radio
+     broadcasts and phone conversations to every spot on Earth that's
+     equipped to receive them. Thus this space project, far more than
+     most, will touch the ordinary citizen. The goal: a workable,
+     worldwide communications system in space before this decade is
+     over. It will be, declares one researcher, "the ultimate in
+     communications."[55]
+
+Incidentally, the first worldwide communications system of this type, and whether it is conducted
+in English or Russian, may have crucial prestige and propaganda ramifications.
+
+Such facilities should be possible through a system of carefully placed satellites so that
+radio signals can be relayed to any part of the globe at any time.
+
+Moreover they appear to be essential when one considers that within the next 20 years existing
+techniques are apt to be stretched beyond reasonable economic limits by demands for long distance
+communications. It is difficult to see how transoceanic television will otherwise be possible
+when it is realized that there is presently a capacity of less than 100 telephone channels
+across the Atlantic and a single television channel is equivalent in band width to 1,000 telephone
+channels. It appears that a system utilizing satellites is the most promising solution to this
+problem.[56]
+
+More esoteric communications systems may also arise from space research.
+
+     In some future year when a cruising space vehicle communicates with
+     another space vehicle or its orbiting station, it may use a beam of
+     light instead of conventional radio. Not that radio will be
+     inoperative under the airless conditions of space--rather the
+     reverse--but there is reason to believe that communication by
+     sunlight not only will be cheaper but will entail carrying much
+     simpler and lighter equipment for certain specialized space
+     applications. (The Air Force) is developing an experimental system
+     that will collect sun rays, run them through a modulator, direct
+     the resultant light wave in a controlled beam to a receiver. There
+     the wave will be put through a detector, transposed into an
+     electrical impulse and be amplified to a speaker. Depending on the
+     type of modulator used, either the digital (dot-dash) message or a
+     voice message can be sent.[57]
+
+Might not such a system find practical usage on Earth, particularly in sunny, arid lands?
+
+WEATHER PREDICTION AND MODIFICATION
+
+Meteorological satellites should make possible weather observations over the entire globe.
+Today, only 20 percent of the globe is covered by any regular observational and reporting systems.
+If we can solve the problems of handling the vast amounts of data that will be received, develop
+methods for timely analysis of the data and the notification of weather bureaus throughout
+the world, we should be able to improve by a significant degree the accuracy of weather predictions.
+An improvement of only 10 percent in accuracy could result in savings totaling hundreds of
+millions of dollars annually to farmers, builders, airlines, shipping, the tourist trade, and
+many other enterprises.
+
+Perhaps even greater savings will come from warning systems devised for hurricanes and tornadoes.
+
+The slight knowledge which humans actually have of weather forces can be seen from the fact
+that at present we do not even know exactly how rain begins.[58] Learning to predict it and
+to modify it, through space application, might help slow down the soil erosion of arable land--that
+"geological inevitability * * * which man can only hasten or postpone."[59] It is noteworthy
+that the two leading nations in space research, the United States and the U.S.S.R., are among
+the most affected by soil erosion.
+
+The "leg up" which the United States has in this particular phase of space research is illustrated
+by the acute photographic talents of the Tiros satellite and their meaning to weather experts.
+The following description of some of the earliest pictures by the Director of the Office of
+Meteorological Research, U.S. Weather Bureau, is illuminating.
+
+     This picture, labeled "No. 1," was the storm that was picked up in
+     the early orbits of Tiros on the first day of launch, April 1. This
+     shows the storm 120 miles east of Cape Cod, with dry continental
+     air streaming off the United States, not shown by clouds, and off
+     the coast the moist air streaming up to the north, counterclockwise
+     around the center, producing widespread clouds and precipitation as
+     far north as the Gulf of St. Lawrence.
+
+     On that same day mention was made of a storm in the Midwest. That
+     is illustrated by photograph No. 2. This was centered over
+     southeast Nebraska, a rather extensive storm. Again, we have a
+     clear air portion shown by a dark area, the ground underneath,
+     which has less brightness than the clouds, the cold air from Canada
+     streaming into that area, not characterized by clouds, and to the
+     east the moist air from the Gulf of Mexico, in this general
+     neighborhood, streaming around into that center and producing
+     rather widespread rains. In this case near the Gulf of Mexico,
+     where the cloud is extremely bright, indicating that the clouds are
+     very high, thunderstorms were found in that area.
+
+     It is a sort of situation in which tornadoes are to be found in
+     this very bright cloudy area, especially this time of year in the
+     Midwest.
+
+     A third vortex was observed, also April 1, in the Gulf of Alaska,
+     500 miles southeast of Kodiak Island. The vortex circulation is
+     clearly evidenced by the clouds which form in a circular array, and
+     the large clear area in the center of the storm.
+
+     No. 4 picture refers to a very big storm 1,500 miles in diameter
+     located 300 miles west of Ireland on April 2. This is a very old
+     storm which was whirling around, had no fronts associated with it.
+     It has long since wound up around the center. There is a rather
+     well-marked structure to the clouds that you can see. It is quite
+     different from the pictures in the first two. These are storms
+     mostly over the continental area or just off the coast. The storms
+     over the oceans seem to show more of a banded structure. By that I
+     mean circular bands of clouds, of width perhaps ranging from 20
+     miles to a few hundred miles, spiraling around the center in a
+     counterclockwise manner.[60]
+
+HEALTH BENEFITS
+
+Of all the problems contingent upon space flight it is doubtful if any are more perplexing
+than the biological ones. In fact, it now appears quite likely that the limiting factor on
+manned space exploration will be less the nature of physical laws or the shortcoming of space
+vehicle systems than the vulnerability of the human body.
+
+In order to place humans in space for any extended period, we must solve a host of highly complicated
+biological equations which demand intensive basic research. The other side of the coin, however,
+is that when scientific breakthroughs do occur in this area, they will probably be among the
+most beneficial to come from the space program.
+
+An idea of what is going on in the space medicine field can be obtained from this summary:
+
+     Engineers already have equipped man with the vehicle for space
+     travel. Medical researchers now are investigating many factors
+     incident to the maintenance of space life--to make possible man's
+     flight into the depths of space. Placing man in a wholly new
+     environment requires knowledge far beyond our current grasp of
+     human biology.
+
+     Here are some of the problems under investigation: The
+     determination of man's reactions; the necessity of operating in a
+     completely closed system compatible with man's physiological
+     requirements (oxygen and carbon dioxide content, food, barometric
+     pressure, humidity and temperature control); explosive
+     decompression; psychophysiological difficulties of spatial
+     disorientation as a result of weightlessness; toxicology of
+     metabolites and propellants; effects of cosmic, solar, and nuclear
+     ionizing radiation and protective shielding and treatment; effects
+     on man's circulatory system from accelerative and decelerative g.
+     forces; the establishment of a thermoneutral range for man to exist
+     through preflight, flight, and reentry; regeneration of water and
+     food.[61]
+
+In addition, intensive efforts are being brought to bear on such problems as the effect on
+humans who are deprived of their sensory perceptions, or whose sensory systems are overloaded,
+or who are exposed to excessive boredom or anxiety or sense of unreality, or who must do their
+job under hypnosis or hypothermia (cooling of warm-blooded animals).
+
+A recent space medicine symposium heard this theory advanced by a prominent medical scholar:
+
+     Attractive, indeed, for the space traveler would be the choice of
+     hibernating during long periods when there was nothing he had to
+     do. With the increase of speeds and the lowering of metabolism,
+     consideration of flights running several hundred or even thousands
+     of years cannot be offhandedly dismissed as mere fantasy. During
+     prolonged flights of many months or years there will be very little
+     to see and that of negligible interest. The most practical way of
+     dealing with the problem might well be to have the pilot sleep 23
+     of the 24 hours.[62]
+
+Lowering the body temperature would be one way of inducing the necessary deep sleep.
+
+Another possibility of handling some of the biological problems of space flight, suggested
+by another physician, would be for astronauts to discard the 24-hour Earth day and establish
+a longer rhythm for their lives.[63]
+
+At any rate, and while we may not now see just how it will come about, knowledge gained from
+experiments such as these may result in important medical and psychological advances.
+
+In the drug and technological area of medicine, concrete benefits have already resulted from
+the national space program. These include, as already mentioned, a drug developed from a missile
+propellant to treat mental ills, a means of rapidly lowering blood temperature in operations,
+and a small efficient valve which could replace the valve in a human heart.
+
+Particularly gratifying, from the standpoint of medical value is the Army's work toward an
+anti-radiation drug which could be taken before exposure to reduce the biological effects of
+radiation.[64] Such a drug, which is of special interest to astronauts who might be required
+to subject themselves to varying belts of radiation, might be of even greater use in the cause
+of civil defense.
+
+A final and far-reaching phase of the health side of space exploration deals with the basic
+nature of biology itself--how and under what conditions life grows. Up to now biological science
+has been largely "the rationalization of particular facts and we have had all too limited a
+basis for the construction and testing of meaningful axioms to support a theory of life."[65]
+Through research made possible by the space program it may be possible to alter this condition.
+"The dynamics of celestial bodies, as can be observed from the Earth, is the richest inspiration
+for the generalization of our concepts of mass and energy throughout the universe. The spectra
+of the stars likewise testify to the universality of our concepts in chemistry. But biology
+has lacked tools of such extension, and life until now has meant only terrestrial life."[66]
+
+The secrets which this research may divulge and their meaning for human health can only be
+imagined. But they certainly would not be minor.
+
+EDUCATION BENEFITS
+
+No enterprise has so stirred human imagination as the reach of man toward the exploration of
+space. New worlds to explore. New distances to travel--3,680 million miles to Pluto, the outermost
+planet of our solar system, 8 years journey at 50,000 miles per hour when we attain such a
+capability. Innumerable problems ahead. New knowledge needed in almost every branch of science
+and technology from magneto fluid dynamics to cosmology, from materials to biology and psychology.[67]
+
+"New knowledge needed" means better and stronger education is essential. And not only in the
+physical sciences. In the social sciences and the arts as well.
+
+     Certainly man's space adventure can help profoundly to make a finer
+     creature of him, but only if his adventures on Earth can do so as
+     well. Essentially what this means to a social psychologist is that
+     we must somehow raise our level of education to the point where
+     most men most of the time can appreciate and actively absorb the
+     implications of knowledge and developments in all areas
+     sufficiently to let them enrich their personal philosophies.
+     Obviously this kind of education is only in part a scientific
+     one.[68]
+
+Moreover, the technical and management aspects of the space program involve collaboration with
+nonscientific persons such as businessmen, bankers, and public officials in assessing worthwhile
+objectives and in judging the technical and economic feasibility of projects designed to accomplish
+these objectives.[69] Consequently each type must educate the other in his own specialty if
+an effective, stepped-up space program is to be achieved.
+
+The demand
+
+Apparently the demand for specific formal education in the science of astronautics is increasing
+faster than it is being supplied. Although many colleges and universities have been setting
+up courses dealing with astronautics, the state of the art does not seem to have crystallized
+to the extent that it permits fashioning a career in the field at the educational level. Of
+course, discontent is created. One publication has editorialized:
+
+     We have received a surprising number of letters from young people
+     who actually want to know how and where they can get started in a
+     career in astronautics. These, for the most part, are high school
+     students--and, evidently, they couldn't get the information they
+     wanted from their own school. * * * Isn't the age of space yet
+     important enough for all the high schools to sponsor interest in
+     our space programs and to point out the need for a constant flow of
+     young brains?[70]
+
+The answer undoubtedly is that such grassroots demand will bring about increased academic curricula
+in astronautics in direct proportion to its magnitude.
+
+Meanwhile, the availability of work for persons with a background in space-related subjects
+can be gaged to some extent by observing the variety of personnel requirements on major space
+exploration projects.
+
+A single American firm, for example, uses 49 different professional specialists in its work
+for the National Aeronautics and Space Administration and in its space work for the Department
+of Defense.[71] Multiplied by the thousands of companies which are doing similar work, the
+list gives an idea of the astronautic demand confronting the Nation's educational institutions:
+
+  Acoustician
+  Aerodynamicist
+  Aeronautical engineer
+  Agricultural engineer
+  Astrodynamicist
+  Astronomer
+  Astrophysicist
+  Biochemist
+  Biophysicist
+  Ceramics specialist
+  Chemist
+  Computer specialist
+  Crystallographer
+  Development engineer
+  Doctor of medicine
+  Electrical engineer
+  Electronic engineer
+  Experimental physicist
+  Flight engineer
+  Gyroscopics specialist
+  Hydraulic engineer
+  Information theory analyst
+  Inorganic chemist
+  Logical designer
+  Magnetic device engineer
+  Mathematician
+  Mechanical applications engineer
+  Mechanical engineer
+  Mechanisms specialist
+  Medical electronic engineer
+  Metallurgical engineer
+  Methods engineer
+  Nuclear physicist
+  Oceanographer
+  Organic chemist
+  Physical chemist
+  Pneumatic engineer
+  Process engineer
+  Production engineer
+  Project engineer
+  Psychologist
+  Reliability engineer
+  Sociologist
+  Solid state physicist
+  Structural engineer
+  System analyst
+  Theoretical physicist
+  Thermodynamicist
+  Transducer engineer
+
+FOOTNOTES:
+
+[50] 25 supra. See also address to the American Bankers Association, Oct. 28, 1958.
+
+[51] Space Business Daily, June 17, 1960.
+
+[52] Feldman, George J., cited in a letter to the House Committee on Science and Astronautics,
+Apr. 29, 1960.
+
+[53] From Michelson, Edward J., "How Missile-Space Spending Enriches the Peacetime Economy,"
+Missiles and Rockets, Sept. 14, 1959, pp. 13-17.
+
+[54] Tischer, R. G., "A Search for the Spaceman's Food," Space Journal, December 1959, p. 46.
+
+[55] Kraar, Louis, Wall Street Journal, May 4, 1960.
+
+[56] 7 supra.
+
+[57] Release No. 38-60, Air Research and Development Command, May 2, 1960.
+
+[58] Lear, John, "Where Does Rain Begin?" New Scientist, Mar. 24, 1960, p. 724.
+
+[59] "Wind and Soil," New Scientist, May 26, 1960, p. 1327.
+
+[60] Wexler, Dr. Harry. Press conference conducted by the National Aeronautics and Space Administration,
+Apr. 22, 1960.
+
+[61] Lockheed, Missiles and Space Division, medical research, Sunnyvale, Calif.
+
+[62] Lewis, Dr. F. J., before the Space Flight Symposium, San Antonio, Tex., May 28, 1960.
+
+[63] Kleitman, Prof. Nathaniel, before the Space Flight Symposium, San Antonio, Tex., May 26, 1960.
+
+[64] Taylor, Lt. Col. Richard R., USA (MC), testimony before the House Committee on Science
+and Astronautics, June 15, 1960.
+
+[65] Lederberg, Joshua, "Exobiology-Experimental Approaches to Life Beyond Earth," Science
+in Space, ch. IX, National Academy of Sciences, Washington, D.C., February 1960.
+
+[66] Ibid.
+
+[67] Dryden, Dr. Hugh L., speech before the Engineering Society of Cincinnati, Feb. 18, 1960.
+
+[68] Michael, Donald N., "Space Exploration and the Values of Man," Space Journal, September
+1959, p. 15.
+
+[69] 67 supra.
+
+[70] Space Age, August 1959, p. 3.
+
+[71] Minneapolis-Honeywell, Military Products Group.
+
+V. LONG-RANGE VALUES
+
+In assessing the practical values of space exploration it does not seem logical to limit considerations
+to those values which are immediate or near-future ones. The worth of a present activity may
+be doubled or trebled because of its long-range potential.
+
+Such values may not be practical within the context of today's usage, but they may be extremely
+practical if we are willing to concede that those of us living today have an interest in and
+a responsibility for what happens on Earth in the decades and centuries to come.
+
+TROUBLE SPOTS
+
+Thinking along these lines it is not difficult to conjure up a picture of some of the difficult
+physical and social problems which will be facing the Earth in the years which stretch ahead.
+The foregoing sections of this report, for example, have already indicated extensive difficulties
+inherent in at least five major categories.
+
+  (1) Bursting population.
+  (2) Acute water shortage.
+  (3) Soil erosion and disappearance.
+  (4) Too much leisure.
+  (5) Intensified nationalism.
+
+In each area it is probable that space exploration will ultimately play an important role.
+
+Population
+
+Social scientists have been warning for years of the drastic social upheavals which must inevitably
+accompany an "exploding" population. It is a problem the complexity of which grows in geometric
+progression as time goes on. In the United States nearly 300 years were required to produce
+90 million people. In the past 60 years this number has doubled. The implications are obvious.
+They are only too plain to urban and suburban planners who endeavor to cope with the antlike
+construction and activity of the human race as it burgeons with each succeeding year.
+
+Of course, this is not a domestic matter but a global one. Its seriousness has been described
+as follows: "Projection of the post-World War II rate of increase gives a population of 50
+billions (the highest estimate of the population-carrying capacity of the globe ever calculated
+by a responsible scholar) in less than 200 years."[72] A European professor of medicine adds
+that any surge in human longevity at this time is quite undesirable from the standpoint of
+making elderly persons useful or cared for. "The problems posed by the explosive growth of
+populations * * * are so great that it is quite reassuring to know that biologists and medical
+men have so far been unsuccessful in increasing the maximum lifespan of the human species *
+* * and * * * it would be a calamity for the social and economic structure of a country if
+the mean lifespan were suddenly to increase from 65 to 85 years."[73]
+
+Some anthropologists pessimistically wonder if man is going to prove like the locust by populating
+himself into near extinction from time to time.
+
+Without subscribing to this view, one must nevertheless take notice of the difficulties posed
+by population increase, not merely those of food, shelter, education, and the like but also
+those resulting from cellular, cramped, close living.
+
+Whichever phase of the problem is studied, it seems not unreasonable to conclude that space
+research will help find a solution. New ways to produce food, new materials for better shelter,
+new stimuli for education--all of these are coming from our space program. As for the matter
+of adequate living room, space research may result in ways to permit an easy and efficient
+scattering of the population without hurting its mobility. This might result from the development
+of small subsidiary types of craft, or "gocarts," originally designed for local exploration
+on other planets. Such craft, whether they operated by air cushion, nuclear energy, gravitational
+force, power cell, or whatever, conceivably would permit Earth's population to spread out without
+the need for expensive new roads--which, by the way, take millions of acres of land out of
+productive use.
+
+A development of this sort, together with new power sources to replace the fossil fuels on
+which factory, home, and vehicle now depend, might also all but eliminate the growing smog
+and air-pollution blight.
+
+Water shortage
+
+A direct result of the population increase, multiplied by the many new uses for which water
+is being used in home appliances, etc., and plus the greatly increased demand for standard
+uses such as indoor plumbing, irrigation, and factory processing, is the likelihood that water
+shortage will be high on the list of future problems. Ways to conserve and reuse water, together
+with economical desalting of sea water, will be essential in the decades ahead. Space research
+may provide part of the answer here, too. (See New Water Sources and Uses, sec. III.)
+
+Soil erosion
+
+The Russian steppes of Kazakhstan are providing the world with a great contemporary dust bowl,
+reminiscent of the middle 1930's when dust from the Great Plains stretched from Texas to Saskatchewan.
+Questionable agriculture policies, drought, and strong easterly winds are among the forces
+blamed for the trials of southern Russia.[74] So great is the extent of this disturbance that
+the dust cloud has been identified in photographs taken by American weather satellites.
+
+Of course, "wind erosion is only one of the processes whereby the Earth's arable land is diminishing
+and the deserts increasing; erosion by water can also sweep away the soil."[75] But insofar
+as the current dust bowl of the Soviet steppes has "diminished food resources at a time when
+the number of mouths to feed is increasing so rapidly, the world is the poorer."[76]
+
+What can space research do about this vital trend, which again seems destined to accelerate
+in the future?
+
+While we cannot be sure, we can conjecture that improved soil conservation might turn out to
+be the greatest benefit of weather understanding and modification. Agriculture policies might
+be adapted to the long-range patterns uncovered by weather satellites and, eventually, through
+better understanding of the making of weather, it may be possible to modify weather forces
+in a manner which will preserve the soil.
+
+In a more remote vein, it may be that knowledge gained from a first-hand study of the Moon
+or other planets in the solar system will eventually contribute to the conservation of soil
+on Earth in ways as yet unimagined.
+
+Added leisure
+
+Acquiring more time for leisure sounds good. Very much more leisure than most people now have,
+however, is apt to present trouble in itself. Since it appears that the time is not far away
+when those living in the highly developed countries will no longer have to concentrate their
+prime energies on the traditional quest for food, clothing, and shelter, a potentially dangerous
+vacuum may be the result. At least the psychologists seem agreed that people must feel a useful
+purpose in their lives and have ways to pursue it.
+
+     Above all, leisure makes a challenge to the human spirit. Athens,
+     in her Golden Age, displayed a genius for the creative use of
+     leisure which can be seen as complementary, and indeed superior, to
+     her genius for military and commercial ventures. There have also
+     been such periods of all-pervasive inspiration in the history of
+     other peoples * * *. The doubling of our standard of living will
+     present a growing challenge to the human spirit and produce graver
+     consequences, should we fail to meet it. We neglect the proper use
+     of leisure at our peril.[77]
+
+In other words, the answer to the problem does not lie solely with the golf course, the yacht
+club, the theater, or the lengthened vacation. Much more will be required.
+
+The intellectual stimulus of space exploration and research, which undoubtedly will divide
+into numerous branches like capillary streaks from a bolt of lightning, should be markedly
+useful in helping to fill this vacuum. Space research would seem particularly applicable in
+this role since it deals with fundamental knowledge and concepts which are satisfying in terms
+of psychological needs and sense of purpose.
+
+Intensified nationalism
+
+Ever since World War II the era of colonialism has been on the wane. Many nations have proclaimed,
+won, or wrested their independence during that period. Others appear to be on the verge of
+doing so. At any rate, it is clear that in the decades ahead the world is going to see the
+rise of even more independent nations with strong nationalistic feelings.
+
+History implies that developments of this sort are often accompanied by international unrest--because
+of the normal ebullience of national adolescence and the desire to be accepted by the world
+community, as well as a variety of concomitant political and economical upheavals.
+
+For whatever trials may lie ahead on this score, space exploration may prove to be much needed
+oil on rough water.
+
+Ambitious, advanced, sophisticated space exploration in the future is almost certain to require
+a high degree of international cooperation and perhaps even a pooling of resources and funds
+to some degree. Already America has found it expedient, in some cases mandatory, to depend
+on facilities in other countries for her ventures into space. A good example is the close cooperation
+between the United States and tracking bases located in Canada, Australia, South Africa, and
+elsewhere. An even better one is the important part played in U.S. efforts by England's giant
+radio telescope at Jodrell Bank. Most of our launches are followed by this equipment and much
+of the best scientific information gained from it. In the case of Pioneer V, Jodrell Bank was
+essential to keep in touch with the satellite at the longer distances and, moreover, was actually
+required to separate the fourth stage of the launch vehicle and direct the payload toward its
+Venus orbit.
+
+Mutual need and cooperation thus fostered by space exploration can be expected to siphon off
+some of the political tensions of the future, especially as more and more nations become interested
+in space and inaugurate complex programs of their own.
+
+LIMITATIONS ON SPACE RESEARCH
+
+There are some who are convinced that the exploration of space is rigidly limited and that
+the landing of men on extraterrestrial bodies other than the Moon is quite improbable. They
+are sure that extensive travel outside the solar system is impossible.
+
+Admittedly, the problems of such travel are enormous. But are they incapable of solution?
+
+     Twenty-six million miles to Venus, 49 million miles to Mars, 3,680
+     million miles from the Sun to Pluto at the outer edge of the solar
+     system. The nearest of the stars is 25 million, million miles away,
+     and travel to it at 10 miles per second would require 80,000 years.
+     Is the travel of man to the stars a futile dream? Each generation
+     of man builds on the shoulders of the past. The exploration of
+     space has begun; who now can set limits to its future
+     accomplishments?[78]
+
+That is the thought of one of the Nation's most expert space scientists.
+
+"Who now can set limits * * * ?"
+
+It seems to mesh curiously well with one of the most interesting phenomena of our day--the
+emergence of a breed of engineers, technicians, teachers, and scientists who do not recognize
+limits and who refuse to concede that something cannot be so because it fails to fit conventional
+patterns or conform to the physical laws of the universe as we now know them. Of this there
+is growing evidence.
+
+For many years it has been an accepted "fact," for instance, that the Moon is a dead world
+with no life upon it. The suggestion made by the great 16th century mathematician, Johannes
+Kepler, that some life might exist on the Moon was debunked into silence long since. Yet today
+a fellow of the British Royal Astronomical Society writes that the first men to arrive on the
+Moon may find not only plant life but possibly animal life. "The fact that terrestrial organisms
+may be unable to survive in the surroundings of another planet is by itself no more significant
+than that fishes and other marine animals die when exposed to the air. From their point of
+view air is uninhabitable because they have failed to equip themselves with lungs."[79] And
+he adds that his surmise "leaves out of account the possibilities of the Moon's underground
+world, which are incalculable, for there water, the vital gases, congenial temperatures, and
+increased pressures will all be present. Only sunlight is absent."
+
+Then there is Project Ozma, the search for life on other planets or in other star systems,
+which began in April 1960 at Green Bank, W. Va.

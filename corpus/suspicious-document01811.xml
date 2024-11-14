@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01811.txt">
+  <feature name="about" authors="Sharp, Evelyn" title="All the Way to Fairyland Fairy Stories" lang="en" />
+  <feature name="md5Hash" value="0f7fe92f14e73b630b6f514497c6dfd9" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1977" this_length="745" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15300" this_length="2796" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="27427" this_length="800" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="32173" this_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="34076" this_length="269" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01370.txt">
+  <feature name="about" authors="Russell, Robert Vane" title="The Tribes and Castes of the Central Provinces of India—Volume I (of IV)" lang="en" />
+  <feature name="md5Hash" value="0a831c7e81f3543f01c63561b0ca861b" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="51099" this_length="16748" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="231702" this_length="24031" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="630018" this_length="15072" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="779860" this_length="15049" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="873292" this_length="17798" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1082467" this_length="253" />
+</document>
+

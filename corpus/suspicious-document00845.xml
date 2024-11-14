@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00845.txt">
+  <feature name="about" authors="Stephenson, Nathaniel Wright" title="Lincoln; An Account of his Personal Life, Especially of its Springs of Action as Revealed and Deepened by the Ordeal of War" lang="en" />
+  <feature name="md5Hash" value="b6a2af7ce24cc5e8fbaa75e981e4ed4b" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="4444" this_length="401" />
+</document>
+

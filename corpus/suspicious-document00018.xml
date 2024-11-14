@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00018.txt">
+  <feature name="about" authors="Stevenson, Robert Louis" title="Virginibus Puerisque and Other Papers" lang="en" />
+  <feature name="md5Hash" value="8f6c13a5924c8bcea6b164872809008d" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="549" this_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1994" this_length="272" />
+</document>
+

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00324.txt">
+  <feature name="about" authors="Roosevelt, Franklin Delano" title="The Fireside Chats of Franklin Delano Roosevelt" lang="en" />
+  <feature name="md5Hash" value="d29d254d7c9b389d761f5b5abe5b655d" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2066" this_length="272" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01274.txt">
+  <feature name="about" authors="Oliphant, Margaret" title="The Marriage of Elinor" lang="en" />
+  <feature name="md5Hash" value="320f3794f5fd57db374f3688a3f36f4d" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="58841" this_length="22984" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="323517" this_length="20964" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="642186" this_length="23781" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="790325" this_length="2784" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="818588" this_length="1629" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="847845" this_length="2986" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="877000" this_length="1795" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="895102" this_length="718" />
+</document>
+

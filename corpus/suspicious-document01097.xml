@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01097.txt">
+  <feature name="about" authors="Parker, Theodore" title="Two Christmas Celebrations" lang="en" />
+  <feature name="md5Hash" value="8599543d6f512530c8d526addee94ebd" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="20683" this_length="4202" />
+</document>
+

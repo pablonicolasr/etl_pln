@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01583.txt">
+  <feature name="about" authors="Ewing, Juliana Horatia Gatty" title="A Great Emergency and Other Tales" lang="en" />
+  <feature name="md5Hash" value="1ae91a8153983dcc57f7491c99aa236b" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="27863" this_length="2834" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="81651" this_length="1949" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="141295" this_length="1294" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="196277" this_length="2809" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="312853" this_length="3041" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="330316" this_length="209" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="331350" this_length="231" />
+</document>
+

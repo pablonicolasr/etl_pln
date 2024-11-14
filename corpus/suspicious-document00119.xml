@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00119.txt">
+  <feature name="about" authors="Nesbit, Edith" title="Royal Children of English History" lang="en" />
+  <feature name="md5Hash" value="656b6eb624c21f7cdfff2e32c3304251" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6157" this_length="4424" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="57147" this_length="851" />
+</document>
+

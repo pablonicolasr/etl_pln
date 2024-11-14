@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00298.txt">
+  <feature name="about" authors="Shaw, Thomas" title="Clovers and How to Grow Them" lang="en" />
+  <feature name="md5Hash" value="dbfc31b978073235970c60ad1e3d4f05" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="55358" this_length="17523" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="121467" this_length="3975" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="160455" this_length="3460" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="178050" this_length="4211" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="207248" this_length="4287" />
+</document>
+

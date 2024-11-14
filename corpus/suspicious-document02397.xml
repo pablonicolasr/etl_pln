@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02397.txt">
+  <feature name="about" authors="Balzac, Honoré de" title="Vendetta" lang="en" />
+  <feature name="md5Hash" value="3a55d146cb7ecfe52ea69b63b06eafc8" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7806" this_length="3010" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="40855" this_length="2417" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="70847" this_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="103458" this_length="3000" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="120316" this_length="1431" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="130376" this_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="137944" this_length="737" />
+</document>
+

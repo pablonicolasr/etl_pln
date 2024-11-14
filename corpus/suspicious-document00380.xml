@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00380.txt">
+  <feature name="about" authors="Thompson, D. P." title="The Rangers; or, The Tory's Daughter A tale illustrative of the revolutionary history of Vermont" lang="en" />
+  <feature name="md5Hash" value="a8e514a8175866061757e2e1006fe1d3" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="49416" this_length="18086" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="134968" this_length="1763" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="144775" this_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="147904" this_length="509" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="149851" this_length="548" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="150793" this_length="454" />
+</document>
+

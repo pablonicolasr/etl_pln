@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02521.txt">
+  <feature name="about" authors="Lavay, Jerome Buell" title="Disputed Handwriting An exhaustive, valuable, and comprehensive work upon one of the most important subjects of to-day. With illustrations and expositions for the detection and study of forgery by handwriting of all kinds" lang="en" />
+  <feature name="md5Hash" value="790badc2040fcace2bfd9e6bd6979a31" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="143065" this_length="20785" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="222235" this_length="1750" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="252576" this_length="2320" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="287408" this_length="4016" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="320101" this_length="2498" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="337744" this_length="2015" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="356240" this_length="242" />
+</document>
+

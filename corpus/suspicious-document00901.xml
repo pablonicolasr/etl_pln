@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00901.txt">
+  <feature name="about" authors="Winslow, Anna Green" title="Diary of Anna Green Winslow A Boston School Girl of 1771" lang="en" />
+  <feature name="md5Hash" value="3a54b6e422b74b80806a38e160947517" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1584" this_length="831" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="25154" this_length="726" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="34284" this_length="239" />
+</document>
+

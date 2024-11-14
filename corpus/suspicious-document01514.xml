@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01514.txt">
+  <feature name="about" authors="Abbot, Francis Ellingwood" title="A Public Appeal for Redress to the Corporation and Overseers of Harvard University Professor Royce's Libel" lang="en" />
+  <feature name="md5Hash" value="34a53d93a37f14b7dbaceef515b2c6a7" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="31078" this_length="2403" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="57174" this_length="494" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="92844" this_length="2007" />
+</document>
+

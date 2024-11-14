@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00148.txt">
+  <feature name="about" authors="Lord, John" title="Beacon Lights of History, Volume 03 Ancient Achievements" lang="en" />
+  <feature name="md5Hash" value="ac2f122ad16aed6e4758a8751fa9dcca" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2650" this_length="2490" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="100251" this_length="18773" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="143492" this_length="2242" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="164507" this_length="2162" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="176524" this_length="3426" />
+</document>
+

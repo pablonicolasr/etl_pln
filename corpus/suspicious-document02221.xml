@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02221.txt">
+  <feature name="about" authors="Whittier, John Greenleaf" title="Personal Sketches and Tributes, Part 2, from Volume VI., The Works of Whittier: Old Portraits and Modern Sketches" lang="en" />
+  <feature name="md5Hash" value="6ee2b260884b5e230bf0bea738f42f11" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1" this_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4661" this_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8062" this_length="500" />
+</document>
+

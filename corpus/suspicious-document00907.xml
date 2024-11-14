@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00907.txt">
+  <feature name="about" authors="Eggleston, Margaret White" title="Fireside Stories for Girls in Their Teens" lang="en" />
+  <feature name="md5Hash" value="4ff46200c6f541a0da2332ca00f69ab3" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="31880" this_length="2509" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="113918" this_length="4999" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="182454" this_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="188404" this_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="194913" this_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="200725" this_length="266" />
+</document>
+

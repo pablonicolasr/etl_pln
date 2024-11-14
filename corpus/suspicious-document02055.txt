@@ -1,0 +1,489 @@
+﻿[3] By "natural law" in the useful arts is meant that uniformity of action which is manifested
+whenever any particular substance in any particular condition is brought into such relation
+with any particular manifestation of energy that the force exerted modifies or prevents modification
+of the form, nature, condition, or locus of the substance or modifies the manifestation of
+energy or both.
+
+[4] A "property" may be described as any quality common and essential to the whole of a class
+but not necessary to mark out that class from other classes. Thus, all wheel tires may be said
+to possess annularity; but washers and finger rings are also annular. A "peculiar property"
+is one that not only always belongs to a class of objects but belongs to that class alone;
+thus a circle has the peculiar property of containing the greatest space within a line of given
+length, and catalytic substances have the power of setting up chemical reaction without themselves
+being changed.
+
+[5] An "accident" is any quality that may indifferently belong or not belong to a class without
+affecting the other qualities of the class. That a man's name is James is an accident telling
+nothing of the man's physique or character.
+
+[6] "Effect" or "result" is the consequence of a process of the useful arts practiced with
+or without instruments. The effect of an instrument is the effect of its operation. Effects
+may be direct or indirect, proximate or remote, necessary or accidental.
+
+"Product" is an effect consequent upon a process that changes the form, state, or ingredients
+of matter perceptibly and permanently, as distinguished from effects that are fleeting or involve
+no change in perceptible form, state, or ingredients of matter.
+
+"Function" is the "action of means upon an object while producing the effect." (Robinson.)
+Functions may be direct or indirect, proximate or remote, necessary or accidental. The direct,
+proximate, or necessary function of the hammer in normal operation is impacting. Indirect,
+remote, or accidental functions of a hammer may be comminuting, forging, driving, etc.
+
+[7] Classification of the Sciences.
+
+[8] Logical division is the process by which the species of which a genus is composed are distinguished
+and set apart. Physical division or partition is the process by which the parts of any object
+are distinguished and set apart. Metaphysical division is the process by which the qualities
+of a thing are segregated and set apart in thought.
+
+[9] Any class of objects may be called a "genus" if it be regarded as made up of two or more
+different kinds of objects or of two or more species. "Motors" is a genus when the class "Motors"
+is considered as divided into electric motors and nonelectric motors, or electric motors, spring
+motors, weight motors, current motors fluid pressure motors, etc. A genus is more extensive
+than any of its species but less intensive.
+
+A "species" is any class that is regarded as forming a part of the next larger class, "electric
+motors" being a species of "motors" and "motors" being a species of "energy transformers."
+A species is more intensive than the genus to which it belongs but less extensive.
+
+Every species may be a genus to another species until no further subdivisions can be made.
+This last indivisible species is termed the infima species. Every genus may be a species to
+another genus until a point is reached where no further generalization may be made or the summum
+genus is attained. In the Patent Office classification of the useful arts, the summum genus
+is useful arts. The summum genus of the plastic arts would be plastics. The infima species
+in the useful arts evidently never can be attained.
+
+"Proximate species" and "proximate genus" indicate, respectively, those species that are divided
+from a genus without intermediate genera, and those genera from which the species are directly
+divided. Motors, and not energy transformers, is the proximate genus to the species, fluid
+motors, electric motors, etc., while fluid motors, electric motors, etc., and not steam engines,
+alternating current motors, etc., are proximate species to motors.
+
+[10] In the Manual of Classification of the U. S. Patent Office the arrangement of subclasses
+has always been alphabetical, although in the Supplement containing definitions of revised
+classes the arrangement is numerical. If the latter schedule of "Balls" in the text had been
+printed in alphabetical order, it is apparent that the species "Aluminum" and "Zinc" of the
+genus Metal would be as widely separated as possible. In the former schedule of "Balls," in
+which the genus Metal is printed, "Aluminum" and "Zinc" come together. It is apparent that
+in an alphabetical arrangement allied species can not be kept together without printing every
+proximate genus. This fact, among others, indicates the advisability of abandoning the alphabetical
+arrangement in the classification manual and adopting the idea arrangement in the schedules
+of revised classes, supplemented by a consolidated alphabetical index of all subclasses.
+
+[11] A species contains all the qualities of the genus and more. These additional qualities
+form the "difference." The electric motor has the qualities that are common to motors and is
+differentiated by reason of the fact that electric energy is thereby converted to mechanical
+motion.
+
+[12] Classification of a patent is said to be "original" in the class and subclass which receives
+the most intensive claimed disclosure, and in which the patent is indexed in the official classification
+indexes. "Original classification" is referred to as opposed to "classification by cross-reference."
+
+A "cross-reference" is a copy of a patent placed in a subclass other than that in which the
+classification is made original, in order to make available for search inventions disclosed
+therein and additional to that by which the patent has been diagnosed and classified.
+
+A "digest cross-reference" is a cross-reference formed from abstracts or extracts from a patent
+consisting of illustration and text cut from a photolithograph of a patent and mounted.
+
+A "search-card" is a sheet of the size of a photolithograph of a patent placed with the photolithographs
+of patents forming a subclass in the examining division and public search room, and containing
+suggestions for further search, and on the copy for the search room, a definition of the subclass.
+
+"Search notes" are addenda to class and subclass definitions comparing other classes and subclasses
+with the one defined and giving directions for search when necessary to prosecute search beyond
+the defined class or subclass.
+
+(C) RULES OF CLASSIFICATION.
+
+BASIS OF CLASSIFICATION.
+
+(1) The basis of subdivision and assemblage of the means of the "useful arts" in the Patent
+Office classification is "art" within the meaning of "art" in section 4886, Revised Statutes.
+The direct, proximate or necessary art, operation or effect, rather than some accidental and
+remote use or application, should be selected. In all cases qualities or characteristics that
+persist through all accidental uses and that can be identified as permanent are to be preferred.
+
+(2) The operative, instrumental, or manipulative arts, including machines, tools, and manufacturing
+processes, should be classified according to whether a single operation of one kind applicable
+to various materials to be used for various purposes is carried out by the claimed means, or
+whether plural operations are performed, which, combined, produce a special effect or special
+product.
+
+   Example: An instrument performing a plurality of operations
+   peculiar to shoe-manufacture would be classified on the
+   basis of shoemaking, because that instrument would be
+   incapable of other use, while an instrument peculiarly
+   adapted to drive nails would be classified on the basis of
+   nailing, whether for nailing shoe-heels or other objects,
+   and a hammer would be classified on the basis of its
+   function as an impact tool even though described as for
+   driving nails, and even into shoe-heels.
+
+(3) Structures (passive instruments) will, in general, be classified on the basis of structure,
+either of special or general application, the essential functions and effects of static structures
+being resistive or the maintaining of forces in equilibrium.
+
+   Example: A structure recognized as peculiar to barriers of
+   the kind known as fences would be classified in the special
+   class of Fences, but posts, joints, beams, etc., recognized
+   as having use in general building, even though described as
+   used in fences, would be classified in a more general
+   building class, such as Wooden Buildings or Metallic
+   Building Structures.
+
+(4) Compositions of matter and manufactured or formed stock or materials will be classified
+in accordance with the inherent character of the substance or material where possible, otherwise
+according to special use.
+
+   Example: A pure chemical is expected to be classified on
+   the basis of its chemical structure and constituents, even
+   though useful as a food, medicine, dyestuff, explosive,
+   etc., and alloys on the basis of metallic composition, even
+   though used for bearings, coins, tools, etc.; whereas a
+   physical composition having no reason for existence except
+   to function as a cleansing composition or a paint might
+   have to be classified on the basis of its function as a
+   detergent or a coating composition, respectively. Also a
+   bimetallic layered foil, plate, or wire would be expected
+   to be classified as metal stock even though designed for
+   use for dental filler, plowshare, or electric conductor,
+   and a woven textile fabric as a fabric even though
+   described as used for a filter or apron for a paper-making
+   machine.
+
+DIVISION AND ARRANGEMENT.
+
+(5) The divisions or subclasses of a class should be made exhaustive, i. e., they should be
+susceptible of receiving any future invention that may fall within the scope of the class.
+The rule as usually phrased is: "The constituent species must be equal, when added together,
+to the genus." Exhaustive division may be secured by maintaining always a residual or miscellaneous
+subclass. The miscellaneous subclass represents the remainder of the original undivided material
+undefined except as the class is defined and may be accurately treated as if it had the class
+title.
+
+(6) A second rule respecting the subdivision of a class is: "The constituent species must exclude
+each other." That is, the divisions or subclasses must not overlap. (See exception in Rule 8.)
+
+   Example: If a number of balls of several different
+   materials, several different conformations, or
+   constructions, several different colors, were to be divided
+   into glass balls, hollow balls, and red balls, this rule
+   would be violated, because some balls would be glass,
+   hollow, and red.
+
+(7) A third rule respecting subdivision is: "The divisions must be founded on one principle
+or basis." The application of this rule will generally form divisions that do not overlap.
+(See exception in Rule 8.)
+
+   Example: If a number of balls of several different
+   constructions, several different materials, and several
+   different colors were to be classified so as to provide a
+   place for each kind of characteristic, they should be
+   divided first, for example, according to construction into
+   hollow balls and solid balls, each of these according to
+   materials into glass balls, rubber balls, metal balls,
+   wooden balls, etc., and each of the latter into red balls,
+   blue balls, green balls, etc.
+
+(8) When it is found that division into overlapping subclasses and on different characteristics
+is a lesser evil than an unwieldy number of subclasses that would otherwise result, then those
+subclasses based on characteristics deemed more important for purposes of search should precede
+in the list of subclasses those based upon characteristics deemed less important. (See Rule 6.)
+
+(9) In arrangement of subclasses or subdivisions the miscellaneous groups containing material
+not falling within any of the specifically entitled subclasses, should stand first; those subclasses
+defined by effect or special use should precede those defined by function or general use; those
+containing matter that is related to the matter of other subclasses as whole to part should
+precede those subclasses that contain the part; and those defined by a characteristic deemed
+more important or significant for search purposes should precede those defined by characteristics
+deemed less important.
+
+Whenever superior rank has been assigned to any selected characteristic by placing divisions
+based upon it in advance of divisions based upon other characteristics, this superiority should
+be maintained throughout.
+
+   Example: A partial schedule of Class 80 follows to
+   illustrate the arrangement of subclasses:
+
+    Class 80.--METAL ROLLING.
+
+     1. Miscellaneous.        | 24. Die rolling--
+     2. Heating and rolling.  | 25.   Oscillating rolls.
+     3. Cutting and rolling.  | ..    ...
+     4. Drawing and rolling.  |     Mills--
+     5. Annular bodies.       | 32.   Coiling.
+     6. Screw threads--       | 33.   Work reversing.
+     7.   Concave and roll.   | 34.   Three or more coacting rolls.
+     8.   Platen rolling--    | 35.   Continuous--
+     9.     Dies.             | 36.     Inclined trains.
+    10.   Rods and wires.     | ..      ...
+    11. Tubes--               | 41. Roll cooling and heating.
+    12.   Idle rolls.         | 42. Cooling beds.
+    13.   Axial rolling.      | 43. Feeding--
+    14.   Segmental rolls.    | 44.   Tables.
+    15.   Skelping.           | ..    ...
+    16. Wheels and disks.     | 55. Housings.
+    17. Reworking.            | 56. Roll adjustments--
+    18. Concave and roll.     | 57.   Relief devices.
+    19. Platen and roll.      | 58. Rolls--
+    20. Platen rolling--      | ..  ...
+    21.   Disk platens.       | 60. Processes--
+    22. Axial rolling--       | ..    ...
+    23.   Pattern rolls.      | 66.   Flanged bars.
+
+   In this schedule the miscellaneous subclass is numbered 1,
+   then follow three subclasses (2-4) of rolling plus another
+   function, then four major subclasses (5-16) of rolling,
+   merely, but applied to blanks of special form producing
+   special products, then one special subclass (17) based upon
+   a special class of material treated, then five subclasses
+   (18-31) specialized in type and mode of operation, then
+   general types of rolling mills (32-40), then various parts
+   and accessories (41-59), then processes (60-66). This is
+   the usual arrangement and is an exhaustive division for the
+   art of metal rolling. Had there been miscellaneous
+   subclasses for all combined operations of rolling plus some
+   other function, a miscellaneous subclass for all mere
+   rolling machines, either special or general, and a
+   miscellaneous subclass for all parts and accessories, the
+   requirements of exhaustive division would have been also
+   satisfied.
+
+   In the illustrative schedule, there being no miscellaneous
+   subclass for means having combined functions of rolling and
+   another, any patent having claims for the combination of a
+   means for rolling and a means for cooling would fall in
+   subclass 1, Miscellaneous. In that subclass would also fall
+   all "Mills," such as for rolling spiral conveyer-flights,
+   the same not falling under any of the subclasses 32-40, no
+   miscellaneous subclass of "Mills" and no special
+   article-rolling subclass having been provided; also all
+   parts or accessories, such as a water-cooled screen,
+   peculiarly adapted to rolling-mills, there being no
+   existing subclass of screens therein and no miscellaneous
+   subclass of parts. The arrangement of subclasses in Class
+   80 requires that the combination of a furnace and a
+   rolling-mill shall be placed in subclass 2, even if the
+   combination be designed and adapted for rolling annular
+   bodies (subclass 5) or tubes (subclass 11). Means special
+   to rolling a tube between a concave and roll must be placed
+   in subclass 13 rather than in subclass 18. A work-reversing
+   mill must be placed in subclass 33 rather than in subclass
+   34 even though it have three or more coacting rolls.
+
+   The rolling of "Screw-threads" having been given higher
+   rank than a "Concave and roll" mechanism, any concave and
+   roll mechanism limited for use in rolling screw-threads
+   should be formed into a subclass indented under
+   "Screw-threads" and not into a subclass "Screw-threads"
+   indented under "Concave and roll."
+
+(10) Class schedules are arranged with certain subclasses appropriately indented according
+to a commonly understood expedient. In a properly indented schedule subclasses in column at
+the extreme left are the main species (the proximate species) of the class. The titles and
+definitions of all subclasses proximate to the class (at extreme left) must be read with the
+title and definition of the class, as if indented under the class title one space to the right;
+so also with the titles and definitions of subclasses indented under other subclasses. If a
+title has no number (as in Class 80, "Mills"), it represents merely a subject-matter to be
+divided, assumed to have no representatives other than those in the species indented under
+it. If a title having indented species under it has a number, it not only represents a subject
+to be divided but also a subclass including all other species not falling within the indented
+titles. Indention does not indicate superiority or inferiority, but merely that the title and
+the definition of the indented subclass must be read with the title and definition of the subclass
+under which it is indented. A title selected in a scheme of subdivision to be of first importance
+and placed, therefore, in advance, should not thereafter be indented under a title selected
+to be of secondary importance and, therefore, having a lower position. (See Rule 8.)
+
+(11) A group of material may be divided on several different bases. "Use" or "purpose" or "object
+treated" may be adopted only when the "use" or "purpose" or "object treated" stamps upon the
+invention such peculiarities of operation or construction as to limit the applicability of
+the invention to the use or purpose named. (See Basis of Classification, Rule 1.) A group based
+upon mode of operation also may be divided into subclasses (1) with a "functional" title, usually
+participial in form, and adapted therefore to receive machines, processes, and tools; (2) with
+special use, purpose, or object-treated title containing the name of the use, purpose, or object;
+(3) with "type" title, usually a name or a name with a qualifying adjective; (4) with a title
+of a part or subcombination, also a name.
+
+   Example: In Class 90, Gear-Cutting, Milling, and Planing,
+   are to be found subclasses entitled "Gear-cutting," certain
+   machines being peculiar to that use; also other subclasses
+   with the general functional title "Planing," subordinate to
+   which are the special use subclass "Planing, Soft metal,"
+   and the type subclass "Planers" divided into two coordinate
+   subclasses, "Reciprocating bed" and "Reciprocating cutter,"
+   and several subordinate "part" subclasses, including
+   "Tool-feeds" and "Tool-heads." The adjective form of the
+   title "Planers, Reciprocating bed," indicates a type
+   subclass. If the title had been Planers, Reciprocating
+   beds, the indication would be that the subclass was a part
+   subclass to receive planer beds only. In the class referred
+   to for illustration, "Tool-feeds" and "Tool-heads" indicate
+   subclasses for parts and not for types of planers having
+   tool feeds.
+
+(12) In arranging the divisions of a class, such arrangement should be sought as will minimize
+the need of cross-references. Search for any particular matter can not always be limited to
+one group without such extensive cross-referencing as would in some cases defeat the purpose
+of classification. Forming the subdivisions of a class according to the total similarities
+of the inventions, rather than according to some selected more or less important characteristic,
+and arranging them in the correct order of superiority and inferiority, with care to maintain
+throughout the schedule the relative positional values of the several selected bases of division,
+will ordinarily in a closely bonded class limit the search for any single invention to the
+subclass particularly suited to receive it and some subclasses preceding that one, excluding
+from the necessity of search the subclasses succeeding.
+
+   Example: In Class 80, Metal-Rolling, it would not be
+   expected to find any tube-rolling mill lower in the
+   schedule than the tube-rolling subclasses, but a tube-mill
+   might be found higher up in "Heating and rolling," "Drawing
+   and rolling," etc. No concave and roll combination should
+   be found succeeding the subclass of "Concave and roll," but
+   it may be found under subclasses above, such as "Tubes,
+   Screw-threads," etc. No rolls should be found lower than
+   the subclass of "Rolls," but they may be found in many
+   subclasses above.
+
+DEFINITION.
+
+(13) Having some knowledge of the nature of the materials about to be classified, a tentative
+definition of a class to be formed may be framed, which may be either written down or merely
+carried in mind, to serve as a tentative guide. This tentative definition must be considered
+as subject to change to any extent by the fuller knowledge obtained by careful consideration
+of the material. After a full knowledge of the materials to be classified has been acquired,
+it will be necessary to frame a careful definition of the class, and also of each subclass
+whose title does not unequivocally indicate what is contained in it.
+
+(14) A definition of any class should state the "qualities and circumstances possessed by all
+the objects that are intended to be included in the class and not possessed completely by any
+other objects." A proper definition should not ordinarily contain the name of the thing defined.
+"Definitions in a circle" are, of course, worthless. A definition should be exactly equivalent
+to the species defined and should not be expressed in obscure or ambiguous language, but should
+employ terms already defined or perfectly understood. It should not be in negative form where
+it can be affirmative. If the class of objects has a peculiar property, the naming of that
+may serve as a definition. If no peculiar property can be detected, the definition should name
+more than one quality or property. Several different classes may have one or more properties
+alike, but as the number is increased the likelihood of there being others having the same
+properties is decreased. The briefest possible statement of such properties or qualities as
+are possessed by all the objects of a class and not completely possessed by any other objects,
+which will suffice to distinguish the class from other classes and determine its position in
+the general classification, will be most satisfactory. To define any species, the genus having
+been defined, the genus should be named and the difference added. Of course, no generic definition
+should contain any limitation not characteristic of every species of the defined genus. In
+seeking qualities by which to describe a genus or species, no accident should be selected.
+
+   Example: Suppose there be marked out and defined as a genus
+   all means whereby one form of energy is transformed into
+   another form of energy and no more, and the genus be named
+   energy-transformers. We may then name, as species,
+   energy-transformers that are motors and energy-transformers
+   that are not motors. Motors may be defined by merely naming
+   the genus energy-transformers, and stating the difference,
+   to wit, continuously transforming energy into cyclical
+   mechanical motion. Then the definition will be:
+   Energy-transformers that are adapted to continuously
+   transform energy into cyclical mechanical motion. The
+   non-motor division will retain the genus definition.
+
+   It would not be illuminating for a searcher having little
+   familiarity with the textile arts to look under the title
+   "Carding" and find that carding is defined as a means for
+   carding fiber.
+
+   Even though the first steam-engine invented had been used
+   to run a gristmill, the accident of its use as a part of a
+   gristmill would hardly warrant the definition of a
+   steam-engine as a means to grind corn. Nor would a hammer
+   be properly defined as an instrument to drive nails or to
+   crack nuts or to forge horseshoes, even though a patent
+   should not mention any use other than one of these and
+   should lay heavy emphasis on the special value of the
+   hammer as a nut cracker, nail driver, etc.
+
+(15) In those cases where the title is so obvious that definition is superfluous, explanatory
+notes may be substituted and will usually be found helpful.
+
+CROSS-REFERENCES AND SEARCH-NOTES.
+
+(16) Inasmuch as nearly every patent discloses unclaimed matter that is classifiable separately
+from the claimed matter, it is clearly impossible to cross-reference every disclosure of every
+means in every patent. Many things must be taken as conventional, obvious, or well known, and
+the good judgment of the classifier is bound to be exercised in cross-referencing matter disclosed
+but not claimed to be the invention of the patentee.
+
+(17) A mere part or element should rarely be cross-referenced from an element class to a superior
+combination class. An element forming part of a combination in a superior class should, if
+claimed, be cross-referenced to the element class and also if not claimed if it seems to be
+not merely a conventional form, and patents having claims for more than one differently classifiable
+invention should always be cross-referenced unless such an arrangement of subclasses with search-notes
+is substituted as will guide the searcher to all places where the material may be found. Claimed
+matter additional to that which controls the classification, if belonging in the same class,
+should be cross-referenced into a succeeding subclass. Cross-references of unclaimed disclosure
+may be in either direction.
+
+(18) To supplement or take the place of cross-referencing, more or less elaborate search-notes
+are needed, giving directions and suggestions for further search, setting out the relationship
+between classes and subclasses, and drawing distinctions by example. Search-notes should indicate
+other classes or subclasses in which the subject-matter of the group to which the search-notes
+are appended is likely to form a part of a more intensive combination, also analogous matter
+that might serve as a reference for a broad claim. They need not, in general, indicate where
+parts or elements of the subject-matter which are common also to other classes can be found,
+because the index of classes contains the necessary information. For example, it is not necessary
+in every machine-class to indicate by search-notes where machine-elements and static parts
+may be found, nor in a class of wooden boxes to point out where the nails, screws, hinges,
+or locks that may form a part of the box are classified.
+
+DIAGNOSIS TO DETERMINE CLASSIFICATION.
+
+(19) Inasmuch as nearly every patent contains disclosure that is claimed and also disclosure
+that is not claimed, it has been deemed advisable to establish the general rule that where
+the claimed and unclaimed disclosures are classified in different classes or subclasses the
+invention both disclosed and claimed shall determine the placing of a patent (or a pending
+application) rather than any selected invention that may be disclosed but not claimed. "Not
+claimed" covers means that may form an element only of a claim as well as means not referred
+to in any claim. (See exceptions in Rules 21 to 22 inclusive.)
+
+   Example: A patent discloses and claims a dash-pot but
+   illustrates it in such relation to a metal-planing machine
+   as to utilize it for checking the movement of the bed at
+   one end of its path, or in connection with an electric
+   generator to aid in effecting the brush adjustment; the
+   patent should be classified in the subclass of Dash-pots.
+   If the classifier finds the disclosed organization of
+   dash-pots and planer or dash-pot and generator more than a
+   conventional illustration of an obvious use, he should note
+   a cross-reference to Planers or Electricity, Generation. A
+   patent discloses an internal-combustion engine associated
+   with a specific form of carbureter; the claims relate to
+   the engine parts only; the class of Internal-Combustion
+   Engines should receive the patent, and a cross-reference
+   should be placed in Carbureters. A patent discloses and
+   specifically claims the combination of a rail-joint
+   comprising abutting rails, fishplates, and specific bolts;
+   the patent goes to an appropriate class of rail-joints, and
+   if the bolt is more than a mere obvious conventional bolt,
+   a cross-reference should be noted for the appropriate
+   subclass of Bolts.
+
+(20) The totality of the claimed invention should be selected when possible to determine the
+appropriate class in which to place a patent. The entire expression of the invention will usually
+be set forth in the most relatively intensive claim.[1] In a properly drawn patent there is
+at least one claim that will serve as a mark to indicate the classification of that patent.
+
+(21) Where a patent discloses but does not claim a combination of proper scope to be classified
+in a combination subclass and claims merely a detail classified in a subclass lower in the
+schedule, both in the same class, if the subclasses are so related that the combination always
+involves the detail so that a search for the detail must necessarily be made in the combination
+subclass, the patent may be placed in the combination subclass. This avoids the need of a cross
+reference into the combination subclass, and a lack of a copy in the detail subclass is immaterial,
+as it is seen in the completion of the search through the combination subclass. (See Rule 19.)
+
+   Example: A patent for a saw-making machine discloses
+   dressing, jointing, and gaging mechanisms; it claims
+   dressing and jointing only. There is a subclass for
+   dressing, jointing, and gaging, and a subclass for dressing
+   and jointing. In this case the patent may be placed in the
+   first-mentioned subclass, as that must be searched always
+   when the second-mentioned one is searched, cross
+   referencing in this situation being of little value.
+

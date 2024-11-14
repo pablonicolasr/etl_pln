@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02191.txt">
+  <feature name="about" authors="Sinclair, Upton" title="The Profits of Religion" lang="en" />
+  <feature name="md5Hash" value="e91431b8799af773a3a5a8379b2894b7" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="10030" this_length="3065" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="36564" this_length="751" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="49932" this_length="2560" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="80331" this_length="3045" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="113086" this_length="1908" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="123780" this_length="494" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="133303" this_length="706" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="150829" this_length="2230" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="159333" this_length="514" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="177973" this_length="3469" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="199682" this_length="264" />
+</document>
+

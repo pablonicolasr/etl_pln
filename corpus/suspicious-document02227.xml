@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02227.txt">
+  <feature name="about" authors="Ebers, Georg" title="A Thorny Path — Volume 03" lang="en" />
+  <feature name="md5Hash" value="08a6f796076bf1edc48ab8802d843b1a" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1535" this_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16468" this_length="1613" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22169" this_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="42811" this_length="4100" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="79207" this_length="2069" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="91673" this_length="496" />
+</document>
+

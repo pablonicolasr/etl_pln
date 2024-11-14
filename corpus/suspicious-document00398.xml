@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00398.txt">
+  <feature name="about" authors="Terhune, Albert Payson" title="His Dog" lang="en" />
+  <feature name="md5Hash" value="aea012499165f15418974de2c2ddb831" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2511" this_length="251" />
+</document>
+

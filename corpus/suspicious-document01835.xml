@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01835.txt">
+  <feature name="about" authors="Ebers, Georg" title="Serapis — Volume 05" lang="en" />
+  <feature name="md5Hash" value="7177f6b803e0953e030195974ec9fbb0" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4992" this_length="2567" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="27259" this_length="454" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="40754" this_length="4934" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="100082" this_length="2269" />
+</document>
+

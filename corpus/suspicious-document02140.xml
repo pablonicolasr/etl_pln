@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02140.txt">
+  <feature name="about" authors="Leinster, Murray" title="The Hate Disease" lang="en" />
+  <feature name="md5Hash" value="cbb47e53d47ec2276436d449f74121e6" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7787" this_length="3001" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="52401" this_length="4471" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="98920" this_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="101812" this_length="513" />
+</document>
+

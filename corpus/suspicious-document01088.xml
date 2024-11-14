@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01088.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The Three Clerks" lang="en" />
+  <feature name="md5Hash" value="6f78a06a44941fd41c468c660ed16f5a" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1082" this_length="767" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="34032" this_length="4123" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="167089" this_length="4129" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="258540" this_length="2426" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="318725" this_length="2725" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="341691" this_length="239" />
+</document>
+

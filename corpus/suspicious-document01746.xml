@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01746.txt">
+  <feature name="about" authors="Russell, Bertrand" title="The Practice and Theory of Bolshevism" lang="en" />
+  <feature name="md5Hash" value="50255a7089c6ceb1ba3a20b3aaedfd4d" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4129" this_length="3501" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="77910" this_length="3708" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="170016" this_length="2483" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="219712" this_length="817" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="224507" this_length="242" />
+</document>
+

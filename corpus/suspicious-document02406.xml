@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02406.txt">
+  <feature name="about" authors="Sedgwick, Susan Anne Livingston Ridley" title="The Young Emigrants; Madelaine Tube; the Boy and the Book; and Crystal Palace" lang="en" />
+  <feature name="md5Hash" value="16a6c3cc18938bac718ebcbcb9b67e0e" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1063" this_length="515" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5978" this_length="3032" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="130999" this_length="23880" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="174681" this_length="3441" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="192399" this_length="1844" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="205716" this_length="2598" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="221313" this_length="4442" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="244403" this_length="546" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="246641" this_length="240" />
+</document>
+

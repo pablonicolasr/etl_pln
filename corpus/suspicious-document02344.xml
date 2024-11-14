@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02344.txt">
+  <feature name="about" authors="Munger, Dell H." title="The Wind Before the Dawn" lang="en" />
+  <feature name="md5Hash" value="040b9af33a20d4d2ca5c2f9fece9ecc5" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="48916" this_length="19251" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="328138" this_length="17616" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="633858" this_length="20881" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="722791" this_length="2694" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="747513" this_length="3952" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="801057" this_length="1482" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="811088" this_length="248" />
+</document>
+

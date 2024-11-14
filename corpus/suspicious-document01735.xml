@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01735.txt">
+  <feature name="about" authors="Wilson, Woodrow" title="In Our First Year of the War Messages and Addresses to the Congress and the People, March 5, 1917 to January 6, 1918" lang="en" />
+  <feature name="md5Hash" value="ffa085846662e9da4e78b048fe41a360" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="617" this_length="493" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2002" this_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2580" this_length="255" />
+</document>
+

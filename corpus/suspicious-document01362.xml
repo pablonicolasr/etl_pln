@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01362.txt">
+  <feature name="about" authors="Masham, Lady Damaris Cudworth" title="Occasional Thoughts in Reference to a Vertuous or Cristian life" lang="en" />
+  <feature name="md5Hash" value="6d54afca3ba55c168a1acdd96f2df24a" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1769" this_length="1820" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15883" this_length="3055" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="106602" this_length="20213" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="134967" this_length="2467" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="148405" this_length="2618" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="154318" this_length="710" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="156956" this_length="1505" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="165200" this_length="4770" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="195144" this_length="2232" />
+</document>
+

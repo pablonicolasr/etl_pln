@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00561.txt">
+  <feature name="about" authors="Smith, Logan Pearsall" title="Trivia" lang="en" />
+  <feature name="md5Hash" value="a8e00226a0a1f92bb354d486d4f6b47c" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="11207" this_length="1830" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="17050" this_length="264" />
+</document>
+

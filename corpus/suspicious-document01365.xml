@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01365.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The Small House at Allington" lang="en" />
+  <feature name="md5Hash" value="c2a31a239e1e02be557874e771be684e" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1361" this_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="43150" this_length="15325" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="133240" this_length="503" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="135764" this_length="269" />
+</document>
+

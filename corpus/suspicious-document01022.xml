@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01022.txt">
+  <feature name="about" authors="Smollett, Tobias" title="The Expedition of Humphry Clinker" lang="en" />
+  <feature name="md5Hash" value="f26e54df3d8127335e4adab40574365b" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="51495" this_length="19322" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="79683" this_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="91509" this_length="3376" />
+</document>
+

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00857.txt">
+  <feature name="about" authors="Mahan, Alfred Thayer" title="The Life of Nelson, Volume 1 The Embodiment of the Sea Power of Great Britain" lang="en" />
+  <feature name="md5Hash" value="12be2f530d264b774ca67b3f9c981deb" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="102331" this_length="15426" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="379564" this_length="16667" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="663658" this_length="2264" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="722529" this_length="1447" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="739297" this_length="736" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="765136" this_length="3815" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="835165" this_length="755" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="854873" this_length="750" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="860200" this_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="862754" this_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="874532" this_length="797" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="879567" this_length="233" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01387.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="Lucretia — Volume 01" lang="en" />
+  <feature name="md5Hash" value="20a02a7b8ac6c07188d85e3e7bd88db0" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4866" this_length="3145" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="49703" this_length="1830" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="67597" this_length="1761" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="78975" this_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="91221" this_length="3215" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="114946" this_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="123476" this_length="2684" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="148298" this_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="150843" this_length="265" />
+</document>
+

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00291.txt">
+  <feature name="about" authors="Twain, Mark" title="Tom Sawyer, Detective" lang="en" />
+  <feature name="md5Hash" value="e0e02a4e8ffd2d8ee3d4d04bff29b7c6" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="199" this_length="255" />
+</document>
+

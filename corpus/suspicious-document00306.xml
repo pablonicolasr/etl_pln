@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00306.txt">
+  <feature name="about" authors="Clarke, Henry, Mrs." title="Miss Merivale's Mistake" lang="en" />
+  <feature name="md5Hash" value="d4e5de7a1be3c5a89f25362438497713" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="44707" this_length="15800" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="110123" this_length="15303" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="155673" this_length="3146" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="162443" this_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="164501" this_length="505" />
+</document>
+

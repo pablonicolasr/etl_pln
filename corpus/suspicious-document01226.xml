@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01226.txt">
+  <feature name="about" authors="Smith, Wade C." title="&quot;Say Fellows—&quot; Fifty Practical Talks with Boys on Life's Big Issues" lang="en" />
+  <feature name="md5Hash" value="778b0c56e29f470f76d3d4535d96a9d2" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4283" this_length="703" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="10376" this_length="197" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="15696" this_length="428" />
+</document>
+

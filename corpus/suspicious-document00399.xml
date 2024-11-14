@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00399.txt">
+  <feature name="about" authors="Münsterberg, Hugo" title="Psychology and Social Sanity" lang="en" />
+  <feature name="md5Hash" value="ce6d68578636db174b6622b5500c9abe" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="97470" this_length="24242" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="264224" this_length="4039" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="294907" this_length="3751" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="328131" this_length="2722" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="356505" this_length="1476" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="374560" this_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="379601" this_length="763" />
+</document>
+

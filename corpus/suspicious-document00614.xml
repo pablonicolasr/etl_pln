@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00614.txt">
+  <feature name="about" authors="Norris, Kathleen Thompson" title="Undertow" lang="en" />
+  <feature name="md5Hash" value="99d030fb36905f5603ed557fdfc3b4b2" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8796" this_length="2767" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="80387" this_length="4485" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="176098" this_length="453" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="185934" this_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="194658" this_length="240" />
+</document>
+

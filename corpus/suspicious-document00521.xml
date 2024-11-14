@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00521.txt">
+  <feature name="about" authors="Montessori, Maria" title="Dr. Montessori's Own Handbook" lang="en" />
+  <feature name="md5Hash" value="12c4bae90e5fedb926e3c5d69320a989" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5419" this_length="1475" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15369" this_length="4866" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="58942" this_length="2435" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="69130" this_length="1484" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="78771" this_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="95170" this_length="4597" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="124675" this_length="3305" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="138759" this_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="141034" this_length="265" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01991.txt">
+  <feature name="about" authors="Cobb, Irvin Shrewsbury" title="Cobb's Anatomy" lang="en" />
+  <feature name="md5Hash" value="acfadc3dfea116848e4d2db274cf6c26" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="13284" this_length="15520" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="91162" this_length="2989" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="95152" this_length="236" />
+</document>
+

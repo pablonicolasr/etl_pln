@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01499.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="As We Were Saying" lang="en" />
+  <feature name="md5Hash" value="98f0cad1ef6c85de5909e5d9b1288738" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3667" this_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8355" this_length="260" />
+</document>
+

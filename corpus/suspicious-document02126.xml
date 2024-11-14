@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02126.txt">
+  <feature name="about" authors="Spyri, Johanna" title="Moni the Goat-Boy" lang="en" />
+  <feature name="md5Hash" value="14b5ad2364eaf1ba719d786475471198" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4903" this_length="261" />
+</document>
+

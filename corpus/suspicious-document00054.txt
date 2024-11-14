@@ -1,0 +1,44 @@
+﻿    +----------------------------------------------------------------+
+    | Transcriber's Note:                                            |
+    |                                                                |
+    | Inconsistent hyphenation in the original document has been     |
+    | preserved.                                                     |
+    |                                                                |
+    | A reference to the index has been added to the ToC for         |
+    | convenience.                                                   |
+    |                                                                |
+    | Obvious typographical errors have been corrected. These are:-- |
+    |                                                                |
+    | Page  99  ran away to Pittsburg                                |
+    |             changed to                                         |
+    |           ran away to Pittsburgh                               |
+    | Page 105  landscapists in Thomas Cole. The terms rights of person
+    and rights of persons, or personal rights, have not the same meaning.
+    The rights of person, as the term is generally used, does not include
+the right of property; personal rights include both the right of property
+and the rights of person.                         |
+    | Page 218  history of adminstration                             |
+    |             changed to                                         |
+    |           history of administration                            |
+    | Page 341  rubber and magnesia is quicklime                     |
+    |             changed to                                         |
+    |           rubber and magnesia in quicklime                     |
+    | Page 347  played so imporant                                   |
+    |             changed to                                         |
+    |           played so important                                  |
+    | Page 360  power of compresed air,                              |
+    |             changed to                                         |
+    |           power of compressed air,                             |
+    | Page 363  The arrrangement                                     |
+    |             changed to                                         |
+    |           The arrangement                                      |
+    | Page 376  Cary, Ph[oe]be, 76.                                  |
+    |             changed (for consistency with main text) to        |
+    |           Cary, Phoebe, 76.                                    |
+    | Page 381  Silliman, Benjamin, 202-203-204                      |
+    |             changed to                                         |
+    |           Silliman, Benjamin, 202-204                          |
+    | Page 382  Warren, William, 177-178-179-184.                    |
+    |             changed to                                         |
+    |           Warren, William, 177-179, 184.                       |
+    +----------------------------------------------------------------+

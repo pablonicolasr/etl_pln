@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00327.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Rob Roy — Volume 02" lang="en" />
+  <feature name="md5Hash" value="24ab13408238bf466d590e62a6d5d637" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2569" this_length="744" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="20645" this_length="540" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="30020" this_length="452" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="32996" this_length="537" />
+</document>
+

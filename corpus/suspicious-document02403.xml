@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02403.txt">
+  <feature name="about" authors="Hunter, C. L." title="Sketches of Western North Carolina, Historical and Biographical" lang="en" />
+  <feature name="md5Hash" value="c6a996b819af9757321ac612475930f7" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="84019" this_length="19731" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="174672" this_length="17902" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="264609" this_length="14653" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="311276" this_length="424" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="397198" this_length="19654" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="489320" this_length="16902" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="535867" this_length="3321" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="565720" this_length="15375" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="637568" this_length="1394" />
+</document>
+

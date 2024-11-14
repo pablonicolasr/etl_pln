@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00438.txt">
+  <feature name="about" authors="Gwynn, Stephen Lucius" title="Irish Books and Irish People" lang="en" />
+  <feature name="md5Hash" value="857147b0854daffd241a21762c695479" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8882" this_length="1409" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="36251" this_length="689" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="102726" this_length="2994" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="150958" this_length="1912" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="178134" this_length="1733" />
+</document>
+

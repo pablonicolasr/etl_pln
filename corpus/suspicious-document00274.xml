@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00274.txt">
+  <feature name="about" authors="Hawthorne, Nathaniel" title="The Threefold Destiny (From &quot;Twice Told Tales&quot;)" lang="en" />
+  <feature name="md5Hash" value="c9b11eaf3886c1470a107fe5ee2732d6" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="622" this_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="12612" this_length="2967" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="19152" this_length="257" />
+</document>
+

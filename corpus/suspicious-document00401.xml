@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00401.txt">
+  <feature name="about" authors="Mindeleff, Cosmos" title="Aboriginal Remains in Verde Valley, Arizona Thirteenth Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1891-92, Government Printing Office, Washington, 1896, pages 179-262" lang="en" />
+  <feature name="md5Hash" value="a3dc1c53f449927ed3a32e5887fe7032" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3035" this_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="54375" this_length="3776" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="91301" this_length="512" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="107897" this_length="4366" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="187802" this_length="756" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="204709" this_length="2758" />
+</document>
+

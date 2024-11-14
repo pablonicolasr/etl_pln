@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01776.txt">
+  <feature name="about" authors="Holmes, Oliver Wendell" title="The Poetical Works of Oliver Wendell Holmes — Volume 02: Additional Poems (1837-1848)" lang="en" />
+  <feature name="md5Hash" value="9cb5b442c30c9428d5348c2648c1885a" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="18642" this_length="2498" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="46057" this_length="3043" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="80668" this_length="2237" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="85788" this_length="229" />
+</document>
+

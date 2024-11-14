@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01128.txt">
+  <feature name="about" authors="Cabell, James Branch" title="Jurgen A Comedy of Justice" lang="en" />
+  <feature name="md5Hash" value="34578e4243d86e9e6a6c78ebdc90fb3e" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="11267" this_length="3023" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="109919" this_length="14818" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="486310" this_length="2132" />
+</document>
+

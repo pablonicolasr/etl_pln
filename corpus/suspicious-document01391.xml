@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01391.txt">
+  <feature name="about" authors="United States Patent Office" title="The Classification of Patents" lang="en" />
+  <feature name="md5Hash" value="8ee4ffe35ffdf12cce5e0bfb1636a55c" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2326" this_length="529" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="13611" this_length="2558" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22683" this_length="234" />
+</document>
+

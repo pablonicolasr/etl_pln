@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00604.txt">
+  <feature name="about" authors="Fuller, Henry Blake" title="With the Procession" lang="en" />
+  <feature name="md5Hash" value="dbd0f9c0f8af6eb1c981f1d8e04a8366" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="280305" this_length="17046" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="413008" this_length="1778" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="453900" this_length="497" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="464083" this_length="768" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="480403" this_length="487" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="495062" this_length="233" />
+</document>
+

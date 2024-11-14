@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00872.txt">
+  <feature name="about" authors="Hall, Angelo" title="Forty-one Thieves A Tale of California" lang="en" />
+  <feature name="md5Hash" value="d5e21c156354b7015f297de4838d19e9" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="37380" this_length="2600" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="79276" this_length="3742" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="158886" this_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="166943" this_length="516" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="174524" this_length="259" />
+</document>
+

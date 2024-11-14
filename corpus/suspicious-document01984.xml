@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01984.txt">
+  <feature name="about" authors="Paterson, Andrew Barton" title="Three Elephant Power and Other Stories" lang="en" />
+  <feature name="md5Hash" value="2ae45578c3e87d7ead482a573c094407" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="13080" this_length="2401" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="85301" this_length="2663" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="143175" this_length="1468" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="161191" this_length="773" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="172139" this_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="177563" this_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="179376" this_length="265" />
+</document>
+

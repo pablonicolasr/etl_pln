@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01036.txt">
+  <feature name="about" authors="Wiggin, Kate Douglas Smith" title="Penelope's English Experiences" lang="en" />
+  <feature name="md5Hash" value="7f6a93c4d3d3e9e9eff75804f8c7d5a2" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5656" this_length="691" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15089" this_length="261" />
+</document>
+

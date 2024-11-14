@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01708.txt">
+  <feature name="about" authors="Ladue, Joseph Francis" title="Klondyke Nuggets A Brief Description of the Great Gold Regions in the Northwest" lang="en" />
+  <feature name="md5Hash" value="b25b0e9e5eaffee81295f57c4507aa9a" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6480" this_length="3084" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="25717" this_length="23666" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="117325" this_length="3829" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="138199" this_length="3716" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="150179" this_length="1773" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="154097" this_length="497" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="156882" this_length="733" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="159243" this_length="743" />
+</document>
+

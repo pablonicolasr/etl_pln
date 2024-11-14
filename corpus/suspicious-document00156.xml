@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00156.txt">
+  <feature name="about" authors="Daviess, Maria Thompson" title="Over Paradise Ridge A Romance" lang="en" />
+  <feature name="md5Hash" value="7236e0afea8a6203f768159780438902" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="40507" this_length="22076" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="178023" this_length="2281" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="184234" this_length="526" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="188239" this_length="457" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="195559" this_length="3448" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="216941" this_length="516" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="224313" this_length="812" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="228885" this_length="797" />
+</document>
+

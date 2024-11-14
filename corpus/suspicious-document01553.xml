@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01553.txt">
+  <feature name="about" authors="Rogers, Jasper W." title="Facts for the Kind-Hearted of England! As to the Wretchedness of the Irish Peasantry, and the Means for their Regeneration" lang="en" />
+  <feature name="md5Hash" value="b9827c9dc36e6e41a70489aefd81d076" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="29865" this_length="2322" />
+</document>
+

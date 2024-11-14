@@ -1,0 +1,399 @@
+﻿=24. Methods of Characterization.=--In our everyday life we are continually drawing inferences
+in regard to the characters of those about us, and we do the same thing in a story. Some writers
+tell us as clearly as they can the natures of the men and women they are revealing to us, while
+others leave that almost wholly for us to conjecture. We shall employ, then, two sets of symbols
+for character, one for direct statement of character, and one for character effects. The realization
+of character through direct statement may include presentation of motives, ideas, passions,
+will, special phases of development. It may come through report of the talk of others, or through
+statement of opinion generally entertained. c1 we will use for direct statement of character,--"John
+was a hard old miser,"--and we will add to this symbol the symbol a to indicate that this is
+only so far potent with us as to make us know the writer's understanding of the character merely,
+b to indicate that we recognize the writer's feeling for the character but do not share it,
+and c to indicate that the writer's feeling for his character affects us sympathetically to
+a like feeling. Another group of symbols, c2, c3, and c4, we will use for character "effects,"
+for such knowledge of character as we gain by inference. c2 is a symbol for a general inference
+regarding a group of people or a community; c3 and c4 are symbols for inferences regarding
+the individual, c3 indicating the recognition of type or class qualities, c4, the recognition
+of more individual traits of character. The distinction here is merely one of matter of fact,
+a distinction not always to be made with sureness, since it is one of degree rather than altogether
+one of kind. When the way in which a man is good or cheerful or avaricious is differentiated
+for us from the way in which another man is good or cheerful or avaricious, he is so far individualized.
+Class characterization, c3, may be found along with individualization. The extreme accentuation
+of one or a few characteristics to the disregard of others gives the effect of individualization,
+but we shall understand this as in fact type characterization, since our natures are so complex
+that in almost no case can the conduct of any one be understood through knowledge of a few
+dominant traits of character. Individualization gives us intimacy of acquaintance; type or
+class characterization makes us see merely the striking, peculiar, or controlling expressions
+of personality. Guy Mannering in Scott's "Guy Mannering" is but a type of the conventional
+soldier. Tito Milema in George Eliot's "Romola" presents so many sides of a complex nature
+that we easily distinguish him from all other characters in fiction whatever.
+
+=25. The Subjective and Objective.=--Writers, in their methods of presentation, may be broadly
+divided into two classes, those who write subjectively and those who write objectively. A subjective
+writer is one whose own personality, point of view, feeling, is insistent in what he writes.
+An objective writer, on the other hand, is one who leaves the things of which he makes record
+to produce their own impression, the writer himself remaining an almost impassive spectator,
+telling the story with little or no comment. Chaucer, in the prologue to the "Canterbury Tales,"
+betrays his personal feeling for his characters continually, and so is subjective. Shakespeare
+in his plays is objective, presenting all sorts of men and women without show of his own attitude
+toward them.
+
+=26. Interest of the Plot and its Purpose.=--We have seen that interest in incident is a first
+interest in the story. This interest, we must understand further, is not to be maintained by
+having things happen in a matter regulated only by chance or the exigencies of the author's
+invention at the moment. The unification of a story that results from the subordination of
+minor incidents to a final outcome is an essential necessity of the plot. The plot, indeed,
+is the arrangement of incidents with reference to the dénouement. The development of the plot
+should be such as to indicate an end toward which the succession of incidents is tending, and
+yet such as to keep the reader in suspense with regard to the nature of that end. There must
+be novelty in the happenings, and yet the novelty must not be so great as to keep the reader
+confused or strain belief. The permanent hold upon us of a piece of fiction is enhanced if
+it embodies some central truth, illustrating the working out of some law of life, or involved
+in the personal attitude of the writer toward some problem of existence. Only dilettanteism
+and superficiality forget that an artist, giving the form of beauty to his conceptions, is
+trying to make them as significant to others as they are to him, and that æsthetic and ethical,
+or spiritual, significance are inextricably interwoven. It will, of course, be the care of
+the artist to see that any didactic purpose is not obtrusive.
+
+  F2b     1. 2. "Ye 'ill taste, Tammas," with settled melancholy.
+
+  m3k     4. "Na, na; I've nae incleenation the day; it's an awful
+  F2a     dispensation, this, Jeems. 5. She wuld be barely saxty."
+
+  m3k     6. "Ay, ay, but we maun keep up the body sae lang as we're
+             here, Tammas."
+
+  c2/c4  7. "Weel, puttin' it that way, a'm not sayin' but yir
+  m2      richt," yielding unwillingly to the force of circumstance.
+
+  c4/m3  8. "We're here the day and there the morn, Tammas. 9. She
+  m3      was a fine wumman--Mistress Stirton--a weel-livin' wumman:
+             this will be a blend, a'm thinkin'."
+
+  c4/m3  10. "She slippit aff sudden in the end; a'm judgin' it's
+  m3      frae the Muirtown grocer; but a body canna discreeminate
+             on a day like this."
+
+             11. It was George Howe's funeral that broke the custom and
+  F2b     closed the "service." 12. When I came into the garden
+             where the neighbors were gathered, the "wricht" was
+  Exp.+m2 removing his tray and not a glass had been touched. 13.
+             Then I guessed that Drumtochty had a sense of the fitness
+             of things and was stirred to its depths.
+
+             14. "Ye saw the wricht carry in his tray," said Drumsheigh
+             as he went home from the kirkyard.
+
+  m3d     15. "Weel, yon's the last sicht o't ye' ill get or a'm no
+  m3k     Drumsheigh. 16. 17. A'm ower auld in the horn to change noo.
+  m3/F2b 18.
+
+=27. Interpretative Application of the Symbols.=--A little discussion of the foregoing from
+a "A Scholar's Funeral" in the "Bonnie Brier Bush" may serve to make some of these things clearer.
+The fact that the "wricht" is silent here in the first sentence makes us know that this is
+the usual custom and that these people have an underlying sense of decorum. Sentence two has
+the same effect in their abstraction, and this is emphasized again in the "two graven images."
+The third sentence is a mood "effect" of kind, since we recognize the conventionally sobered
+feeling without the "settled melancholy." This is true again in sentence four, and in five
+we have a "fact as effect," drawing the inference that they are a long-lived race in Drumtochty.
+From the yielding to an invitation so framed as to put aside the semblance of yielding to inclination,
+we get a knowledge of character which seems to us individual, but which is used by the author
+to indicate a local community characteristic. The author's mood of amused observation is evident
+here, too, in his unbelieving acquiescence in Tammas's point of view. In sentences eight and
+nine we come to know Jeems in a more individual way, through the mingling in him of moods of
+conventional solemnity and everyday discussion. This is repeated in sentence ten. In sentence
+twelve we draw an emotional inference concerning the degree of their feeling from the fact
+that "not a glass had been touched." This is told in the explanatory way in thirteen with the
+addition of a suggestion of the author's sympathetic understanding and appreciation. Knowing
+Drumsheigh's reserve, from things that have gone before this in the story, we feel that only
+strong emotion could have called out sentence fifteen; and the apologetic tone of sixteen and
+seventeen indicates rather mood than such heightened feeling. Sentence eighteen returns to
+the mood of fifteen and sixteen, and through the fact of Domsie's standing "ahent the brier
+bush" reveals both Domsie's mood and Drumsheigh's own in our knowledge of its emotional appeal
+to him.
+
+=28. Different Forms of the Story.=--It is to be understood that certain types of the short
+story are not included in this study as not being available for detailed work. Stories in which
+the interest is almost wholly dependent upon the succession of incidents can profitably be
+studied only with relation to the plot. Generally in such cases the things that make the story
+effective will be readily apparent, and they can be brought out by a few questions. To give
+variety and interest to the work the teacher will occasionally find it desirable to call attention
+to stories in current periodicals, requiring the class to bring in analyses of them showing
+structure of the plot, methods of managing the reader's sympathies, fundamental motive of the
+story, the treatment of character and methods of presenting it, and such other things as seem
+most of moment in the story in question. When library facilities permit, it will be found worth
+while to make some comparison of the short story as it is now written in America with the short
+stories of fifty years ago and of the present day in England and France. No classification
+of stories is attempted here, since such classification is of no particular moment to the writer
+of stories.
+
+A FEW CAUTIONS
+
+=29.= The suggestions that follow are phrased to cover the matter of visualization, but they
+touch upon general principles which are of wider application. It has seemed more convenient
+at this point to give them this specific treatment.
+
+=30. Author's Purpose should be Concealed.=--An attempt to bring about a visualization or any
+other artistic effect in the mind of the reader is foredoomed to failure when in any way the
+writer's purpose too evidently betrays itself as such. Too much in the way of direct statement
+or predication is one indication of such purpose, and is therefore more or less ineffectual.
+For effective visualization some sort of preparation of the mood or sympathies of the reader
+is generally required. This, however, should be concealed, being accomplished through suggestion,
+as is the visualization itself.
+
+=31. Unity in Visualization.=--A visualization should be so managed as to bring the whole picture,
+or nearly all of it, into the mind at once. It is partly because it does not do this that the
+method by details is not generally effective. A string of incomplete images passing through
+the mind, each one taking the place of the preceding and effacing it, is not artistically satisfying.
+It is possible to retain such separate images and at the end bring them together in a complete
+picture, but this will require effort on the part of the reader; and it is fundamentally important
+in all writing to reduce the conscious attention and effort of the reader to the lowest point.
+Only extreme literary art can so nullify this effort in effect as to make description by detail
+pleasurable, if of any length. Description by detail is, perhaps, more admissible in writing
+having a meditative tone than in any other, except, of course, technical description.
+
+=32. Fine Writing.=--Fine writing is especially to be avoided in visualization, since the tone
+of artificiality is immediately destructive of the reader's confidence in the sincerity of
+the writer. It betrays the author's purpose of producing an effect. The appearance of truth
+free from any semblance of over-statement is a first requisite.
+
+=33.= In any visualization harmony of detail is of prime importance. Even in describing something
+actually seen it will sometimes be necessary to leave out items really present, but not of
+a kind to contribute to the general effect. The saying that "Truth is stranger than fiction"
+should read that fiction may not be as strange as truth. Harmony of mood is important, as well
+as harmony of detail, in the thing described. If the picture is a quiet one, exclamatory excitement
+on the part of the writer, however affecting the scene may be supposed to be, will prevent
+its becoming real to the reader. These things are, then, to be borne in mind with regard to
+the elements of a visualization: the details presented must be so far true to common knowledge
+and experience as to gain ready belief, they must have unity in fact and in effect, and they
+must also be sufficiently individual to appeal to the mind with something of the sense of novelty.
+
+REFERENCE TABLE OF SYMBOLS
+
+    Exp.   = Explanatory matter.
+
+    F1  = Statement of fact from which no inference is drawn.
+
+    F2  = Statement of fact from which an inference is drawn.
+
+    F2a = Statement of fact with inference mainly logical.
+
+    F2b = Statement of fact with inference mainly emotional.
+
+    In.  = Statement of incident, secondary symbols as with F.
+
+    As1 = Anticipatory suggestion, a foretelling of something to
+               happen, leaving the reader in doubt as to how it is to
+               be brought about.
+
+    As2 = Anticipatory suggestion, a foreshowing of something
+               definite to happen, exciting the reader's curiosity to
+               know what it is and how it is to be brought about.
+
+    As3 = Anticipatory suggestion, a foreshadowing of something
+               to be expected in the way of character development and
+               consequent happening.
+
+    V1  = Description in which the mere idea of the thing
+               described is presented.
+
+    V2  = A kindling hint by which the mind is enabled to piece
+               together a visualization of the object.
+
+    V3  = Visualization of so vivid a kind as to possess the mind
+               completely. This becomes
+
+    Vb3   when it pleasurably affects the sensibilities.
+
+    A1  = Audition in the way of simple idea of the thing to be
+               heard.
+
+    A2  = Audition as a reviving of the sense of sound.
+
+    S1  = Sensation, the mere presentation of the idea of an
+               appeal to one of the other senses.
+
+    S2  = Sensation, a subjective reviving of the sensation
+               itself.
+
+    x      used to indicate that a subjective excitation of some one
+               of the senses has motor effects, as in the shiver at the
+               thought of a file upon the teeth.
+
+    m1  = Mood "effect," from which we learn the feeling of the
+               writer without experiencing it ourselves.
+
+    m2  = Mood "effect" from which we sympathetically experience
+               the feeling of the writer.
+
+    m3  = Mood "effect," a revelation of the feeling of a
+               character in the story.
+
+    c1  = Direct statement of character.
+
+    c1a = Direct statement of character that does not reveal the
+               author's attitude toward the character.
+
+    c1b = Direct statement in which we are made aware of the
+               author's attitude toward the character, but are not
+               affected by it.
+
+    c1c = Direct statement of character sympathetically
+               influencing us to the author's attitude toward the
+               character.
+
+    c2  = Character "effect," characterization of a group or
+               community of people.
+
+    c3  = Character "effect," class or type characterization of
+               the individual.
+
+    c4  = Character "effect" in the way of individualization.
+
+    d    = Degree, added to symbol for mood effect to indicate
+               intensity of the feeling.
+
+    k    = Kind, used to indicate that the inference concerns itself
+               with character and not intensity.
+
+    /    = A symbol employed (see section 26) to indicate that one
+               inference is drawn as an ultimate conclusion from
+               another more immediate inference.
+
+SUBJECTS FOR DAILY THEMES
+
+Subjects for visualization and the reviving of other sensations.
+
+1. A sunset sky. 2. A group in the park. 3. A spring freshet. 4. The man at the threshing machine.
+5. The city across the river: night. 6. Moonlight among the hills. 7. A city street. 8. The
+college campus. 9. Eleanor's rose garden. 10. The witch of Endor (1 Sam. xxviii: 6-25). 11.
+Mt. Pelée in eruption. 12. The woods at night. 13. David playing before Saul. 14. A ferny water
+course among the trees. 15. A bluebird in the orchard. 16. The violinist. 17. In time of apple
+blossoms. 18. The scent of new-mown hay. 19. Barbara at the piano. 20. The first watermelon.
+21. Sailing with the wind. 22. Dawn in the mountains. 23. The wind among the pines. 24. The
+blacksmith and the forge.
+
+Subjects for presentation of mood.
+
+1. Uncle Dick hears the news. 2. Balboa catches sight of the Pacific. 3. Silas explains himself.
+4. Napoleon looking back at Moscow. 5. Congressman Norris is refused the floor of the convention.
+6. Johnnie is told that he may go to the circus. 7. Ethan Allen at Ticonderoga. 8. Bamba, king
+of an island in the south seas, sees the first ship of the white man. 9. Alfred meets a Hallowe'en
+obstacle.
+
+Subjects for visualization and presentation of facts as "effects."
+
+1. A deserted house. 2. In the second-hand store. 3. The railroad wreck. 4. The beggar at the
+door. 5. Representative Dongan reads a letter from "The Corners." 6. A woman at the station.
+7. Mrs. Humphrey's kitchen. 8. The trail of war.
+
+Subjects for character studies.
+
+1. The village oracle. 2. The landlord of the Lion Inn. 3. The old stage-driver. 4. The conductor.
+5. An old-fashioned music-master. 6. A pirate captain. 7. A country beau. 8. Deacon Bradley.
+9. The school bully. 10. The female suffragist. 11. One of the four hundred. 12. A disciple
+of Mrs. Eddy. 13. "The man with the hoe." 14. The scissors grinder. 15. Captain Doty of the
+police. 16. A candidate for office.
+
+THE COMPLETE STORY
+
+The invention of situations and plots can hardly be a matter of class-room instruction. If
+stories come to one, it is well. Study of the detailed means of making them living for the
+reader will then be worth while. The student should be encouraged to invent plots of his own,
+but as a simplification of this difficulty, to the end that some exercise in the writing of
+a complete story may be had, plots of some successful published stories are here given with
+suggestions regarding methods of treatment.
+
+I
+
+    Scene, a saloon where both men and women are drinking. One of
+    them, a girl, thinks she sees at the window the face of Christ
+    with his tender eyes. She leaves and will not permit the others
+    to go with her.
+
+    At a little distance she comes upon the stranger waiting for
+    her. He tells her that when she wakes it will be to a new life
+    and she will be his, bidding her go to a house he points out and
+    remain for the night. She obeys, and the man passes into the
+    shadow.
+
+    Introductory sentence in the original, giving the atmosphere of
+    the story: "This was the story the mystic told." Concluding
+    sentence in the original, connecting it with our sense of
+    unfathomable mysteries: "And this the listener gravely asked,
+    'One was chosen, the others left. Were the others less in need
+    of grace?'"
+
+    Divisions of the story. 1. Visualizing description of the saloon
+    and of the street outside through which the stranger passes.
+
+    2. Appearance of the face at the pane and its effect on the
+    young girl (m3 "effect"). This is the difficult part of the
+    story, and the reader can be made to believe in it only through
+    sympathy with the girl's feeling.
+
+    3. The talk of her companions and her answers (m3).
+
+    4. Her search for the stranger in the night (m3).
+
+    5. His talk to her when she finds him.
+
+This story in the original contains a little less than two thousand words. It will be seen
+at once that unless handled in such fashion as to appeal vividly to the imagination, a story
+with this for its theme will seem weak and unreal. It must be made as suggestive as possible
+or it will fail. It preaches, but it must avoid the air of preaching. Consider carefully how
+you would present the stranger--whether first at the window or before--so as to affect the
+reader with a sense of something more than human in him.
+
+II
+
+    Scene of the story is the prairie desert of the West in time of
+    drouth. A party of men, including two who are not yet through
+    their work in an eastern college, are riding in search of water,
+    having had none for two days. Water is found, but shortly
+    afterwards one of the two young men is missing. The talk of the
+    others reveals the absent one's unselfishness and friendly
+    devotion to his chum. Soon he is seen riding up excitedly and
+    beckoning. The others follow him to a rough eminence, where he
+    stops and listens, imploring them to tell him whether they can
+    hear a voice calling. When they hear it too, he is assured that
+    he has not lost his reason from the thirst, and together they
+    begin a search which results in their discerning a cavern in the
+    side of an embankment where a man lies on a couch moaning for
+    water. As they try to enter, he warns them away with the cry of
+    "smallpox."
+
+    The story is told to a group of friends gathered together of an
+    evening, and the narrator draws from among his books a copy of
+    Shakespeare found in the cavern by one of the men, bearing on
+    its fly leaf, in addition to the owner's name, the word
+    Brasenose, the name of one of the colleges at Oxford. The
+    pathos of the story is in this last touch, an Oxford student
+    dying so loathsome a death in a strange and desert land, and
+    dying so heroically.
+
+    Divisions of the story. 1. Visualization of the desert and the
+    men. The scent of water. Drinking from the muddied stream.
+
+    2. One of the young men starts off alone in a delirium of pain
+    (m3). He returns suffering from the fear that he has lost his
+    reason (m3).
+
+    3. The discovery of the cave (V3 and F2b). The delirious
+    talk of the sick man. His sudden joy in the unexpected presence
+    of human beings (V3 and m3). His final "G'way! G'way!
+    Smallpox!"
+
+    4. The narrator of the story shows the copy of Shakespeare and
+    the inscription on the fly leaf.
+
+The story in the original contains about three thousand words. It is important that the suffering
+of the men be developed at some length in a convincing fashion. It serves as a preparation
+for the more terrible suffering of the one man who moans for water as he tears the foul smallpox
+sores. This should be presented in as visualizing a way as possible and with as full showing
+of mood as may be. The conclusion in division 4 must be altogether different in tone from the
+preceding. Narrator and listeners are in a world of ease and comfort, and their interest in
+the story is an interest in something pathetically remote.
+
+SITUATIONS TO BE DEVELOPED INTO PLOTS
+

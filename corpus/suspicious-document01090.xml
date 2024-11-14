@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01090.txt">
+  <feature name="about" authors="King, Charles" title="A Wounded Name" lang="en" />
+  <feature name="md5Hash" value="aa4a552d06f4bbd538b0615441a7df71" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4194" this_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="78561" this_length="3390" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="124358" this_length="3624" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="231288" this_length="4227" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="328500" this_length="4264" />
+</document>
+

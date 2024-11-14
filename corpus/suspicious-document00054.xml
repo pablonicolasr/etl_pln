@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00054.txt">
+  <feature name="about" authors="Stevenson, Burton Egbert" title="American Men of Mind" lang="en" />
+  <feature name="md5Hash" value="7bbe9342c38db1d09f2e8c1c3eac2362" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1039" this_length="274" />
+</document>
+

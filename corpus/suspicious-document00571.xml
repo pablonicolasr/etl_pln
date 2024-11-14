@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00571.txt">
+  <feature name="about" authors="Crane, Stephen" title="The Red Badge of Courage" lang="en" />
+  <feature name="md5Hash" value="ad5d511cee15c366e915ebe8a52ba674" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="18220" this_length="2341" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="186954" this_length="16248" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="242623" this_length="1467" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="249467" this_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="253334" this_length="820" />
+</document>
+

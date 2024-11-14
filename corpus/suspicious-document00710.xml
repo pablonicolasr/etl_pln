@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00710.txt">
+  <feature name="about" authors="Roberts, Charles George Douglas, Sir" title="The Backwoodsmen" lang="en" />
+  <feature name="md5Hash" value="0787caa2ff8d0e1c076ddeb8aa2259e5" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="97095" this_length="20845" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="222714" this_length="18039" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="307161" this_length="3665" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="314194" this_length="747" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="327957" this_length="3974" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="356434" this_length="1833" />
+</document>
+

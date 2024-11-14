@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00449.txt">
+  <feature name="about" authors="Abbott, Belle Kendrick" title="Leah Mordecai" lang="en" />
+  <feature name="md5Hash" value="da05191e67ccb318f96d4d51fbf65a31" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7206" this_length="3791" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="119364" this_length="2724" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="207606" this_length="4000" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="277226" this_length="1384" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="298012" this_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="307022" this_length="781" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00878.txt">
+  <feature name="about" authors="Whipple, H. B." title="Five Sermons" lang="en" />
+  <feature name="md5Hash" value="67011d228250ebf41aa4f7a3b893d420" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1584" this_length="3234" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="18963" this_length="234" />
+</document>
+

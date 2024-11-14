@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02489.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The American Senator" lang="en" />
+  <feature name="md5Hash" value="f82106e6a7fd439913849a52ebd6e605" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="17450" this_length="2770" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="33723" this_length="2185" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="43086" this_length="543" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="49646" this_length="710" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="52986" this_length="250" />
+</document>
+

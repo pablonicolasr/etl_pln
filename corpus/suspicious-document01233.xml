@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01233.txt">
+  <feature name="about" authors="France, Anatole" title="The Seven Wives Of Bluebeard 1920" lang="en" />
+  <feature name="md5Hash" value="5eb9f95e5d6def79a6a21ae056c4e657" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="12902" this_length="1539" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="40472" this_length="516" />
+</document>
+

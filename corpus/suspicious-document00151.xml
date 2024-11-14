@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00151.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="Kenelm Chillingly — Volume 08" lang="en" />
+  <feature name="md5Hash" value="24b766223321fbcf926e8b27b50150da" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5178" this_length="2202" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="78130" this_length="3938" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="142494" this_length="245" />
+</document>
+

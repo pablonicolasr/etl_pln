@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00432.txt">
+  <feature name="about" authors="Taylor, David Clark" title="The Psychology of Singing A Rational Method of Voice Culture Based on a Scientific Analysis of All Systems, Ancient and Modern" lang="en" />
+  <feature name="md5Hash" value="51ecb054d1f3070ec727e48395e11270" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1167" this_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="125306" this_length="15033" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="159015" this_length="4457" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="206065" this_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="207754" this_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="211237" this_length="507" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="216174" this_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="220353" this_length="256" />
+</document>
+

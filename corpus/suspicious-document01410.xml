@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01410.txt">
+  <feature name="about" authors="Brooks, Elbridge Streeter" title="Historic Girls" lang="en" />
+  <feature name="md5Hash" value="3ebbd597b4545a92eb6215e3d2524be9" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="14173" this_length="4415" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="27459" this_length="1983" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="73522" this_length="23405" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="143899" this_length="2467" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="151500" this_length="16685" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="239347" this_length="4696" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="251728" this_length="1791" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="255535" this_length="253" />
+</document>
+

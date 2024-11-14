@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02114.txt">
+  <feature name="about" authors="Irwin, Will" title="The House of Mystery An Episode in the Career of Rosalie Le Grange, Clairvoyant" lang="en" />
+  <feature name="md5Hash" value="b91ffb489a6026921ce7878cc188fa95" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="80969" this_length="3950" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="194343" this_length="4256" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="218793" this_length="225" />
+</document>
+

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01643.txt">
+  <feature name="about" authors="Twain, Mark" title="Life on the Mississippi, Part 4." lang="en" />
+  <feature name="md5Hash" value="c7fd4aeddf7eac5912580d0a686931b0" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1824" this_length="498" />
+</document>
+

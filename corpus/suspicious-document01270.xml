@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01270.txt">
+  <feature name="about" authors="Ward, Humphry, Mrs." title="Missing" lang="en" />
+  <feature name="md5Hash" value="60a447bcb5681bf0e90d7c61731629a4" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1" this_length="271" />
+</document>
+

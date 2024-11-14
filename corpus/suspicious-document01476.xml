@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01476.txt">
+  <feature name="about" authors="Walton, George Lincoln" title="Why Worry?" lang="en" />
+  <feature name="md5Hash" value="6adf0ebc69477d2c485fc89a33496eb0" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="9456" this_length="457" />
+</document>
+

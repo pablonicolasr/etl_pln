@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01768.txt">
+  <feature name="about" authors="The Butterick Publishing Co." title="The Art of Modern Lace Making" lang="en" />
+  <feature name="md5Hash" value="06686ce39864875caf6deba4336818a5" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1901" this_length="721" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6205" this_length="759" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8920" this_length="259" />
+</document>
+

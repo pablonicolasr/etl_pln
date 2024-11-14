@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01096.txt">
+  <feature name="about" authors="Mathews, Cornelius" title="Chanticleer A Thanksgiving Story of the Peabody Family" lang="en" />
+  <feature name="md5Hash" value="aeb97f3ca8b14d803cf94609b19a0f8f" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="111303" this_length="19822" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="161844" this_length="261" />
+</document>
+

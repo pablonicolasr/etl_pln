@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01673.txt">
+  <feature name="about" authors="Whittier, John Greenleaf" title="The Works of Whittier, Volume III (of VII) Anti-Slavery Poems and Songs of Labor and Reform" lang="en" />
+  <feature name="md5Hash" value="2e49dd57e449bdd4b4a983b3bbee28b3" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6262" this_length="3076" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="56393" this_length="488" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="88653" this_length="3913" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="194432" this_length="4490" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="241136" this_length="1544" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="284268" this_length="1635" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="296723" this_length="539" />
+</document>
+

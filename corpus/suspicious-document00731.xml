@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00731.txt">
+  <feature name="about" authors="Fowler, Orin" title="A Disquisition on the Evils of Using Tobacco and the Necessity of Immediate and Entire Reformation" lang="en" />
+  <feature name="md5Hash" value="8b44fed97c661b621b10d494a2fdda61" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6073" this_length="455" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="17411" this_length="1841" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="70791" this_length="724" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="78228" this_length="286" />
+</document>
+

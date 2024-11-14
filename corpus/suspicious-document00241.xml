@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00241.txt">
+  <feature name="about" authors="Toomer, Jean" title="An Interpretation of Friends Worship" lang="en" />
+  <feature name="md5Hash" value="adc5626048abf246858edc05d959edb2" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1703" this_length="815" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4871" this_length="505" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6558" this_length="261" />
+</document>
+

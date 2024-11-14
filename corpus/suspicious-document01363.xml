@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01363.txt">
+  <feature name="about" authors="Lewis, R." title="Over the top with the 25th Chronicle of events at Vimy Ridge and Courcellette" lang="en" />
+  <feature name="md5Hash" value="5b274b3c1759bd0399c17066b494bea1" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="9179" this_length="2221" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="31511" this_length="3429" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="68796" this_length="1720" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="82607" this_length="774" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="86613" this_length="264" />
+</document>
+

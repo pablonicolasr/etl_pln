@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02436.txt">
+  <feature name="about" authors="Smith, Francis Hopkinson" title="Peter: a novel of which he is not the hero" lang="en" />
+  <feature name="md5Hash" value="18967bbd8fb40f38d7fc9d702fda020d" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2535" this_length="261" />
+</document>
+

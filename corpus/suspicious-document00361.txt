@@ -1,0 +1,497 @@
+﻿To make this complete organization of a library successful, one must have an organising mind,
+a wide acquaintance with literature, history, and the outlines, at least, of all the sciences;
+a knowledge of the ancient and of various modern languages; a quick intuition, a ripe judgment,
+a cultivated taste, a retentive memory, and a patience and perseverance that are inexhaustible.
+
+Even were all these qualities possessed, there will be in the arrangement elements of discord
+and of a failure. A multitude of uncertain points in classification, and many exceptions will
+arise; and these must of necessity be settled arbitrarily. The more conversant one becomes
+with systems of classification, when reduced to practice, the more he becomes assured that
+a perfect bibliographical system is impossible.
+
+Every system of classification must find its application fraught with doubts, complications,
+and difficulties; but the wise bibliographer will not pause in his work to resolve all these
+insoluble problems; he will classify the book in hand according to his best judgment at the
+moment it comes before him. He can no more afford to spend time over intricate questions of
+the preponderance of this, that, or the other subject in a book, than a man about to walk to
+a certain place can afford to debate whether he shall put his right foot forward or his left.
+The one thing needful is to go forward.
+
+Referring to the chapter on bibliography for other details, I may here say that the French
+claim to have reached a highly practical system of classification in that set forth in J. C.
+Brunet's Manuel du Libraire. This is now generally used in the arrangement of collections of
+books in France, with some modifications, and the book trade find it so well adapted to their
+wants, that classified sale and auction catalogues are mostly arranged on that system. It has
+only five grand divisions: Theology, Law, Arts and Sciences, Belles-lettres, and History. Each
+of these classes has numerous sub-divisions. For example, geography and voyages and travels
+form a division of history, between the philosophy of history and chronology, etc.
+
+The classification in use in the Bibliothèque nationale of France places Theology first, followed
+by Law, History, Philosophy and Belles-lettres. The grand division of Philosophy includes all
+which is classified under Arts and Sciences in the system of Brunet.
+
+In the Library of the British Museum the classification starts with Theology, followed by 2.
+Jurisprudence; 3. Natural History (including Botany, Geology, Zoölogy, and Medicine); 4. Art
+(including Archaeology, Fine Arts, Architecture, Music, and Useful Arts); 5. Philosophy (including
+Politics, Economics, Sociology, Education, Ethics, Metaphysics, Mathematics, Military and Naval
+Science, and Chemistry); 6. History (including Heraldry and Genealogy); 7. Geography (including
+Ethnology); 8. Biography (including Epistles); 9. Belles-lettres (including Poetry, Drama,
+Rhetoric, Criticism, Bibliography, Collected Works, Encyclopaedias, Speeches, Proverbs, Anecdotes,
+Satirical and facetious works, Essays, Folklore and Fiction); 10. Philology.
+
+Sub-divisions by countries are introduced in nearly all the classes.
+
+In the Library of Congress the classification was originally based upon Lord Bacon's scheme
+for the division of knowledge into three great classes, according to the faculty of the mind
+employed in each. 1. History (based upon memory); 2. Philosophy (based upon reason); 3. Poetry
+(based upon imagination). This scheme was much better adapted to a classification of ideas
+than of books. Its failure to answer the ends of a practical classification of the library
+led to radical modifications of the plan, as applied to the books on the shelves, for reasons
+of logical arrangement, as well as of convenience. A more thorough and systematic re-arrangement
+is now in progress.
+
+Mr. C. A. Cutter has devised a system of "Expansive classification," now widely used in American
+libraries. In this, the classes are each indicated by a single letter, followed by numbers
+representing divisions by countries, and these in turn by letters indicating sub-divisions
+by subjects, etc. It is claimed that this method is not a rigid unchangeable system, but adaptable
+in a high degree, and capable of modification to suit the special wants of any library. In
+it the whole range of literature and science is divided into several grand classes, which,
+with their sub-classes, are indicated by the twenty-six letters of the alphabet. Thus Class
+A embraces Generalia; B to D, Spiritual sciences (including philosophy and religion); E to
+G, Historical sciences (including, besides history and biography, geography and travels); H
+to K, Social sciences (including law and political science and economics); L to P, Natural
+sciences; Q, Medicine; and R to Z, Arts (including not only mechanical, recreative and fine
+arts, but music, languages, literature, and bibliography).
+
+The sub-divisions of these principal classes are arranged with progressive fullness, to suit
+smaller or larger libraries. Thus, the first classification provides only eleven classes, suited
+to very small libraries: the second is expanded to fifteen classes, the third to thirty classes,
+and so on up to the seventh or final one, designed to provide for the arrangement of the very
+largest libraries.
+
+This is the most elaborate and far-reaching library classification yet put forth, claiming
+superior clearness, flexibility, brevity of notation, logical coördination, etc., while objections
+have been freely made to it on the score of over-refinement and aiming at the unattainable.
+
+What is known as the decimal or the Dewey system of classification was originally suggested
+by Mr. N. B. Shurtleff's "Decimal system for the arrangement and administration of libraries,"
+published at Boston in 1856. But in its present form it has been developed by Mr. Melvil Dewey
+into a most ingenious scheme for distributing the whole vast range of human knowledge into
+ten classes, marked from 0 to 9, each of which sub-divides into exactly ten sub-classes, all
+divisible in their turn into ten minor divisions, and so on until the material in hand, or
+the ingenuity of the classifier is exhausted. The notation of the books on the shelves corresponds
+to these divisions and sub-divisions. The claims of this system, which has been quite extensively
+followed in the smaller American libraries, and in many European ones, are economy, simplicity,
+brevity of notation, expansibility, unchanging call-numbers, etc. It has been criticised as
+too mechanical, as illogical in arrangement of classes, as presenting many incongruities in
+its divisions, as procrustean, as wholly inadequate in its classification of jurisprudence,
+etc. It is partially used by librarians who have had to introduce radical changes in portions
+of the classification, and in fact it is understood that the classification has been very largely
+made over both in Amherst College library and in that of Columbia University, N. Y., where
+it was fully established.
+
+This only adds to the cumulative proofs that library classification cannot be made an exact
+science, but is in its nature indefinitely progressive and improvable. Its main object is not
+to classify knowledge, but books. There being multitudes of books that do not belong absolutely
+to any one class, all classification of them is necessarily a compromise. Nearly all the classification
+schemers have made over their schemes--some of them many times. I am not arguing against classification,
+which is essential to the practical utility of any library. An imperfect classification is
+much better than none: but the tendency to erect classification into a fetish, and to lay down
+cast-iron rules for it, should be guarded against. In any library, reasons of convenience must
+often prevail over logical arrangement; and he who spends time due to prompt library service
+in worrying over errors in a catalogue, or vexing his soul at a faulty classification, is as
+mistaken as those fussy individuals who fancy that they are personally responsible for the
+obliquity of the earth's axis.
+
+It may be added that in the American Library Association's Catalogue of 5,000 books for a popular
+library, Washington, 1893, the classification is given both on the Dewey (Decimal) system,
+and on the Cutter expansive system, so that all may take their choice.
+
+The fixed location system of arrangement, by which every book is assigned by its number to
+one definite shelf, is objectionable as preventing accessions from being placed with their
+cognate books. This is of such cardinal importance in every library, that a more elastic system
+of some kind should be adopted, to save continual re-numbering. No system which makes mere
+arithmetical progression a substitute for intrinsic qualities can long prove satisfactory.
+
+The relative or movable location on shelves is now more generally adopted than the old plan
+of numbering every shelf and assigning a fixed location to every volume on that shelf. The
+book-marks, if designating simply the relative order of the volumes, permit the books to be
+moved along, as accessions come in, from shelf to shelf, as the latter become crowded. This
+does not derange the numbers, since the order of succession is observed.
+
+For small town libraries no elaborate system of classification can properly be attempted. Here,
+the most convenient grouping is apt to prove the best, because books are most readily found
+by it. Mr. W. I. Fletcher has outlined a scheme for libraries of 10,000 volumes or less, as
+follows:
+
+A. Fiction (appended, J. Juvenile books); B. English and American literature; C. History; D.
+Biography; E. Travels; F. Science; G. Useful arts; H. Fine and recreative arts; I. Political
+and social science; K. Philosophy and religion; L. Works on language and in foreign languages;
+R. Reference books.
+
+Numerous sub-divisions would be required to make such a scheme (or indeed any other) fit any
+collection of books.
+
+In arranging the main classes, care should be taken to bring those most drawn upon near to
+the delivery desk, or charging system of the library.
+
+The alphabet is usefully applied in the arrangement of several of the great classes of books,
+and in many sub-divisions of other classes. Thus, all English and American fiction may be arranged
+in a single alphabet of authors, including English translations of foreign works. All collected
+works, or polygraphy, may form an alphabet, as well as poetry, dramatic works, collections
+of letters, and miscellanea, arranged by authors' names. In any of these classes, sub-divisions
+by languages may be made, if desired.
+
+The class biography may best be arranged in an alphabet of the subjects of the biographies,
+rather than of writers, for obvious reasons of convenience in finding at once the books about
+each person.
+
+CHAPTER 22.
+
+CATALOGUES.
+
+Catalogues of libraries are useful to readers in direct proportion to their fulfilment of three
+conditions: (1) Quick and ready reference. (2) Arranging all authors' names in an alphabet,
+followed by titles of their works. (3) Subjects or titles in their alphabetical order in the
+same alphabet as the authors. This is what is known as a "Dictionary catalogue"; but why is
+it preferable to any other? Because it answers more questions in less time than any other.
+
+The more prevalent styles of catalogues have been, 1. A list of authors, with titles of their
+works under each. 2. A catalogue of subjects, in a classified topical or alphabetical order,
+the authors and their works being grouped under each head. 3. A catalogue attempting to combine
+these two, by appending to the author-catalogue a classed list of subjects, with a brief of
+authors under each, referring to the page on which the titles of their works may be found;
+or else, 4. Appending to the subject-catalogue an alphabet of authors, with similar references
+to pages under subjects.
+
+Each of these methods of catalogue-making, while very useful, contrives to miss the highest
+utility, which lies in enabling the reader to put his finger on the book he wants, at one glance
+of the eye. The catalogue of authors will not help him to subjects, nor will the catalogue
+of subjects, as a rule, give the authors and titles with the fullness that may be needed. In
+either case, a double reference becomes necessary, consuming just twice the time, and in a
+two-column catalogue, three times the time required in a dictionary catalogue.
+
+The reader who wants Darwin's "Origin of Species" finds it readily enough by the author-catalogue;
+but he wants, at the same time, to find other works on the same subject, and all the author-catalogues
+in the world will not help him to them. But give him a dictionary catalogue, and he has, in
+the same alphabet with his Darwin, (if the library is large) dozens of books discussing the
+theory of that great naturalist, under species, evolution, Darwinism, etc.
+
+Thus he finds that there is no key which so quickly unlocks the stores of knowledge which a
+library contains, as a dictionary catalogue.
+
+The objections to it are chiefly brought by minds schooled in systems, who look askance on
+all innovations, and instinctively prefer round-about methods to short-hand ones.
+
+Ask such an objector if he would prefer his dictionary of the English language arranged, not
+alphabetically, but subjectively, so that all medical terms should be defined only under medicine,
+all species of fish described only under fishes, etc., and he will probably say that there
+is no analogy in the case. But the analogy becomes apparent when we find, in what are called
+systematic catalogues, no two systems alike, and the finding of books complicated by endless
+varieties of classification, with no common alphabet to simplify the search. The authors of
+systems doubtless understand them themselves, but no one else does, until he devotes time to
+learn the key to them; and even when learned, the knowledge is not worth the time lost in acquiring
+it, since the field covered in any one catalogue is so small. Alphabetical arrangement, on
+the other hand, strictly adhered to, is a universal key to the authors and subjects and titles
+of all the books contained in the library it represents. The devotee of a bibliographical system
+may be as mistaken as the slave of a scientific terminology. He forgets that bibliography is
+not a school for teaching all departments of knowledge, but a brief and handy index to books
+that may contain that knowledge. A student who has once made a thorough comparative test of
+the merits, as aids to wide and rapid research, of the old-fashioned bibliographies and the
+best modern dictionary catalogues, will no more deny the superiority of the latter, than he
+will contest the maxim that a straight line is the nearest road between two points. Meantime,
+"while doctors disagree, disciples are free;" and the disciples who would follow the latest
+guides in the art "how to make and use a catalogue," must get rid of many formulas.
+
+The reader will find in the chapter on bibliography, notes on some classes of catalogues, with
+the more notable examples of them. We are here concerned with the true method of preparing
+catalogues, and such plain rules as brevity will permit to be given, will be equally adapted
+to private or public libraries. For more ample treatment, with reasons for and against many
+rules laid down, reference is made to the able and acute work, "Rules for a Dictionary Catalogue,"
+by C. A. Cutter, published by the U. S. Bureau of Education, 3d ed. 1891.
+
+CONDENSED RULES FOR AN AUTHOR AND TITLE CATALOGUE.
+
+Prepared by the Co-operation Committee of the American Library Association.
+
+                 ENTRY.
+
+     Books are to be entered under the:
+
+     Surnames of authors when ascertained, the abbreviation "Anon."
+     being added to the titles of anonymous works.
+
+     Initials of authors' names when these only are known, the last
+     initial being put first.
+
+     Pseudonyms of the writers when the real names are not
+     ascertained.
+
+     Names of editors of collections, each separate item to be at the
+     same time sufficiently catalogued under its own heading.
+
+     Names of countries, cities, societies, or other bodies which are
+     responsible for their publication.
+
+     First word (not an article or serial number) of the titles of
+     periodicals and of anonymous books, the names of whose authors
+     are not known. And a motto or the designation of a series may be
+     neglected when it begins a title, and the entry may be made under
+     the first word of the real title following.
+
+     Commentaries accompanying a text, and translations, are to be
+     entered under the heading of the original work; but commentaries
+     without the text under the name of the commentator. A book
+     entitled "Commentary on ...." and containing the text, should be
+     put under both.
+
+     The Bible, or any part of it (including the Apocrypha), in any
+     language, is to be entered under the word Bible.
+
+     The Talmud and Koran (and parts of them) are to be entered under
+     those words; the sacred books of other religions are to be
+     entered under the names by which they are generally known;
+     references to be given from the names of editors, translators,
+     etc.
+
+     The respondent or defender of an academical thesis is to be
+     considered as the author, unless the work unequivocally appears
+     to be the work of the praeses.
+
+     Books having more than one author to be entered under the one
+     first named in the title, with a reference from each of the
+     others.
+
+     Reports of civil actions are to be entered under the name of the
+     party to the suit which stands first on the title page. Reports
+     of crown and criminal proceedings are to be entered under the
+     name of the defendant. Admiralty proceedings relating to vessels
+     are to be put under the name of the vessel.
+
+     Noblemen are to be entered under their titles, unless the family
+     name is decidedly better known.
+
+     Ecclesiastical dignitaries, unless popes or sovereigns, are to be
+     entered under their surnames.
+
+     Sovereigns (other than Greek or Roman), ruling princes, Oriental
+     writers, popes, friars, persons canonized, and all other persons
+     known only by their first name, are to be entered under this
+     first name.
+
+     Married women, and other persons who have changed their names,
+     are to be put under the last well-known form.
+
+     A pseudonym may be used instead of the surname (and only a
+     reference to the pseudonym made under the surname) when an author
+     is much more known by his false than by his real name. In case of
+     doubt, use the real name.
+
+     A society is to be entered under the first word, not an article,
+     of its corporate name, with references from any other name by
+     which it is known, especially from the name of the place where
+     its headquarters are established, if it is often called by that
+     name.
+
+                 REFERENCES.
+
+     When an author has been known by more than one name, references
+     should be inserted from the name or names not to be used as
+     headings to the one used.
+
+     References are also to be made to the headings chosen:
+       asked for by their titles;
+
+       from other striking titles;
+
+       from noticeable words in anonymous titles, especially from the
+       names of subjects of anonymous biographies;
+
+       from the names of editors of periodicals, when the periodicals are
+       generally called by the editor's name;
+
+       from the names of important translators (especially poetic
+       translators) and commentators;
+
+       from the title of an ecclesiastical dignitary, when that, and not
+       the family name, is used in the book catalogued;
+
+       and in other cases where a reference is needed to insure the ready
+       finding of the book.
+
+                 HEADINGS.
+
+     In the heading of titles, the names of authors are to be given in
+     full, and in their vernacular form, except that the Latin form
+     may be used when it is more generally known, the vernacular form
+     being added in parentheses; except, also, that sovereigns and
+     popes may be given in the English form.
+
+     English and French surnames beginning with a prefix (except the
+     French de and d') are to be recorded under the prefix; in other
+     languages under the word following.
+
+     English compound surnames are to be entered under the last part
+     of the name; foreign ones under the first part.
+
+     Designations are to be added to distinguish writers of the same
+     name from each other.
+
+     Prefixes indicating the rank or profession of writers may be
+     added in the heading, when they are part of the usual designation
+     of the writers.
+
+     Names of places to be given in the English form. When both an
+     English and a vernacular form are used in English works, prefer
+     the vernacular.
+
+                 TITLES.
+
+     The title is to be an exact transcript of the title-page, neither
+     amended, translated, nor in any way altered, except that mottos,
+     titles of authors, repetitions, and matter of any kind not
+     essential, are to be omitted. Where great accuracy is desirable,
+     omissions are to be indicated by three dots (...). The titles of
+     books especially valuable for antiquity or rarity may be given in
+     full, with all practicable precision. The phraseology and
+     spelling, but not necessarily the punctuation, of the title are
+     to be exactly copied.
+
+     Any additions needed to make the title clear are to be supplied,
+     and inclosed by brackets.
+
+     Initial capitals are to be given in English:
+       noted events, and periods (each separate word not an article,
+       conjunction, or preposition, may be capitalized in these cases);
+
+       to adjectives and other derivatives from proper names when they
+       have a direct reference to the person, place, etc., from which
+       they are derived;
+
+       to the first word of every sentence and of every quoted title;
+
+       to titles of honor when standing instead of a proper name
+       (e. g., the Earl of Derby, but John Stanley, earl of Derby);
+
+       In foreign languages, according to the local usage;
+
+       In doubtful cases capitals are to be avoided.
+
+     Foreign languages.--Titles in foreign characters may be
+     transliterated. The languages in which a book is written are to be
+     stated when there are several, and the fact is not apparent from the
+     title.
+
+                 IMPRINTS.
+
+     After the title are to be given, in the following order, those in
+     [ ] being optional:
+
+       the place of publication;
+
+       [and the publisher's name] (these three in the language of
+       the title);
+
+       the year as given on the title-page, but in Arabic figures;
+
+       [the year of copyright or actual publication, if known to be
+       different in brackets, and preceded by c. or p. as the case may be];
+
+       the number of volumes, or of pages if there is only one volume;
+
+       [the number of maps, portraits, or illustrations not included in the
+       text];
+
+       and either the approximate size designated by letter, or the
+       exact size in centimeters;
+
+       the name of the series to which the book belongs is to be given in
+       parentheses after the other imprint entries.
+
+     After the place of publication, the place of printing may be
+     given if different. This is desirable only in rare and old books.
+
+     The number of pages is to be indicated by giving the last number
+     of each paging, connecting the numbers by the sign +; the
+     addition of unpaged matter may be shown by a +, or the number of
+     pages ascertained by counting may be given in brackets. When
+     there are more than three pagings, it is better to add them
+     together and give the sum in brackets.
+
+     These imprint entries are to give the facts, whether ascertained
+     from the book or from other sources; those which are usually
+     taken from the title (edition, place, publisher's name, and
+     series) should be in the language of the title, corrections and
+     additions being inclosed in brackets. It is better to give the
+     words, "maps," "portraits," etc., and the abbreviations for
+     "volumes" and "pages," in English.
+
+                 CONTENTS, NOTES.
+
+     Notes (in English) and contents of volumes are to be given when
+     necessary to properly describe the works. Both notes and lists of
+     contents to be in a smaller type.
+
+                 MISCELLANEOUS.
+
+     A single dash or indent indicates the omission of the preceding
+     heading; a subsequent dash or indent indicates the omission of a
+     subordinate heading, or of a title.
+
+     A dash connecting numbers signifies to and including; following a
+     number it signifies continuation.
+
+     A ? following a word or entry signifies probably.
+
+     Brackets inclose words added to titles or imprints, or changed in
+     form.
+
+     Arabic figures are to be used rather than Roman; but small
+     capitals may be used after the names of sovereigns, princes, and
+     popes.
+
+     A list of abbreviations to be used was given in the Library
+     journal, Vol. 3: 16-20.
+
+                 ARRANGEMENT.
+
+     The surname when used alone precedes the same name used with
+     forenames; where the initials only of the forenames are given,
+     they are to precede fully written forenames beginning with the
+     same initials (e. g., Brown, Brown, J.; Brown, J. L.; Brown,
+     James).
+
+     The prefixes M and Mc, S., St., Ste., Messrs., Mr., and Mrs., are
+     to be arranged as if written in full, Mac, Sanctus, Saint,
+     Sainte, Messieurs, Mister, and Mistress.
+
+     The works of an author are to be arranged in the following order:
+
+       2. Partial collections.
+
+       3. Single works, alphabetically, by the first word of the title.
+
+     The order of alphabeting is to be that of the English alphabet.
+
+     The German ae, oe, ue, are always to be written as ä, ö, ü, and
+     arranged as a, o, u.
+
+     Names of persons are to precede similar names of places, which in turn
+     precede similar first words of titles.
+
+A few desirable modifications or additions to these rules may be suggested.
+
+1. In title-entries, let the year of publication stand last, instead of the indication of size.
+
+2. Noblemen to be entered under their family names, with reference from their titles.
+
+3. Instead of designations of title, profession, residence, or family, to distinguish authors,
+let every name be followed by the chronology, as--
+
+    James (Henry) 1811-82.
+    James (Henry) 1843-
+
+It is highly desirable to give this information as to the author's period in every title-heading,
+without exception, when ascertainable. If unknown, the approximate period to be given, with
+a query.
+

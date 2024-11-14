@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00683.txt">
+  <feature name="about" authors="Southey, Robert" title="The Life of Horatio Lord Nelson" lang="en" />
+  <feature name="md5Hash" value="42131e93814c6b0ed8076aba613c78cd" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="52335" this_length="24187" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="170185" this_length="3020" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="183170" this_length="500" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="189016" this_length="1460" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="200252" this_length="1503" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="205496" this_length="700" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="211614" this_length="533" />
+</document>
+

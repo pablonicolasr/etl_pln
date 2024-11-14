@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02391.txt">
+  <feature name="about" authors="Bagley, William Chandler" title="Craftsmanship in Teaching" lang="en" />
+  <feature name="md5Hash" value="0c3c63e5e0866aeb7961050ef7ef3c3c" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="44333" this_length="3692" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="101497" this_length="4979" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="216633" this_length="2770" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="253460" this_length="2878" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="301178" this_length="481" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="346283" this_length="2184" />
+</document>
+

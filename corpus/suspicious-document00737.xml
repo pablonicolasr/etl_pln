@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00737.txt">
+  <feature name="about" authors="Hakluyt, Richard" title="Discovery of Muscovy" lang="en" />
+  <feature name="md5Hash" value="4969682afcc71e7efc3cd46ae8f86a67" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3505" this_length="2076" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="27829" this_length="2517" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="69761" this_length="4214" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="108220" this_length="2598" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="122331" this_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="138496" this_length="3282" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="160783" this_length="698" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="170506" this_length="785" />
+</document>
+

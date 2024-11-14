@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01405.txt">
+  <feature name="about" authors="Perring, Mrs." title="Aunt Mary" lang="en" />
+  <feature name="md5Hash" value="1d72c60ddd5108142693f8b146610e57" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="111642" this_length="23816" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="195186" this_length="510" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="198626" this_length="481" />
+</document>
+

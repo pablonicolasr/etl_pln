@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00916.txt">
+  <feature name="about" authors="Burgess, Thornton Waldo" title="The Adventures of Paddy Beaver" lang="en" />
+  <feature name="md5Hash" value="2eb8e786b43004108e474dbd60de92c2" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="26631" this_length="2322" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="64153" this_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="73456" this_length="738" />
+</document>
+

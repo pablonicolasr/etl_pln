@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00199.txt">
+  <feature name="about" authors="Sumner, William Graham" title="What Social Classes Owe to Each Other" lang="en" />
+  <feature name="md5Hash" value="4ce7aed885fb28bc7c12391b65983e6b" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2675" this_length="265" />
+</document>
+

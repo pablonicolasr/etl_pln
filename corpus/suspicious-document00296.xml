@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00296.txt">
+  <feature name="about" authors="Wiggin, Kate Douglas Smith" title="Bluebeard; a musical fantasy" lang="en" />
+  <feature name="md5Hash" value="74f618d5f7c538b79d2a36d3a513ecc3" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="2390" this_length="478" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="4707" this_length="274" />
+</document>
+

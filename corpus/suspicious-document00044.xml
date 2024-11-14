@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00044.txt">
+  <feature name="about" authors="Sabin, Edwin Legrand" title="Boys' Book of Indian Warriors and Heroic Indian Women" lang="en" />
+  <feature name="md5Hash" value="66adfa18ebce169ef110b462242e046a" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="33413" this_length="1696" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="47486" this_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="55070" this_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="118225" this_length="3865" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="188890" this_length="2751" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="238725" this_length="3521" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="328049" this_length="236" />
+</document>
+

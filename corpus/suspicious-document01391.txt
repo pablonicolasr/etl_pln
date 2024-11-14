@@ -1,0 +1,371 @@
+﻿(22) Where a subclass with a generic title has indented thereunder a species type-subclass
+bearing the title of the generic subclass qualified by a difference, any patent which claims
+an invention falling within the genus subclass and discloses the qualification of the species
+type-subclass should be classified in the latter whether or not the entire disclosure is claimed.
+(See Rule 19.)
+
+   Example:
+
+        Class 29.--METAL WORKING.
+      Machine chucks and tool sockets--
+         Cam closing--
+   126.    Scroll--
+   127.      Bevel pinion or ring.
+
+   If a patent claimed only the scroll of a scroll-chuck, but
+   disclosed it in connection with a bevel pinion and ring, it
+   should be classified in subclass 127, Bevel pinion and
+   ring, and not in subclass 126, Scroll, although if there
+   were no disclosure of the bevel pinion and ring it would go
+   in subclass 126. Any search for scrolls must be prosecuted
+   through all subclasses that include "Scroll" in the title.
+
+(23) Where, as in the case of patents that show and claim a combination that as matter of common
+knowledge is not new except in one of its elements, to classify a patent strictly in accordance
+with rule would result in placing the patent where it would serve no useful purpose as a reference
+and having to cross-reference it to a class where it would serve a useful purpose, it is best
+to classify the patent in the class to which the element would take it. (See Rule 19.)
+
+   Example: A patent claiming a wheeled vehicle, broadly, in
+   combination with an internal-combustion engine comprising a
+   cylinder, a crank-case, a piston and suitably-connected
+   crank, a valve opening into the crank-case, and a valve in
+   the piston opening into the cylinder, may be advantageously
+   classified as an internal-combustion engine notwithstanding
+   the alleged invention is for a motor vehicle.
+
+(24) In order to meet the situation respecting the classification of those patents that indiscriminately
+claim an article of manufacture defined only by the material of which it is made and those
+patents that claim those materials, leaving to the specification information regarding the
+designed uses, patents for articles defined only by their ingredients specifically set forth
+may be placed in the composition of matter or material class. No one exhausts them.
+
+   Every one seeks his ideal chiefly in the unknown. It matters
+   not so much what ideal he seeks, but only that he does seek
+   one. Effort itself, not the object of effort, forms the basis
+   of development. No seeker begins his journey with full knowledge
+   of the goal. Only after much circulation in the
+   philosophic egg and only after much passing through the prism
+   of colors does that light dawn which gives us the faint intimation
+   of the outline of the prototype of all lesser ideals.
+   
+
+(25) An alleged process of utilizing a specifically-defined composition or material which consists
+in merely applying it to the use it was designed for may be classified as a composition or
+material rather than as a process. (See Rule 19.)
+
+   Example: A process of painting the bottom of a marine
+   vessel which consists in applying thereto a composition
+   consisting of sulphate of copper, powdered metallic zinc,
+   chlorid of antimony, and hyposulphite of soda, in a vehicle
+   of linseed oil, would be more usefully classified as an
+   antifouling paint than as a ship, as the invention would
+   hardly be distinguishable from a paint claimed as such and
+   described for use on submarine surfaces.
+
+(26) An alleged process consisting merely in the use of a particularly-defined machine or similar
+instrument operating according to its law of action will ordinarily be classified in the class
+or subclass where the machine belongs. But if in addition to defining the operation of a particular
+machine the claim also specifies acts not performed by the machine, the classification should
+be in the class or subclass in which the process belongs. (See Rule 19.)
+
+   Example: Thus a claim for a method of rolling an iron plate
+   which consists in passing an iron blank between a pair of
+   rolls arranged horizontally in juxtaposition one above the
+   other and geared together so as to rotate in opposite
+   directions, and causing an idle roll supported in bearings
+   on the roll-housings to bear against the central portion of
+   the surface of one of the first pair of rolls on the upper
+   side thereof, should be classified as a rolling-mill, while
+   if to that claim were added the steps of doubling the sheet
+   after one passage between the rolls, again passing between
+   the rolls, again doubling, and then passing the now
+   four-ply pack between the rolls sidewise or turned 90 per
+   cent to the direction in which it had previously been fed,
+   the classification should be with processes of sheet-metal
+   manufacture.
+
+(27) In the absence of settled rules defining permissible joinder of inventions, there may
+be in one patent claims for one or more or all of the classes of invention named in the statute,
+to wit, machine, art, manufacture, and composition of matter. There may also be claims to several
+more or less related inventions in the same statutory class of invention but each belonging
+to a different industrial art. (1) Where different main classes are involved, the patent will
+be classified by the most intensive invention, without regard to the statutory class to which
+it belongs. (2) Where different subclasses of the same class are involved, the patent will
+be classified in that one of the several subclasses defined to receive the several inventions
+which stands highest in the schedule of subclasses.
+
+(28) Where a patent contains claims for all or a plurality less than all of the statutory classes,
+the general rule of preference or superiority of the several classes of subclasses is that
+represented by the following order, to wit: (1) Machine (or other operative instrument); (2)
+Art; (3) Manufacture; (4) Composition of matter. This order is, in a general way, the order
+of intensiveness of the several kinds of invention. (See Rules 29-35.)
+
+   Example: An automatic screw-machine, peculiarly adapted to
+   carry out a process of making a novel form of machine-screw
+   out of a new iron alloy, and having a claim to the machine,
+   to the process, to the screw, and to the alloy, would be
+   assigned to Metal-Working, Combined machines, and, if all
+   claims were allowed, cross-referenced to Bolt and
+   rivet-making processes, to Bolts, and to Alloys. If the
+   claim to any one or two of the subjects were eliminated,
+   the order of preference or superiority and the order of
+   cross-referencing would remain the same.
+
+(29) Patents containing a plurality of claims for several different statutory kinds of invention
+that are classifiable in different main classes, and wherein the rule of relative intensiveness
+varies from the order Machine, Art, Manufacture, and Composition of matter, may be diagnosed
+and classified as directed in the following paragraphs (30 to 35).
+
+(30) Where a patent contains claims for a process and for an apparatus susceptible of use as
+an instrument in carrying out the process, but not peculiar to that use, or for an apparatus
+adapted to carry out but one step or only a part of the process, the process claim, being in
+this instance the more intensive, would control the classification. (See Rule 28.)
+
+   Example: In a patent containing a claim for a process of
+   roasting ore and then collecting the fumes, and another
+   claim for a roasting furnace that is a mere
+   material-heating furnace, the process claim would control;
+   whereas, if one claim were for a method of roasting ores
+   consisting of stirring the ore, applying heat to the same,
+   and collecting the solids from the fumes, and the other
+   claim, were for a heating furnace having a stirrer and a
+   fume arrester, the apparatus claim would control. And if a
+   patent contained claims for a process of roasting ores, and
+   other claims for a furnace susceptible of use in carrying
+   out the process but equally useful in annealing glass or
+   steel articles, the process claim would control.
+
+(31) Where a patent claims a specified article of manufacture or other product, and also an
+instrument for making a part only of that specified article or other product, the product claim,
+being more intensive, should control the classification; so also in case of a claim for a product
+and a claim for an instrument performing any minor act with respect thereto. (See Rule 28.)
+
+   Example: Where a patent claims a particular construction of
+   a riveted joint, and also a tool for calking the rivet, and
+   where a patent claims a particular construction of shoe,
+   and also a buttonhook for buttoning said shoe, the article
+   and not the tool claims control.
+
+(32) Where a patent contains claims to a process and a product, the process claims govern the
+classification in those cases where search among machines for making the product would have
+to be made, and such processes would be classifiable on the basis of the mode of operation,
+usually in the same class with machines for practicing such processes. (See Rule 28.)
+
+   Example: A patent having a claim for a process of making
+   bifocal lenses, consisting in grinding the surface of one
+   piece of glass to form a convex lens, heating another piece
+   of glass until it is plastic, then forcing the ground
+   surface of the first-named piece into the body of the
+   latter and gradually cooling the lens-blank thus formed;
+   and also a claim for a bifocal lens composed of two pieces
+   of glass weld-united, would be classified in
+   Glass-manufacture and cross-referenced into lenses. Or a
+   patent having a claim to a process of making a metal plate
+   with elongated perforations, consisting in forming round
+   perforations in the plate and subsequently rolling the
+   plate, thereby thinning and elongating the plate and
+   elongating the openings, and also a claim to a metallic
+   plate having relatively long and narrow perforations, would
+   be classified on the basis of the process claim.
+
+(33) Where a patent claims both process and product, and the alleged process is disclosed in
+the product, so that search would have to be made in the appropriate class of products, the
+product will be adopted as the basis of classification, and classification will be in the appropriate
+product class. (See Rule 28.)
+
+   Example: A claim for a process of making a pencil
+   consisting in assembling a core of graphite with a
+   sheathing of wood, and attaching a cap of
+   rubber-composition to one end, would be classified as a
+   pencil rather than as a process, became conception of the
+   article is inseparable from the process and search must be
+   made in the article class.
+
+(34) Where a patent claims a process of making a composition of matter, and also the composition
+of matter, the claims will be classified in general in accordance with the classification of
+the composition of matter in all cases where the process is peculiarly adapted to produce the
+composition, as by setting forth the introduction or assemblage of particular ingredients,
+since those processes that include the selection of particular ingredients necessitate search
+among compositions having such ingredients. (See Rule 28.)
+
+   Example: A patent having a claim for a composition
+   consisting of a mixture of caoutchouc and casein, and a
+   claim for the process of preparing a rubberlike substance
+   which consists in adding undissolved raw caoutchouc to
+   casein and thoroughly mixing and kneading the mass, would
+   be classified according to the composition.
+
+(35) Where a patent claims a product such as a specific article of manufacture, or a specific
+composition of matter, and also claims a process of general application for making one of the
+parts of the article or one of the ingredients of the composition, the product claim should
+control the classification. (See Rule 28.)
+
+   Example: If a patent claimed a woven textile fabric having
+   the yarns interlaced in a defined relation, and a process
+   of spinning a yarn utilized in the fabric; or if a patent
+   claimed a varnish composed of shellac, dissolved in wood
+   alcohol, and a pigment, and also contained a claim for
+   distilling wood to obtain the alcohol, the product claim
+   would control the classification in each instance, and the
+   process would be cross-referenced.
+
+[1] All terms have a meaning in extension and in intension. The meaning of a term in extension
+consists of the objects to which the term may be applied; its meaning in intension consists
+of the qualities necessarily possessed by objects bearing that name. The term "motors" in extension
+means all motors--electric, gas, water, spring, weight, etc. "Motors" in intension means instruments
+to convert some form or manifestation of energy into periodical or cyclical motion of a body.
+As the intension increases the extension decreases, and vice versa. There must be more motors
+than there are electric motors, and electric motors have more qualifications than are common
+to all motors. Comparison of arts and instruments with respect to their extension and intension
+for classification purposes should be made between comparable qualities. A claim for a steam-engine
+may be very specific while a claim for a reaper may be very broad; here there is no comparable
+relationship, and the terms intensive and extensive do not have the relative significance most
+useful in classification. (3) Memory. The mind has greater power to retain that which is given to it
+than in the preceding period, though it holds these facts disconnectedly rather than related
+into systematic knowledge, as they will be later.
+
+But this power of retention must not be abused through storing memory
+with a quantity of useless material.
+
+That which is impressed upon the plastic, non-resisting cells of the child's brain ought to have some
+immediate meaning and value for the life at a time when the intellectual and spiritual needs
+are so many.
+
+(4) Imagination. This is the power of the mind to make living and real that which is not present
+to the senses. It is one of the most striking characteristics of the Primary period and one
+of the most important as well. The imagination works only with concrete things in childhood, making
+new objects out of the old, making the story and the mental picture as real as the tangible
+experience, making Jesus an actual present Helper and Friend.
+
+Later it will work with abstract ideas and ideals of life formed from the pictures it has cherished.
+
+#13.
+Opportunities of the Primary Age.#
+
+(1) Character building through the mental picture. Abstract ideas about which the mind reasons
+do not have power over the soul of the child. It is the vivid picture which imagination holds
+that arouses the feeling and impels the action. So great is the power of the picture that the
+teacher need not exhort and admonish concerning what ought to be
+done.
+
+   She only need set forth the action in a story that appeals,
+   and imagination will do the rest. While very many of these
+   pictures come unconsciously to the child from his environment,
+   it is the privilege of the teacher definitely and
+   carefully to provide the highest type of mental picture
+   through the well-selected story, in order to secure the
+   finest action.
+   
+   (2) Increased knowledge of Bible facts. The lesson
+   may contain more than in the earlier period, because the
+   child's interest in details has increased and he has greater
+   power of attention. It is important to note, however,
+   in what the increase may consist. It is not in the number
+   of truths presented in the lesson, but in the number of details concerning
+the one truth for which the lesson stands. Since the mind has developed
+new power to hold the impressions which are made upon it, Scripture
+verses containing fundamental truths, like God's love and care, the
+duty of love toward him and others, and the necessity of obedience
+may be given, with explanation, for memorizing.
+
+(3) Write an approximate or tentative definition of the matter thus assembled in each bundle
+and attach it to its appropriate bundle.
+
+(4) Where it appears that the subject matter of any bundle formed from the patents of any subclass
+is analogous to matter in other subclasses of the same class or in other classes, a note should
+be added to that effect so that this matter may be given special consideration.
+
+(5) When the same examiner or different examiners are working on different subclasses containing
+analogous matter, parallel lines of subdivision should be followed wherever possible, in order
+to effect an arrangement that will facilitate comparisons.
+
+(6) When subdividing a group of more or less complex organized structures or mechanisms, note
+should be taken of subcombinations that form or it is thought should form the basis of other
+subclasses, either in the same or different classes, into which those details may be collected,
+either classified therein originally or by cross-reference.
+
+   Example: Assuming that the combination of press, folder,
+   and wrapping mechanism, referred to in a preceding
+   paragraph is to be classified in a class of Printing, on
+   the entirety as a combination having the function of
+   printing, plus other functions, and that folding and also
+   wrapping are separately classified, then the particular
+   type of press should be selected to be cross-referenced
+   into a press-type subclass of the class of Printing, such
+   as "Presses, rotary," while the folding mechanism and the
+   wrapping mechanism would be noted for cross-reference to
+   other appropriate classes. Also, any part of the printing
+   press, such as the inking mechanism, specifically
+   described, should be noted for cross-reference into a
+   subclass of Printing designed to receive the inking
+   mechanism as a part of the printing press.
+
+(7) After a knowledge of the material of the class has been obtained by estimating the resemblances
+between the individual patents that have been assembled in the several groups, comparison of
+these groups, represented by the bundles of photolithographs, by the aid of the approximate
+definitions and notes attached can be made. It can then be decided whether all of these groups
+are to be retained in the proposed class, and the retained groups can be organized into a class
+with the subclasses arranged so as to bring those subclasses having the strongest resemblances
+in closest relation, and in such order as to comply with the conventions adopted in the official
+classification. It will probably be necessary to have one subclass or group as broad as the
+definition of the class, to take unclassifiable matter and to provide for possible future inventions.
+
+(8) Up to this point, more or less cursory attention may be given individual patents; but when
+an arrangement of subclasses shall have been tentatively adopted it will be necessary to consider
+each patent carefully to ascertain whether it is properly placed.
+
+(9) Patents that, considered as an entirety, cover means not peculiar to the class or subject-matter
+being revised, should, in general, when assembled in groups as indicated, have a note attached
+indicating not only want of limitation to the subject-matter of the class but also a more appropriate
+class to receive them if such there be. Although a very large proportion of patents can be
+accurately classified as indicated by their titles and stated uses, the mere fact that in a
+patent found in a class the invention is called in the specification or claims by a name peculiar
+to the class is not of itself a reason for considering it peculiar to the class. A gas and
+liquid contact apparatus may be called a heater, a cooler, a gas-washer, a water-carbonator,
+a condenser, a disinfecter, an air-moistener, and so on, depending upon accident of use. If
+there are not elements in some claim to confine the means described distinctively to what it
+is called, or if there are no functions necessarily implied in the means claimed peculiar to
+the named use, the patent should not be kept in the class unless there is no other class in
+the office that can receive it.
+
+   Example: Where the matter claimed is a metal beam of
+   peculiar cross-section, it should be classified with other
+   metal beams, as in Class 189, Metallic Building Structures,
+   even if it is named in the application as a beam of
+   particular use, as a railroad-tie, car-sill, bridge-tie,
+   etc. Should a mere dash-pot be found classified in Class
+   171, Electricity, Generation, a note should be attached
+   indicating that it belongs in the appropriate element
+   class.
+
+(10) In giving this final careful attention to the patents, each should also be scanned to
+see whether it contains matter that should be cross-referenced. A few lines obscurely located
+in a specification may contain a disclosure of a most valuable invention. No class can be deemed
+complete until the disclosures appropriate to it found as parts of more complex inventions
+in other classes, or disclosures of analogous matter in other classes, are either cross-referenced
+into it or cross search-notes made.
+
+(11) To indicate cross-references, from one subclass to another within the class or from the
+class under consideration into another class, attach a small slip of paper to the patent and
+mark on the slip the subclass number in which the cross-reference shall be mounted. If the
+matter to be cross-referenced relates only to a portion of a voluminous patent, the portion
+of the specification and drawing to be cross-referenced should be indicated. If the cross-reference
+falls outside the class, the class number should be noted in addition to the subclass number.
+
+(12) Should it be found that the handling of copies in making examinations detaches the cross-reference
+slips, it may be advisable to mark lightly but legibly in pencil on the lower right-hand corner
+of the examiner's photolithograph the number of the subclass or subclasses into which it is
+to be cross-referenced, or the number of the class and subclass in case it is to be cross-referenced
+to another class.
+
+(13) Whether cross-reference notations are written on a separate slip or on the photolithograph,
+the number of the class and subclass into which a patent is to be cross-referenced should always
+be preceded by X (thus X 101-23) in order to distinguish the original classification notation
+from the cross-reference notation and enable sorting and indexing to be done without confusion. 
+
+He it was who carried out David's plan for a "magnifical" temple in Jerusalem, where he built the
+most splendid temple that the world had so far seen. His prayer at the dedication of the temple
+is a most remarkable one (1 Kings 8).
+
+

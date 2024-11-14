@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01859.txt">
+  <feature name="about" authors="Cable, Boyd" title="Action Front" lang="en" />
+  <feature name="md5Hash" value="ffe813448d05d60146595095a6376fd1" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="11203" this_length="3471" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="33104" this_length="15501" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="89478" this_length="16452" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="166917" this_length="3266" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="180667" this_length="482" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="240015" this_length="17238" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="328348" this_length="22566" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="366532" this_length="239" />
+</document>
+

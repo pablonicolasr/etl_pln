@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01169.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="The Story of Pocahontas" lang="en" />
+  <feature name="md5Hash" value="461ecdfc302bf0e29ccd5b8d0e1ad91a" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4478" this_length="243" />
+</document>
+

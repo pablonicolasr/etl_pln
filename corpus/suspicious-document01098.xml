@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01098.txt">
+  <feature name="about" authors="Stockton, Frank Richard" title="Ting-a-ling" lang="en" />
+  <feature name="md5Hash" value="49fe50efd91c003cdeed8c0151efcfff" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="271" this_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5518" this_length="244" />
+</document>
+

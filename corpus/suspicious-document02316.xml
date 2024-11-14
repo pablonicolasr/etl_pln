@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02316.txt">
+  <feature name="about" authors="Le Gallienne, Richard" title="Pieces of Eight" lang="en" />
+  <feature name="md5Hash" value="cb945cc91474d8566720807df5bb6771" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="100423" this_length="5165" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="150074" this_length="3220" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="203079" this_length="4029" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="308224" this_length="1509" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="345920" this_length="1811" />
+</document>
+

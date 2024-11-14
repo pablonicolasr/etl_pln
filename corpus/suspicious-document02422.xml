@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02422.txt">
+  <feature name="about" authors="Barrett, Michael" title="Up in Ardmuirland" lang="en" />
+  <feature name="md5Hash" value="4a0de315eda51911e9d70e1a65e096ee" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="61978" this_length="21846" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="180480" this_length="3978" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="206867" this_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="208281" this_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="227249" this_length="3545" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="247168" this_length="1801" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="249671" this_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="252397" this_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="254457" this_length="275" />
+</document>
+

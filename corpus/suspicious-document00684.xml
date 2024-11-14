@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00684.txt">
+  <feature name="about" authors="Vaughan, John Stephen" title="The Purpose of the Papacy" lang="en" />
+  <feature name="md5Hash" value="60d78d6781d2716822588fc65d7128f5" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1409" this_length="443" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4871" this_length="494" />
+</document>
+

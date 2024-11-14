@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00439.txt">
+  <feature name="about" authors="Rabb, Kate Milner" title="National Epics" lang="en" />
+  <feature name="md5Hash" value="3ecff6152aad94627895c8a0f7a0744c" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="32357" this_length="1863" />
+</document>
+

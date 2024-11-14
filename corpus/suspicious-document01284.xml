@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01284.txt">
+  <feature name="about" authors="Bradley, Andrew Cecil" title="Poetry for Poetry's Sake An Inaugural Lecture Delivered on June 5, 1901" lang="en" />
+  <feature name="md5Hash" value="690344ee8443d334a32895dcc68bf84d" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1060" this_length="467" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8734" this_length="4488" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="29874" this_length="2956" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="43958" this_length="528" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="46332" this_length="273" />
+</document>
+

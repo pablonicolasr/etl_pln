@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00678.txt">
+  <feature name="about" authors="Bunyan, John" title="Works of John Bunyan — Volume 03" lang="en" />
+  <feature name="md5Hash" value="6398ebab37ecbace1dda1ca2450911af" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="301102" this_length="14939" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="340432" this_length="457" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="351180" this_length="519" />
+</document>
+

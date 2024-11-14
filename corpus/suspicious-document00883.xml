@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00883.txt">
+  <feature name="about" authors="Ebers, Georg" title="The Story of My Life — Volume 05" lang="en" />
+  <feature name="md5Hash" value="90d5c4a34ce47831c2676924c2c47a8b" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3844" this_length="2340" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10656" this_length="1733" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="28811" this_length="4075" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="39402" this_length="3140" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="51933" this_length="2042" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="56214" this_length="501" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="57901" this_length="464" />
+</document>
+

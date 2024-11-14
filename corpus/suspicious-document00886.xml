@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00886.txt">
+  <feature name="about" authors="Savage, Minot Judson" title="Our Unitarian Gospel" lang="en" />
+  <feature name="md5Hash" value="1a7deeba62a763da8a2b72f7b2b19ed3" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="295" this_length="470" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="4052" this_length="2832" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="10174" this_length="1719" />
+</document>
+

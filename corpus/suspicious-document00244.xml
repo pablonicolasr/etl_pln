@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00244.txt">
+  <feature name="about" authors="Tarkington, Booth" title="Gentle Julia" lang="en" />
+  <feature name="md5Hash" value="f5973334f6c4bd68e84f691d9b4c84d7" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3647" this_length="703" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8288" this_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="11899" this_length="539" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="14861" this_length="230" />
+</document>
+

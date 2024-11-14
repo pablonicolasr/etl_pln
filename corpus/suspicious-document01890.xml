@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01890.txt">
+  <feature name="about" authors="Van Dyke, Henry" title="The Blue Flower" lang="en" />
+  <feature name="md5Hash" value="a3ba1e982069ab0cfe61ab8fdcaf8cbd" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="25298" this_length="18549" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="149871" this_length="2503" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="179156" this_length="4166" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="224747" this_length="3602" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="232368" this_length="1944" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="257247" this_length="2824" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="271628" this_length="455" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="276476" this_length="705" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="280697" this_length="245" />
+</document>
+

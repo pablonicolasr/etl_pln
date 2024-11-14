@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01894.txt">
+  <feature name="about" authors="Holley, Marietta" title="Samantha among the Brethren — Volume 7" lang="en" />
+  <feature name="md5Hash" value="f0cbd60a962a22585634a21e343620d3" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7074" this_length="2482" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="30254" this_length="2519" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="42334" this_length="4841" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="72143" this_length="4539" />
+</document>
+

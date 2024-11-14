@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01272.txt">
+  <feature name="about" authors="Ward, Artemus" title="The Complete Works of Artemus Ward — Part 4: To California and Return" lang="en" />
+  <feature name="md5Hash" value="e0aecfc23e79196a5282bb54621b22ec" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2293" this_length="231" />
+</document>
+

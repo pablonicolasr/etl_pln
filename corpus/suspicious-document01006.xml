@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01006.txt">
+  <feature name="about" authors="Twain, Mark" title="Adventures of Huckleberry Finn, Chapters 16 to 20" lang="en" />
+  <feature name="md5Hash" value="86c74da9dbf707dae473a0167542c40b" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3899" this_length="743" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="9788" this_length="236" />
+</document>
+

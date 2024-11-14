@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02028.txt">
+  <feature name="about" authors="Ryder, Annie H" title="Hold Up Your Heads, Girls! : Helps for Girls, in School and Out" lang="en" />
+  <feature name="md5Hash" value="c81ba9c63384d2f59269c5d878647f3d" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6096" this_length="20118" />
+</document>
+

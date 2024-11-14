@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01078.txt">
+  <feature name="about" authors="Ebers, Georg" title="A Thorny Path — Volume 01" lang="en" />
+  <feature name="md5Hash" value="3a5060870cb2981da90e9845a2270330" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3073" this_length="1965" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16698" this_length="4996" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="37641" this_length="2871" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="49627" this_length="2227" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="59150" this_length="2219" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="70216" this_length="3493" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="82849" this_length="770" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="85688" this_length="510" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="86425" this_length="512" />
+</document>
+

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00502.txt">
+  <feature name="about" authors="Service, Robert William" title="Songs of a Sourdough" lang="en" />
+  <feature name="md5Hash" value="13155e90bd43e9767f5c9388b57ebf4b" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15732" this_length="2367" />
+</document>
+

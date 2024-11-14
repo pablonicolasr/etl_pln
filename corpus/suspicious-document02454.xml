@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02454.txt">
+  <feature name="about" authors="Eliot, Ethel Cook" title="The Little House in the Fairy Wood" lang="en" />
+  <feature name="md5Hash" value="6892945dfec5a9b68bd4d0622aeb5ad9" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="35595" this_length="19453" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="131854" this_length="15235" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="174143" this_length="1568" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="182031" this_length="234" />
+</document>
+

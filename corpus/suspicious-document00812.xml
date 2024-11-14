@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00812.txt">
+  <feature name="about" authors="Adler, Felix" title="The Essentials of Spirituality" lang="en" />
+  <feature name="md5Hash" value="dab32fa80b204433ceb8eb0d3d194683" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1834" this_length="519" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6011" this_length="2406" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="38865" this_length="4608" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="70365" this_length="3496" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="86682" this_length="2358" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="95320" this_length="247" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00532.txt">
+  <feature name="about" authors="Flint, Homer Eon" title="The Emancipatrix" lang="en" />
+  <feature name="md5Hash" value="f1cee8dd72f93ca183d95986ecb05f8f" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="33946" this_length="18031" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="119673" this_length="3260" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="143925" this_length="2204" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="162581" this_length="3359" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="178340" this_length="3725" />
+</document>
+

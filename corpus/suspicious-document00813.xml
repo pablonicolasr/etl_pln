@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00813.txt">
+  <feature name="about" authors="Whittier, John Greenleaf" title="Historical Papers, Part 3, from Volume VI., The Works of Whittier: Old Portraits and Modern Sketches" lang="en" />
+  <feature name="md5Hash" value="089517859a292bac5f2ab285d59e35d4" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6826" this_length="452" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="12714" this_length="244" />
+</document>
+

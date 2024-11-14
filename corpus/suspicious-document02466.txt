@@ -1,0 +1,43 @@
+﻿[Note 3: Silver chloride should not be heated to complete fusion, since a slight loss by volatilization
+is possible at high temperatures. 1.12) has been added (Note 2). Heat the solution to boiling,
+and while at the boiling point add concentrated nitric acid (sp. gr. 1.42), !drop by drop!
+(noting the volume used), until the brown coloration, which appears after the addition of a
+part of the nitric acid, gives place to a yellow or red (Note 3). Avoid a large excess of nitric
+acid, but be sure that the action is complete. Pour this solution cautiously into about 200
+cc. of water, containing a slight excess of ammonia. Calculate for this purpose the amount
+of aqueous ammonia required to neutralize the hydrochloric and nitric acids added (see Appendix
+for data), and also to precipitate the iron as ferric hydroxide from the weight of the ferrous
+ammonium sulphate taken for analysis, assuming it to be pure (Note 4). The volume thus calculated
+will be in excess of that actually required for precipitation, since the acids are in part
+consumed in the oxidation process, or are volatilized. Heat the solution to boiling, and allow
+the precipitated ferric hydroxide to settle. Decant the clear liquid through a washed filter
+(9 cm.), keeping as much of the precipitate in the beaker as possible. Wash twice by decantation
+with 100 cc. of hot water. Reserve the filtrate. Dissolve the iron from the filter with hot,
+dilute hydrochloric acid (sp. gr. 1.12), adding it in small portions, using as little as possible
+and noting the volume used. Collect the solution in the beaker in which precipitation took
+place. Add 1 cc. of nitric acid (sp. gr. 1.42), boil for a few moments, and again pour into
+a calculated excess of ammonia.
+
+Wash the precipitate twice by decantation, and finally transfer it to the original filter.
+Wash continuously with hot water until finally 3 cc. of the washings, acidified with nitric
+acid (Note 5), show no evidences of the presence of chlorides when tested with silver nitrate.
+The filtrate and washings are combined with those from the first precipitation and treated
+for the determination of sulphur, as prescribed on page 112.
+
+[Note 1: If a selection of pure material for analysis is to be made, crystals which are cloudy
+are to be avoided on account of loss of water of crystallization; and also those which are
+red, indicating the presence of ferric iron. If, on the other hand, the value of an average
+sample of material is desired, it is preferable to grind the whole together, mix thoroughly,
+and take a sample from the mixture for analysis.]
+
+[Note 2: When aqueous solutions of ferrous compounds are heated in the air, oxidation of the
+Fe^{++} ions to Fe^{+++} ions readily occurs in the absence of free acid. But, in the end, they
+said that Arthur had done right valiantly: nevertheless, they said that Oliver had done best unto
+their seeming. And therefore it was concluded that the pryce should
+be given unto Oliver, as for the best of them of within. Moreover, at the boiling temperature, the
+ferric sulphate produced by the oxidation hydrolyzes in part with the formation of a basic
+ferric sulphate, which also tends to separate from solution. The addition of the hydrochloric
+acid prevents the formation of ferric hydroxide, and so far reduces the ionization of the water
+that the hydrolysis of the ferric sulphate is also prevented, and no precipitation occurs on
+heating.]
+

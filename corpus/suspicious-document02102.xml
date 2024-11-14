@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02102.txt">
+  <feature name="about" authors="Wharton, Edith" title="Autres Temps... 1916" lang="en" />
+  <feature name="md5Hash" value="dcf9fb328c9e51843b0b84328a9d0f70" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="36" this_length="245" />
+</document>
+

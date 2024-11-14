@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00094.txt">
+  <feature name="about" authors="Ebers, Georg" title="The Burgomaster's Wife — Volume 02" lang="en" />
+  <feature name="md5Hash" value="150d355957997378f697c8f766eef13f" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="14995" this_length="2431" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="72938" this_length="517" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="91521" this_length="514" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="97404" this_length="491" />
+</document>
+

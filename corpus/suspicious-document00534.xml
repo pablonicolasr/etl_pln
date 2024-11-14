@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00534.txt">
+  <feature name="about" authors="Smith, Frank Berkeley" title="The Real Latin Quarter" lang="en" />
+  <feature name="md5Hash" value="2a070e537dfaed9972f327330bd6e336" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3054" this_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8999" this_length="271" />
+</document>
+

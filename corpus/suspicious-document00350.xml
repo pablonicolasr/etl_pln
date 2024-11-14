@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00350.txt">
+  <feature name="about" authors="Wells, Herbert George" title="Soul of a Bishop" lang="en" />
+  <feature name="md5Hash" value="6933903debe45fdae923869ddd07ccc5" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1799" this_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16581" this_length="1386" />
+</document>
+

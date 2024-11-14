@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02439.txt">
+  <feature name="about" authors="Logan, John Alexander" title="The Great Conspiracy, Volume 5" lang="en" />
+  <feature name="md5Hash" value="ccaebede8a884c4c5dc6a17b6f99cccd" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3407" this_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="31010" this_length="1694" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="77151" this_length="2006" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="97164" this_length="1554" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="108173" this_length="566" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="113540" this_length="493" />
+</document>
+

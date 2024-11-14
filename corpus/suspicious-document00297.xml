@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00297.txt">
+  <feature name="about" authors="McHarry, Samuel" title="The Practical Distiller An Introduction To Making Whiskey, Gin, Brandy, Spirits, &amp;c. &amp;c. of Better Quality, and in Larger Quantities, than Produced by the Present Mode of Distilling, from the Produce of the United States" lang="en" />
+  <feature name="md5Hash" value="5d0e28eb7c8bdb6005150bf1f0b647c9" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="45819" this_length="3739" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="140094" this_length="3262" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="160173" this_length="229" />
+</document>
+

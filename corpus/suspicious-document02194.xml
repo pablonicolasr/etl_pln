@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02194.txt">
+  <feature name="about" authors="Vincent, Harl" title="Creatures of Vibration" lang="en" />
+  <feature name="md5Hash" value="96f8eaea4e43b4c2943c2ebd9faf8b5f" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1113" this_length="239" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2008" this_length="227" />
+</document>
+

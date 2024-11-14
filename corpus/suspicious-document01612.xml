@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01612.txt">
+  <feature name="about" authors="Rousseau, Jean-Jacques" title="The Confessions of J. J. Rousseau — Volume 10" lang="en" />
+  <feature name="md5Hash" value="3b9c3d139b33c6e66efe77cec8866f33" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="28254" this_length="17970" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="95304" this_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="100173" this_length="1788" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="106887" this_length="1960" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="122048" this_length="2049" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="126780" this_length="507" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="128935" this_length="531" />
+</document>
+

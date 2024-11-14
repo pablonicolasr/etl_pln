@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01565.txt">
+  <feature name="about" authors="Beeton, Isabella Mary" title="The Book of Household Management" lang="en" />
+  <feature name="md5Hash" value="5e316b3b68fbe37ad3a2ab06a091eb74" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="10084" this_length="1381" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="32717" this_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="41790" this_length="484" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="59917" this_length="712" />
+</document>
+

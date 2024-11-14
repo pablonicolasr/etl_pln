@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01834.txt">
+  <feature name="about" authors="Hardy, Thomas" title="Moments of Vision and Miscellaneous Verses" lang="en" />
+  <feature name="md5Hash" value="611b0b005ad2c5a26a94a34e67b042ba" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="89528" this_length="3808" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="101476" this_length="762" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="118736" this_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="128966" this_length="283" />
+</document>
+

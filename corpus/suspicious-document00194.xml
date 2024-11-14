@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00194.txt">
+  <feature name="about" authors="Ross, Frederick Augustus" title="Slavery Ordained of God" lang="en" />
+  <feature name="md5Hash" value="9ba7e7964ad0d1e66643b8f9f4f565eb" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="20079" this_length="4693" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="105698" this_length="20739" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="188564" this_length="2299" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="195560" this_length="754" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="199194" this_length="238" />
+</document>
+

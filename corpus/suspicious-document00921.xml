@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00921.txt">
+  <feature name="about" authors="Bell, Lilian" title="From a Girl's Point of View" lang="en" />
+  <feature name="md5Hash" value="9177985975342fbafce338df27ea62b0" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1871" this_length="537" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="73141" this_length="24728" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="150760" this_length="4970" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="164892" this_length="2464" />
+</document>
+

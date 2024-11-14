@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01791.txt">
+  <feature name="about" authors="Blackwell, Sarah Ellen" title="A Military Genius Life of Anna Ella Carroll of Maryland" lang="en" />
+  <feature name="md5Hash" value="6fb0d4215a74e8c9f01443fac57e4282" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="41944" this_length="17773" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="147860" this_length="15923" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="258460" this_length="2481" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="278333" this_length="478" />
+</document>
+

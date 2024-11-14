@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00347.txt">
+  <feature name="about" authors="Rappoport, Angelo Solomon" title="History of Egypt From 330 B.C. To the Present Time, Volume 11 (of 12)" lang="en" />
+  <feature name="md5Hash" value="a59eceeb42eae472b41152abb3c368ed" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="10272" this_length="3493" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="184257" this_length="14989" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="390366" this_length="2708" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="488165" this_length="4766" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="531665" this_length="242" />
+</document>
+

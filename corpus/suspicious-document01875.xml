@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01875.txt">
+  <feature name="about" authors="Spargo, John" title="Bolshevism The Enemy of Political and Industrial Democracy" lang="en" />
+  <feature name="md5Hash" value="63deb893b181dfc2ff6401b41507a7b0" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="2342" this_length="1733" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="4680" this_length="2202" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="9968" this_length="237" />
+</document>
+

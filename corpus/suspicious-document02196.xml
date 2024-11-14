@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02196.txt">
+  <feature name="about" authors="Balzac, Honoré de" title="Farewell" lang="en" />
+  <feature name="md5Hash" value="67a1050f3da775d80aaff6b35a1baaac" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="12104" this_length="2164" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="34665" this_length="2153" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="80307" this_length="2944" />
+</document>
+

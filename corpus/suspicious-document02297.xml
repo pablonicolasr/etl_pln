@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02297.txt">
+  <feature name="about" authors="Gardiner, J. H." title="The Making of Arguments" lang="en" />
+  <feature name="md5Hash" value="489f00ff2b68b12e3fed7021c6a959ed" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="318209" this_length="17570" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="396519" this_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="403738" this_length="3120" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="474090" this_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="483960" this_length="493" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="494231" this_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="499791" this_length="527" />
+</document>
+

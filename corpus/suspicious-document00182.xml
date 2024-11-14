@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00182.txt">
+  <feature name="about" authors="Sinclair, Bertrand W." title="The Hidden Places" lang="en" />
+  <feature name="md5Hash" value="f146c86c6955342176145b2c4538da9c" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5376" this_length="470" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="18255" this_length="242" />
+</document>
+

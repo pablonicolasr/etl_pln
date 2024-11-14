@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00294.txt">
+  <feature name="about" authors="Beale, Charles Willing" title="The Ghost of Guir House" lang="en" />
+  <feature name="md5Hash" value="d5fea40237eee0ea53f5e8af62f1aa98" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="25173" this_length="3234" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="172977" this_length="3997" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="188551" this_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="196961" this_length="528" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="209184" this_length="223" />
+</document>
+

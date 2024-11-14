@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00301.txt">
+  <feature name="about" authors="Ruskin, John" title="Frondes Agrestes Readings in 'Modern Painters'" lang="en" />
+  <feature name="md5Hash" value="521d630229c1cfe8da177e9856ca7754" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="13128" this_length="1492" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="62788" this_length="2906" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="110064" this_length="3735" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="176458" this_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="187829" this_length="252" />
+</document>
+

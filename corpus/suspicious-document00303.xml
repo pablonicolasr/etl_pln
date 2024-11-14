@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00303.txt">
+  <feature name="about" authors="Palmer, George Henry" title="Bell's Cathedrals: The Cathedral Church of Rochester A Description of its Fabric and a Brief History of the Episcopal See" lang="en" />
+  <feature name="md5Hash" value="18a147b1f848c2bccf2dec84ff7b45c4" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8617" this_length="16281" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="114502" this_length="20819" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="199778" this_length="2352" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="217473" this_length="4553" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="237764" this_length="1728" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="246257" this_length="1695" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="250157" this_length="240" />
+</document>
+

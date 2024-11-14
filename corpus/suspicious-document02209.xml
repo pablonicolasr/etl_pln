@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02209.txt">
+  <feature name="about" authors="McIvor-Tyndall, Alexander James" title="Cosmic Consciousness" lang="en" />
+  <feature name="md5Hash" value="0b0b6f47b90371ba8a3ddf23bb6f5986" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="69542" this_length="24662" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="211203" this_length="3550" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="247754" this_length="2774" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="259923" this_length="2806" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="283671" this_length="2959" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="315434" this_length="3445" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="346451" this_length="4325" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="363252" this_length="496" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="365492" this_length="253" />
+</document>
+

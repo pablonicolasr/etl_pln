@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01253.txt">
+  <feature name="about" authors="Sherlock, Thomas" title="Trial of the Witnesses of the Resurrection of Jesus" lang="en" />
+  <feature name="md5Hash" value="f4c8b354be00a4426c16d6fabf007a34" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4891" this_length="464" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="11189" this_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="19335" this_length="277" />
+</document>
+

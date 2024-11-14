@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00104.txt">
+  <feature name="about" authors="Grant, Ulysses Simpson" title="The Memoirs of General Ulysses S. Grant, Part 3." lang="en" />
+  <feature name="md5Hash" value="f00a68c528e0470afe71cb536457fcdb" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="24306" this_length="24000" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="173091" this_length="3736" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="193958" this_length="2807" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="209113" this_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="213263" this_length="1567" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="226911" this_length="1425" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="234402" this_length="2010" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="245250" this_length="479" />
+</document>
+

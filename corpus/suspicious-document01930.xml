@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01930.txt">
+  <feature name="about" authors="Bompas, Charlotte Selina" title="Owindia : a true tale of the MacKenzie River Indians, North-West America" lang="en" />
+  <feature name="md5Hash" value="2d3202d7fa96e9455956c451b521753f" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2603" this_length="487" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="27429" this_length="4005" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="50766" this_length="519" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="54844" this_length="808" />
+</document>
+

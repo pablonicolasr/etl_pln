@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00167.txt">
+  <feature name="about" authors="Mitchell, Silas Weir" title="Wear and Tear or, Hints for the Overworked" lang="en" />
+  <feature name="md5Hash" value="6733fe5c284d2debc42882509092b7e7" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="40779" this_length="2045" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="54166" this_length="500" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="59803" this_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="68472" this_length="779" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01132.txt">
+  <feature name="about" authors="Eastman, Charles Alexander" title="Indian Heroes and Great Chieftains" lang="en" />
+  <feature name="md5Hash" value="8b87d9d72a13e1a9c70ecdfc777d39dd" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16602" this_length="22334" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="124727" this_length="19057" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="213977" this_length="460" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="216049" this_length="795" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="220241" this_length="252" />
+</document>
+

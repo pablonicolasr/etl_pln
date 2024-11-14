@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01343.txt">
+  <feature name="about" authors="Hergesheimer, Joseph" title="Cytherea" lang="en" />
+  <feature name="md5Hash" value="390f685f3ddc0ab47291de620f8cea22" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="214769" this_length="21573" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="493721" this_length="1406" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="507882" this_length="252" />
+</document>
+

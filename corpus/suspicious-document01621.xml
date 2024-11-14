@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01621.txt">
+  <feature name="about" authors="Henty, George Alfred" title="No Surrender! A Tale of the Rising in La Vendee" lang="en" />
+  <feature name="md5Hash" value="9b202817788ecb93401db8d3c42761f8" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="145538" this_length="24622" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="311704" this_length="20527" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="359314" this_length="4569" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="398711" this_length="24974" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="582153" this_length="4211" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="606222" this_length="548" />
+</document>
+

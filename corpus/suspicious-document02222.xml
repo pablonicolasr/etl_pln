@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02222.txt">
+  <feature name="about" authors="Baden-Powell, Baden Henry" title="Creation and Its Records" lang="en" />
+  <feature name="md5Hash" value="932822f7c4fdfdb0a1f96d62fef31cbd" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="85217" this_length="18802" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="215369" this_length="4512" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="258129" this_length="1511" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="276866" this_length="3528" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="311713" this_length="488" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="325714" this_length="1474" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="334895" this_length="520" />
+</document>
+

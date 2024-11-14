@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01468.txt">
+  <feature name="about" authors="Carroll, Lewis" title="A Tangled Tale" lang="en" />
+  <feature name="md5Hash" value="015c39a15f18a65f33611543305b29a5" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="18437" this_length="16983" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="113377" this_length="4021" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="139815" this_length="697" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="143987" this_length="456" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="145914" this_length="709" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="151904" this_length="715" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="153930" this_length="202" />
+</document>
+

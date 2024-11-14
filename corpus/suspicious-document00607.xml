@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00607.txt">
+  <feature name="about" authors="Cobb, Irvin Shrewsbury" title="Fibble, D.D." lang="en" />
+  <feature name="md5Hash" value="251a3170edff3fb11acff414e0d6e5f5" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="37299" this_length="17060" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="185438" this_length="520" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="226131" this_length="4536" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="245221" this_length="1434" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="259065" this_length="799" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="266738" this_length="756" />
+</document>
+

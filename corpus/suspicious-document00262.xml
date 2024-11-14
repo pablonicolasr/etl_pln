@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00262.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The Man Who Kept His Money in a Box" lang="en" />
+  <feature name="md5Hash" value="cdcee1d8bf937d201f960ae3066f84d3" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3750" this_length="488" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5893" this_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="10722" this_length="516" />
+</document>
+

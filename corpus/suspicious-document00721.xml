@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00721.txt">
+  <feature name="about" authors="Hawthorne, Nathaniel" title="The Marble Faun - Volume 2 The Romance of Monte Beni" lang="en" />
+  <feature name="md5Hash" value="5c3a24e61aa855da71cb9bdb690a077a" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="51256" this_length="3469" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="138067" this_length="15682" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="418827" this_length="452" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="427151" this_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="432832" this_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="439604" this_length="258" />
+</document>
+

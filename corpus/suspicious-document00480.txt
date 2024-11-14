@@ -1,0 +1,282 @@
+﻿This is the only country where a unified air service has been adopted. In war the arrangement
+was successful. Against its continuance in peace the Army and Navy urge that, with the best
+of wills, there is a great difference between having an integral branch of a service to work
+with other services and having to deal with an independent organization, and argue increased
+cost, duplication, competition and disjointed action. There is no doubt that the liaison of
+the General, Naval and Air Staffs must be closened, and if co-operation with the senior services
+was really becoming less satisfactory, a return to the old system should be considered amongst
+other alternatives, but I do not think that it should be so. It must also be remembered that,
+although air co-operation is vital to naval and military operations, it is fortunately unlikely
+that there will be another war for a long time and, meanwhile, the growing essential, independent
+strategic action would be irretrievably impaired by the reabsorption of the Air into the Army
+and Navy.
+
+On the other hand, even apart from supply, such a reversion would also cause much duplication,
+e.g. training. The solution and the correct and logical outcome of the unification of the Air
+service is the close grouping of the three arms in a Ministry of Defence, and this, even in
+face of the obvious practical difficulties, should be adopted and co-ordination thus increased
+step by step. Apart from Supply, some of the services in which this could be effected are the
+medical, education, chaplains, mobilization stores, transport, works and buildings, accounting,
+communications, ordnance and national factories. A modified scheme might also be studied in
+which, under a Ministry of Defence, the Army and Navy each had tactical air units of seconded
+personnel for artillery co-operation, spotting and reconnaissance, and the Air Ministry dealt
+with supply, research, initial training and reserves, civil aviation and an independent air force.
+
+One of many good examples of the necessity of co-ordination is afforded by the position of
+the aircraft supply services at the beginning of the war and their development. We have already
+seen that there were some eight private firms manufacturing aircraft in a small way and there
+was practically speaking no engine industry at all. For the Royal Flying Corps, the War Office
+had relied largely on the Royal Aircraft Factory, and, although the methods of control adopted
+had many advantages, there was in them a tendency to retard private enterprise and development.
+The Admiralty, on the other hand, had assisted by dealing almost entirely with firms for Royal
+Naval Air Service supply. The conditions in France fortunately were very much better than those
+in this country, and for the first year or two French factories helped us out with both machines
+and engines. By the end of the war we had the largest and most efficient aircraft industry
+in the world. There were no less than seventy-six great factories turning out vast numbers
+of complete aeroplanes, in addition to thirty-three manufacturing complete engines and over
+3,000 turning out spares and equipment. Such expansion is not possible within a few weeks,
+it took a long time to arrive at this position, and it causes one very seriously to think what
+would have happened had France not been our ally, and points the moral which has been mentioned
+of the necessity for a thriving aircraft and engine industry in peace. During the war Germany
+also had a very large number of firms engaged on this work.
+
+THE MACHINE AND ENGINE.
+
+The general differences between service and civil requirements in aircraft fall under the headings
+of ceiling, load and speed. For service purposes very much higher ceiling and greater climb
+and speed are required and the design is much affected by the condensed nature of the load.
+For peace purposes, besides the primary advantage of speed which the air has over other forms
+of transport, regularity must be ensured and the correct ratio between speed, duration and
+load-carrying power determined. Great ceiling, man[oe]uvrability and climb are not required.
+
+However great the speed and load, there is no value in air transport, whether for passengers
+or mails or goods, unless it is safe and also compares favourably from an economic point of
+view with the older methods. Without these the public cannot be expected to utilize air transport,
+nor is there any inducement to surrender mails and freight for carriage by air. Every endeavour
+compatible with economy is made, as far as the equipment of aerodromes and the organization
+of the routes are concerned, to render air navigation as safe as possible, yet, though both
+safety and economy of running have been improved, much remains to be done. Safety depends largely
+on engine reliability, fire prevention and the capacity of the machine to land in small spaces.
+
+Though neither roads nor rails have to be laid and aircraft possess the great advantages of
+mobility and point to point transit, the initiation and maintenance of an air service is a
+very complex and costly matter. The utilization of converted war machines is no longer sufficient
+and those specially designed for commercial work are beginning to make their appearance. Such
+are the Handley Page W.8, the Vickers, the D.H.18 and 34, and the Bristol 10-seater.
+
+The first two are twin-engine and the last three single-engine machines. Opinions differ as
+to the relative advantages of the twin and single-engine type. The first and running costs
+of the single engine are lower, but the twin has greater power and carrying capacity, while
+most pilots prefer to have a surplus of power over and above that required for normal flight.
+For these reasons, and because of the psychological effect on insurance companies and on passengers,
+the twin engine will probably remain in use for large commercial machines, until long-lived
+and economic engines of more than 500 horse-power are available. On the other hand, where extra
+power is not required, the twin-engine is not safer than the single-engine machine; no existing
+twin-engine commercial aeroplane can maintain its height and land safely with only one engine
+running. Experiments have been made, especially in Germany, on the multi-engined machine with
+all the engines in the fuselage, but its advantages have so far been counterbalanced by loss
+of efficiency due to transmission gearing and shaft drives to the propellers and the vibration
+and weight of the gearing.
+
+High-powered engines are very expensive to run and every effort has therefore to be made by
+aerodynamic efficiency to carry more useful load with less horse-power. Improvement is being
+made in this direction; thus the D.H.18 carries eight passengers at 56 horse-power per passenger,
+the D.H.32 is designed for the same number at 45 horse-power each, and the D.H.34 for ten passengers
+at 45 horse-power each.
+
+The two best German commercial machines, the Junkers and the Fokker, have a comparatively low
+horse-power and a low fuel load, but greater attention has been paid to the design of the machines,
+which are monoplanes with cantilever wings, offering less resistance to the air than our biplanes.
+One of the most difficult problems is to evolve a high-lift wing which does not impair the
+aircraft's speed in the air. For commercial machines we must aim at the largest possible commercial
+load, the smallest possible fuel load and, consequently, an engine which uses fuel economically
+and, conversely, a lighter fuel. The development of the engine is receiving constant attention,
+as are also various safety devices, among which may be mentioned those guarding against fire
+and those varying the lift of wings so as to lower the landing speed and thus decrease the
+dangers attendant upon forced landings.
+
+In addition to the high initial cost of machines and engines, their maintenance also requires
+the greatest care. Detailed investigation must be made into all serious accidents. This is
+now compulsory under the new Air Navigation Act, and the fitness of pilots is ensured by periodical
+medical examination.
+
+Apart from the weather, the safety of an aircraft depends upon its engine, and perhaps even
+more upon the installation and accessibility of engines and their adjuncts, such as the petrol,
+oil, water and ignition systems. During the earlier stages of the war the average life of an
+engine before complete overhaul was necessary was, of stationary engines, from 50 to 60 hours,
+and of rotary engines, about 15 hours. To-day these figures stand at 200 hours and upwards
+and from 50 to 60 hours respectively. For commercial purposes this must be further increased
+to 300-500 hours as a normal working period.
+
+There are two schools of thought with regard to the efficiency, reliability and the economy
+of engines. One school advocates using a light power plant per horse-power, run normally at
+about half its maximum; the other favours a plant of greater weight, more solid construction
+and greater efficiency, running at nearly its full horse-power. The former is more expensive
+in primary cost and upkeep, but allows a higher performance and provides reserve horse-power
+for emergency; the latter is cheaper, but involves a certain risk owing to lack of surplus
+power. We have hitherto shown a tendency to adopt the former method, the Germans the latter.
+For commercial purposes a compromise will probably be found to be best.
+
+Apart from the initial outlay on "air stock," the maintenance, overhead, fuel, insurance and
+depreciation charges are very heavy. These are much affected by such items as simplicity of
+design, strength against wear and tear, ease of assembly and interchangeability of parts, easily
+removable engines, increase in durability by the use of metal construction for parts of the
+machine and the propeller, the elimination of rubber joints, substitution of air for water
+cooling, facilities for loading and unloading in a commercial machine, simple and efficient
+navigational instruments and self-starter. Every improvement, however small, will assist to
+reduce running costs. Then revenue must be increased and the comfort of passengers, as, for
+instance, ventilation, warmth, luggage capacity and, more than all, a reduction of noise has
+to be carefully considered or they will not travel a second time by air. An effective engine
+silencer is at last well on the way. It is obvious what a great advantage this attainment will
+be both for service and civil purposes. Roughly speaking, a high-powered engine without a silencer
+is audible at a distance of some seven miles and at a height of 13,000 feet at night time,
+though these distances are reduced by about a third by day when normal ground noises exist.
+The bulk of noise is caused by the exhaust, the propeller and mechanical noises in the engine.
+
+I cannot leave this subject without emphasizing the value of research, both abstract and concrete.
+But, though it is the keystone of progress, its results must largely depend on the amount of
+flying done. It is clear that for economic reasons new designs can only thoroughly be tried
+out by commercial use, and therefore again that real progress is dependent on commercial activity.
+
+The advance of civil aviation is bound to be slower than was that of war aviation. But, as
+war experience improved old and evolved new types, so will peace requirements and experience
+shape the type and design of aircraft and engine best suited to its purposes. Although a good
+deal has under the circumstances already been achieved in peace, much remains to be done. Gradually,
+however, with a modicum of research, improvements in the factors already mentioned and the
+reduction of initial cost and maintenance expenses, air transport for mails, passengers and
+goods will take its place as a normal commercial public utility service, and the increased
+speed of communication will assist in the general development of trade.
+
+AIR SERVICES: BRITISH, CONTINENTAL AND IMPERIAL.
+
+International civil flying commenced officially on August 26th, 1919, and gradually expanded,
+both in the United Kingdom and on the Continent, especially during the summer of 1920. France,
+aided by considerable subsidies, conducted services from Paris to London, Brussels and Strasburg,
+from Toulouse to Montpelier and across Spain to Casablanca in Morocco; Belgium, from Brussels
+to London and Paris; Holland, from Amsterdam to London; Germany, in spite of the restrictions
+placed upon her, entered the field as a competitor and her aircraft flew regularly from Berlin
+to Copenhagen and Bremen, and from Bremen to Amsterdam. On the American Continent, the United
+States Post Office ran mail services from New York to Washington, Chicago, and San Francisco,
+with extensions from Chicago, St. Paul, Minneapolis, and St. Louis.
+
+For reasons which I shall give, there were no internal services in the United Kingdom, but
+there were four companies operating air lines from London to Paris, one of which held the contract
+for the carriage of mails. There were also air mail services between London and Brussels and
+Amsterdam. The mileage flown and the number of passengers and the weight of goods carried were
+considerable, while the number of letters steadily increased, especially on the Amsterdam service;
+and an efficiency of 76 per cent., 94 per cent., and 84 per cent. was obtained on the London-Paris,
+London-Brussels, and London-Amsterdam services respectively.
+
+It must be remembered that these results were obtained without any direct assistance on the
+part of the State, such as was given by the French Government to air-transport companies in
+the form of subsidies. British economic policy is traditionally opposed to subsidies, believing
+that enterprise can be healthily built up on private initiative. Therefore, until 1921 civil
+aviation had to content itself with the indirect assistance of the State, which consisted mainly
+in the adjustment of international flying; the laying-out and equipment of aerodromes on the
+air routes; the provision of wireless communication and meteorological information; research
+and the collection and issue of general information concerning aviation.
+
+This indirect assistance, however, proved inadequate to maintain the progress achieved during
+1920, and therefore the maintenance of air services by means of temporary direct financial
+assistance had to be arranged.
+
+I have already pointed out the difficulty against which commercial aviation has to contend
+in regard to the geographical features and position of the United Kingdom. Its comparatively
+small size, the propinquity of industrial centres, our efficient day and night express railway
+services, especially those running north and south, lessen the value of aircraft's superior
+speed and militate against the operation of successful internal air services. Possible exceptions
+might include amphibian services between London and Dublin, accelerating the delivery of mails
+five or six hours; between Glasgow and Belfast, where the Clyde and the harbour of Belfast
+could be used as terminals; or between London and the Channel Islands. I may point out in parenthesis
+that the development of alighting stations on rivers passing through the centres of towns is
+important, as a great deal of time is at present wasted in reaching the aerodromes necessarily
+situated some miles outside large centres of population.
+
+Our immediate opportunities of development near home are therefore afforded by the air services
+to Paris, Brussels, and Amsterdam; but even here the saving in time is not great, and our position
+is unfavourable compared to that of the United States, where the Post Office saves two days
+in the delivery of mails by air between New York and San Francisco; or compared to that of
+Germany, where Berlin is within a 350-mile radius of Copenhagen, Cologne, Munich, Warsaw, and
+Vienna, which is itself in an advantageous situation as the junction for a South European system
+extending to the Balkan States and the Near East.
+
+The ultimate use of the air, however, is not exemplified by a few passengers flying daily between
+London and the Continent any more than by a few squadrons of fighting craft. In a decade or
+two overhead transit will become the main factor in the express delivery of passengers, mails,
+and goods. It is the one means left to the Empire of speeding up world-communication to an
+extent as yet unrealized. For the price of a battleship a route to Australia could be organized,
+the value of which would be beyond computation.
+
+The British Empire as a whole offers vast fields for expansion. In Africa, Canada, and Australia
+are found the great distances suitable to the operation of aircraft, the wide undeveloped areas
+through which air transport may prove more economic than the construction of railways, and
+the trans-oceanic routes over which travel by steamship has reached, and in many cases passed,
+its economic maximum speed. Air transport, careless whether the route be over land or sea,
+unhampered by foreign frontiers, gives the Empire precisely those essential powers of direct,
+supple, and speedy intercommunication which ship and rail have already shown us to be vital.
+
+Here again the geographical position of England presents a difficult problem. England is divided
+from the rest of the Empire by a wide expanse, either of ocean or foreign territory. Egypt,
+the starting-point for air routes to India, Australia, and South Africa, may be described as
+the centre of a circle of which England is on the circumference; and it may be some years before
+an aeroplane can complete the journey between England and Egypt with only Malta as a stopping-place.
+
+The future of long-distance oceanic air routes may depend upon the airship. Lighter-than-air
+craft, mainly for reasons of cost and vulnerability, did not receive such an impetus from the
+war as did the aeroplane, but the modern airship has claims for use over distances exceeding
+1,000 miles. It can fly by night with even greater ease than by day; fog is no deterrent; engine
+trouble does not bring it down; and it can take advantage of prevailing winds. It would reduce
+the sea journey from England to Karachi from 22 to 5 days; from England to Johannesburg from
+21 to 7 days; and from England to Perth from 32 to 10-1/2 days. Its achievements have already
+been considerable. In November, 1917, the German L.57 flew from Constantinople to East Africa
+and back--a distance of 4,000 miles--in 96 hours; in June, 1919, the R.34 flew from East Fortune
+to Danzig and back in 57 hours; and in July it crossed the Atlantic, was moored out in America
+for four days, and returned, a total distance of 8,000 miles, in the flying time of 108 hours
+for the outward and 75 hours for the homeward journey.
+
+Before and during the war Germany gained wide experience in the design, construction, and handling
+of airships. It is probable that as soon as the peace terms and financial position permit she
+will begin to establish this form of transport on a commercial basis. In accordance with the
+Peace Treaty, and the Ultimatum of the London Conference of 1921, the construction of aircraft
+of all kinds is at present forbidden, but Germany is fostering airship development by the means
+left at her disposal. Her scientists are probing the constructional problems connected with
+large airships, while efforts are being made, by financial and other assistance, to maintain
+her technical staffs and airship bases in existence. At the same time German commercial interests
+are negotiating with foreign countries with a view to the development of airships abroad, and
+plans are being discussed for an airship service between Spain and Argentina.
+
+The United States, France, and Italy are all interesting themselves, either financially or
+constructionally, in the future of airship development.
+
+In Great Britain we have made great strides, particularly in the construction of small types,
+and our practical air experience in lighter-than-air craft, during the war, is the greatest
+in the world. With a view to carrying out the experiments necessary further to demonstrate
+the capacity of airships for commercial long-distance flights, a few months ago the Department
+of Civil Aviation took over all airship material surplus to service requirements. The main
+object was to test the practicability and value of mooring airships to a mast. Up to the present,
+a principal factor militating against the economic operation of airships has been the large
+and expensive personnel required for handling them on the ground, especially in stormy weather.
+The mooring-mast experiments have had considerable success and airships have been moored in
+high winds and over long periods with the assistance of a very small personnel.
+
+The Government has decided, however, though recognizing their potentialities for speeding up
+communications between the various Dominions and the Mother Country, that the operation of
+airships cannot be carried out by the State on account of the present financial position.
+
+Recognizing the limitations of Home services and those to the Continent, it was for the purpose
+of directing attention to the Imperial aspect of civil aviation that the great demonstration
+flights were organized in which Alcock flew the Atlantic in a Vickers "Vimy," Scott crossed
+to the United States and back in the R.34, Ross-Smith flew from England to Australia, and van
+Ryneveld from London to the Cape.
+
+These flights necessitated, too, considerable ground organization in laying out aerodromes,
+as the following report on one in Africa vividly illustrates: "If aerodromes are left unattended
+for one year," it says, "practically all the work would have to be undertaken afresh, particularly
+in Rhodesia. The growth of vegetation is enormous, especially during the rains, and grass will
+grow to a height of eleven feet in six months; and trees stumped two feet below the surface
+will throw out suckers and replant themselves within a month after the rains have started....
+It is most important that rough drains should be traced.... I have just started planting Doub
+grass. This grass gives an ideal surface for landing, kills other grasses, and possesses deep
+interlacing roots which will bind the entire surface of the aerodromes, making it permanent
+and free from washaways and the formation of sluits."
+

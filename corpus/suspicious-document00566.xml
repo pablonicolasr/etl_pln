@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00566.txt">
+  <feature name="about" authors="Stevens, George T." title="Three Years in the Sixth Corps A Concise Narrative of Events in the Army of the Potomac, from 1861 to the Close of the Rebellion, April, 1865" lang="en" />
+  <feature name="md5Hash" value="2447b54c689a1dca36a9f63daa7aaa6a" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6164" this_length="480" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="13142" this_length="736" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="29648" this_length="254" />
+</document>
+

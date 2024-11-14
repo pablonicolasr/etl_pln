@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01055.txt">
+  <feature name="about" authors="Persky, Serge" title="Contemporary Russian Novelists" lang="en" />
+  <feature name="md5Hash" value="ce37a826fd199bb593095138836dd2eb" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="40349" this_length="15350" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="116248" this_length="24141" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="367621" this_length="15537" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="395325" this_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="396923" this_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="401224" this_length="778" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="403848" this_length="233" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00123.txt">
+  <feature name="about" authors="Work Projects Administration" title="Slave Narratives: a Folk History of Slavery in the United States From Interviews with Former Slaves Georgia Narratives, Part 4" lang="en" />
+  <feature name="md5Hash" value="e0b9d26cca41a0dca9fc97eaa6d3cd23" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="203571" this_length="23701" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="276223" this_length="3648" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="296828" this_length="806" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="303442" this_length="543" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="307658" this_length="244" />
+</document>
+

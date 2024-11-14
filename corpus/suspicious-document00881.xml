@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00881.txt">
+  <feature name="about" authors="Sedgwick, Anne Douglas" title="Amabel Channice" lang="en" />
+  <feature name="md5Hash" value="537b825b0a899e6717d23f98e25ac844" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="8057" this_length="16820" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="113580" this_length="19428" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="171732" this_length="16745" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="210622" this_length="1975" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="216313" this_length="659" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="219388" this_length="707" />
+</document>
+
